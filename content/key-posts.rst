@@ -15,11 +15,11 @@ key posts
 -  `favorite-of-career performances`_
 
 
-.. _top movies: http://tshepang.net/top-movies
-.. _top elements: http://tshepang.net/top-movie-elements
-.. _top characters: http://tshepang.net/top-movie-characters
-.. _top performances: http://tshepang.net/top-movie-performances
-.. _top visual effects: http://tshepang.net/top-visual-effects
-.. _yearly reviews: http://tshepang.net/tag/year-movie-review
-.. _best-of-career performances: http://tshepang.net/best-of-career-performances
-.. _favorite-of-career performances: http://tshepang.net/favorite-of-career-performances
+.. _top movies: http://movies.tshepang.net/top-movies
+.. _top elements: http://movies.tshepang.net/top-movie-elements
+.. _top characters: http://movies.tshepang.net/top-movie-characters
+.. _top performances: http://movies.tshepang.net/top-movie-performances
+.. _top visual effects: http://movies.tshepang.net/top-visual-effects
+.. _yearly reviews: http://movies.tshepang.net/tag/year-movie-review
+.. _best-of-career performances: http://movies.tshepang.net/best-of-career-performances
+.. _favorite-of-career performances: http://movies.tshepang.net/favorite-of-career-performances
