@@ -25,5 +25,5 @@ nice performance there, reminiscent of that of the superb `Peter
 Dinklage`_ in the excellent TV series, *Game of Thrones*), though,
 ironically, he is the racist in question, but later apologises for it.
 
-.. _Seven Psychopaths: http://tshepang.net/seven-psychopaths-2012
+.. _Seven Psychopaths: http://movies.tshepang.net/seven-psychopaths-2012
 .. _Peter Dinklage: http://en.wikipedia.org/wiki/Peter_Dinklage

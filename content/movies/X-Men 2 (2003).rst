@@ -19,5 +19,5 @@ One other thing is the movie is by far better than `the original`_, and
 in many ways. That is a strange fact, especially given it's the same
 director responsible. It is easily the best of the X-Men movies.
 
-.. _The Avengers: http://tshepang.net/the-avengers-2012
-.. _the original: http://tshepang.net/x-men-2000
+.. _The Avengers: http://movies.tshepang.net/the-avengers-2012
+.. _the original: http://movies.tshepang.net/x-men-2000

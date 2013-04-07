@@ -146,42 +146,42 @@ The **fall from glory** award goes to:
 -  `Perfume`_: It is sad that I used to consider this a
    near-masterpiece. It remains good, just nowhere near the top.
 
-.. _last year: http://tshepang.net/2011-movie-review
-.. _The Avengers: http://tshepang.net/the-avengers-2012
-.. _Battleship: http://tshepang.net/battleship-2012
-.. _Harry Potter and the Order of the Phoenix: http://tshepang.net/harry-potter-and-the-order-of-the-phoenix-2007
-.. _The Bourne Legacy: http://tshepang.net/the-bourne-legacy-2012
-.. _Haywire: http://tshepang.net/haywire-2011
-.. _Harry Potter and the Deathly Hallows, Part 1: http://tshepang.net/harry-potter-and-the-deathly-hallows-part-1
-.. _True Legend: http://tshepang.net/true-legend-2010
-.. _The Girl With the Dragon Tattoo: http://tshepang.net/the-girl-with-the-dragon-tattoo-2011
-.. _Harry Potter and the Half-Blood Prince: http://tshepang.net/harry-potter-and-the-half-blood-prince-2009
-.. _J. Edgar: http://tshepang.net/j-edgar-2011
-.. _The Bang Bang Club: http://tshepang.net/the-bang-bang-club-2010
-.. _The Science of Sleep: http://tshepang.net/the-science-of-sleep-2006
-.. _The Kids Are All Right: http://tshepang.net/the-kids-are-all-right-2010
-.. _Real Steel: http://tshepang.net/real-steel-2011
-.. _The Iron Lady: http://tshepang.net/the-iron-lady-2011
-.. _The Dark Knight Rises: http://tshepang.net/the-dark-knight-rises-2012
-.. _Missing: http://tshepang.net/missing-1982
+.. _last year: http://movies.tshepang.net/2011-movie-review
+.. _The Avengers: http://movies.tshepang.net/the-avengers-2012
+.. _Battleship: http://movies.tshepang.net/battleship-2012
+.. _Harry Potter and the Order of the Phoenix: http://movies.tshepang.net/harry-potter-and-the-order-of-the-phoenix-2007
+.. _The Bourne Legacy: http://movies.tshepang.net/the-bourne-legacy-2012
+.. _Haywire: http://movies.tshepang.net/haywire-2011
+.. _Harry Potter and the Deathly Hallows, Part 1: http://movies.tshepang.net/harry-potter-and-the-deathly-hallows-part-1
+.. _True Legend: http://movies.tshepang.net/true-legend-2010
+.. _The Girl With the Dragon Tattoo: http://movies.tshepang.net/the-girl-with-the-dragon-tattoo-2011
+.. _Harry Potter and the Half-Blood Prince: http://movies.tshepang.net/harry-potter-and-the-half-blood-prince-2009
+.. _J. Edgar: http://movies.tshepang.net/j-edgar-2011
+.. _The Bang Bang Club: http://movies.tshepang.net/the-bang-bang-club-2010
+.. _The Science of Sleep: http://movies.tshepang.net/the-science-of-sleep-2006
+.. _The Kids Are All Right: http://movies.tshepang.net/the-kids-are-all-right-2010
+.. _Real Steel: http://movies.tshepang.net/real-steel-2011
+.. _The Iron Lady: http://movies.tshepang.net/the-iron-lady-2011
+.. _The Dark Knight Rises: http://movies.tshepang.net/the-dark-knight-rises-2012
+.. _Missing: http://movies.tshepang.net/missing-1982
 .. _Dakota Goyo: http://en.wikipedia.org/wiki/Dakota_Goyo
-.. _Dark Shadows: http://tshepang.net/dark-shadows-2012
-.. _Change of Plans: http://tshepang.net/change-of-plans-2011
-.. _Please Give: http://tshepang.net/please-give-2009
-.. _The Hangover Part II: http://tshepang.net/the-hangover-part-ii-2011
-.. _Bad Teacher: http://tshepang.net/bad-teacher-2011
-.. _Bob the Butler: http://tshepang.net/bob-the-butler-2005
-.. _Zoolander: http://tshepang.net/zoolander-2001
-.. _A Streetcar Named Desire: http://tshepang.net/a-streetcar-named-desire-1951
-.. _The Dictator: http://tshepang.net/the-dictator-2012
-.. _Horrible Bosses: http://tshepang.net/horrible-bosses-2011
-.. _The Great Dictator: http://tshepang.net/the-great-dictator-1940
-.. _Gone Baby Gone: http://tshepang.net/gone-baby-gone-2008
-.. _Battle In Heaven: http://tshepang.net/battle-in-heaven-2005
-.. _Zombieland: http://tshepang.net/zombieland-2009
-.. _A Nightmare on Elm Street: http://tshepang.net/a-nightmare-on-elm-street-1984
-.. _Being John Malkovich: http://tshepang.net/being-john-malkovich-1999
-.. _near-masterpiece: http://tshepang.net/tag/near-masterpiece
-.. _Taken: http://tshepang.net/taken-2008
-.. _Vicky Cristina Barcelona: http://tshepang.net/vicky-cristina-barcelona-2008
-.. _Perfume: http://tshepang.net/perfume-2006
+.. _Dark Shadows: http://movies.tshepang.net/dark-shadows-2012
+.. _Change of Plans: http://movies.tshepang.net/change-of-plans-2011
+.. _Please Give: http://movies.tshepang.net/please-give-2009
+.. _The Hangover Part II: http://movies.tshepang.net/the-hangover-part-ii-2011
+.. _Bad Teacher: http://movies.tshepang.net/bad-teacher-2011
+.. _Bob the Butler: http://movies.tshepang.net/bob-the-butler-2005
+.. _Zoolander: http://movies.tshepang.net/zoolander-2001
+.. _A Streetcar Named Desire: http://movies.tshepang.net/a-streetcar-named-desire-1951
+.. _The Dictator: http://movies.tshepang.net/the-dictator-2012
+.. _Horrible Bosses: http://movies.tshepang.net/horrible-bosses-2011
+.. _The Great Dictator: http://movies.tshepang.net/the-great-dictator-1940
+.. _Gone Baby Gone: http://movies.tshepang.net/gone-baby-gone-2008
+.. _Battle In Heaven: http://movies.tshepang.net/battle-in-heaven-2005
+.. _Zombieland: http://movies.tshepang.net/zombieland-2009
+.. _A Nightmare on Elm Street: http://movies.tshepang.net/a-nightmare-on-elm-street-1984
+.. _Being John Malkovich: http://movies.tshepang.net/being-john-malkovich-1999
+.. _near-masterpiece: http://movies.tshepang.net/tag/near-masterpiece
+.. _Taken: http://movies.tshepang.net/taken-2008
+.. _Vicky Cristina Barcelona: http://movies.tshepang.net/vicky-cristina-barcelona-2008
+.. _Perfume: http://movies.tshepang.net/perfume-2006

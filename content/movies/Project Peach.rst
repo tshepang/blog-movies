@@ -12,4 +12,4 @@ preferred something as bizarre/dark as `Elephants Dream`_. [`update`_]
 
 .. _can go wrong: http://www.bigbuckbunny.org/index.php/woosh-the-deadline-passed-or-how-everything-that-can-go-wrong-does/
 .. _Elephants Dream: http://www.elephantsdream.org/
-.. _update: http://tshepang.net/project-peach-disappoints
+.. _update: http://movies.tshepang.net/project-peach-disappoints

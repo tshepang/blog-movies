@@ -15,5 +15,5 @@ annoying. None of the other performances are particularly good, except
 of course `the guy playing the caregiver`_, who never fucks up anyways.
 
 .. _The world's critics: http://www.rottentomatoes.com/m/1001240-arthur/
-.. _The sequel: http://tshepang.net/arthur-2011
+.. _The sequel: http://movies.tshepang.net/arthur-2011
 .. _the guy playing the caregiver: http://en.wikipedia.org/wiki/John_Gielgud

@@ -19,4 +19,4 @@ Goldblum performance didn't help either.
 
 .. _critics disliked this one: http://en.wikipedia.org/wiki/Man_of_the_Year_(2006_film)#Reception
 .. _Laura Linney: http://en.wikipedia.org/wiki/Laura_Linney
-.. _Kinsey: http://tshepang.net/kinsey-2004
+.. _Kinsey: http://movies.tshepang.net/kinsey-2004

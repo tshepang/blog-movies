@@ -160,20 +160,20 @@ most beautiful suicide scene
 
 -  *Wanted*
 
-.. _Requiem for a Dream: http://tshepang.net/requiem-for-a-dream-2000
-.. _J. Edgar: http://tshepang.net/j-edgar-2011
-.. _Apocalypto: http://tshepang.net/apocalypto-2006
-.. _Requiem for A Dream: http://tshepang.net/requiem-for-a-dream-2000
-.. _Sucker Punch: http://tshepang.net/sucker-punch-2011
-.. _Haywire: http://tshepang.net/haywire-2011
-.. _The Bourne Legacy: http://tshepang.net/the-bourne-legacy-2012
-.. _The Bourne Supremacy: http://tshepang.net/the-bourne-supremacy-2004
-.. _The Bourne Ultimatum: http://tshepang.net/the-bourne-ultimatum-2007
-.. _Limitless: http://tshepang.net/limitless-2011
-.. _Life is Beautiful: http://tshepang.net/many-many-recent-movies
-.. _Yellow Earth: http://tshepang.net/yellow-earth-1984
-.. _The Kite Runner: http://tshepang.net/many-many-recent-movies
-.. _Kinsey: http://tshepang.net/kinsey-2004
-.. _The Hurt Locker: http://tshepang.net/recent-movies-2010-05-06
-.. _Irréversible: http://tshepang.net/irreversible-2002
-.. _Children of the Corn: http://tshepang.net/children-of-the-corn-2009
+.. _Requiem for a Dream: http://movies.tshepang.net/requiem-for-a-dream-2000
+.. _J. Edgar: http://movies.tshepang.net/j-edgar-2011
+.. _Apocalypto: http://movies.tshepang.net/apocalypto-2006
+.. _Requiem for A Dream: http://movies.tshepang.net/requiem-for-a-dream-2000
+.. _Sucker Punch: http://movies.tshepang.net/sucker-punch-2011
+.. _Haywire: http://movies.tshepang.net/haywire-2011
+.. _The Bourne Legacy: http://movies.tshepang.net/the-bourne-legacy-2012
+.. _The Bourne Supremacy: http://movies.tshepang.net/the-bourne-supremacy-2004
+.. _The Bourne Ultimatum: http://movies.tshepang.net/the-bourne-ultimatum-2007
+.. _Limitless: http://movies.tshepang.net/limitless-2011
+.. _Life is Beautiful: http://movies.tshepang.net/many-many-recent-movies
+.. _Yellow Earth: http://movies.tshepang.net/yellow-earth-1984
+.. _The Kite Runner: http://movies.tshepang.net/many-many-recent-movies
+.. _Kinsey: http://movies.tshepang.net/kinsey-2004
+.. _The Hurt Locker: http://movies.tshepang.net/recent-movies-2010-05-06
+.. _Irréversible: http://movies.tshepang.net/irreversible-2002
+.. _Children of the Corn: http://movies.tshepang.net/children-of-the-corn-2009

@@ -15,4 +15,4 @@ moviemaking, exceeding that of the previous title-holder in which a
 jealous 'brother' challenged Jet Li's character, in *Fist of Legend*
 (`update`_), another work of Woo-Ping's choreography.
 
-.. _update: http://tshepang.net/revisiting-fearless
+.. _update: http://movies.tshepang.net/revisiting-fearless

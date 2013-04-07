@@ -18,4 +18,4 @@ One notable thing is Mark Ruffalo's lead detective, the movie's best
 performance. It's the kind of performance (vocal and physical) I've
 never seen before.
 
-.. _update: http://tshepang.net/revisiting-se7en
+.. _update: http://movies.tshepang.net/revisiting-se7en

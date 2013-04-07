@@ -40,4 +40,4 @@ So, overall this is a real joyful experience, and my complaints aren't major:
 `A Director's Cut version`__ was released in 2006, and I loved it too.
 
 
-__ http://tshepang.net/payback-straight-up-2006
+__ http://movies.tshepang.net/payback-straight-up-2006

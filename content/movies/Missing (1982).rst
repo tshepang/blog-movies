@@ -18,4 +18,4 @@ lesser overall. The subject matter is grim and the imagery horrific. The
 filmstock is of shitty quality sadly, perhaps a deliberate decision, to
 help make viewers feel unease.
 
-.. _Z (1969): http://tshepang.net/z-1969
+.. _Z (1969): http://movies.tshepang.net/z-1969

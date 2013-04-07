@@ -36,4 +36,4 @@ groundbreaking story, where the guys go on the basement of some club,
 does pay a homage to that of the prostitute murder in *Se7en*, which
 also takes place in some basement.
 
-.. _update: http://tshepang.net/revisiting-se7en
+.. _update: http://movies.tshepang.net/revisiting-se7en

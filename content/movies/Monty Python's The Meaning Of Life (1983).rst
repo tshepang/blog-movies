@@ -14,5 +14,5 @@ resorted to vomit humor, and the most disgusting in memory.
 This one was also disorganised as a whole movie, though not as much as
 `Holy Grail`_.
 
-.. _Life of Brian: http://tshepang.net/monty-pythons-life-of-brian-1979
-.. _Holy Grail: http://tshepang.net/monty-pythons-quest-for-the-holy-grail-1975
+.. _Life of Brian: http://movies.tshepang.net/monty-pythons-life-of-brian-1979
+.. _Holy Grail: http://movies.tshepang.net/monty-pythons-quest-for-the-holy-grail-1975

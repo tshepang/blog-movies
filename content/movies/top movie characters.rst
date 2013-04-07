@@ -89,17 +89,17 @@ airport checkpoint officer
 
 -  the humorless guy at airport checkpoint (`The Next Three Days`_)
 
-.. _Kinsey: http://tshepang.net/kinsey-2004
-.. _A Streetcar Named Desire: http://tshepang.net/a-streetcar-named-desire-1951
-.. _Avatar: http://tshepang.net/avatar-2009
-.. _Rango: http://tshepang.net/rango-2011
-.. _The Next Three Days: http://tshepang.net/the-next-three-days-2010
-.. _Silent Hill: http://tshepang.net/silent-hill-2006
+.. _Kinsey: http://movies.tshepang.net/kinsey-2004
+.. _A Streetcar Named Desire: http://movies.tshepang.net/a-streetcar-named-desire-1951
+.. _Avatar: http://movies.tshepang.net/avatar-2009
+.. _Rango: http://movies.tshepang.net/rango-2011
+.. _The Next Three Days: http://movies.tshepang.net/the-next-three-days-2010
+.. _Silent Hill: http://movies.tshepang.net/silent-hill-2006
 .. _Harry Porter and the Prisoner of Azkaban:
-    http://tshepang.net/harry-porter-and-the-prisoner-of-azkaban-2004
-.. _Silent Hill\: Revelation: http://tshepang.net/silent-hill-revelation-2012
-.. _Clash of the Titans: http://tshepang.net/clash-of-the-titans-2010
-.. _Sucker Punch: http://tshepang.net/sucker-punch-2011
-.. _9: http://tshepang.net/9-2009
-.. _Harry Porter and the Sorcerer's Stone: http://tshepang.net/harry-porter-and-the-sorcerers-stone-2001
-.. _`Afro Samurai: Resurrection`: http://tshepang.net/afro-samurai-resurrection-2009
+    http://movies.tshepang.net/harry-porter-and-the-prisoner-of-azkaban-2004
+.. _Silent Hill\: Revelation: http://movies.tshepang.net/silent-hill-revelation-2012
+.. _Clash of the Titans: http://movies.tshepang.net/clash-of-the-titans-2010
+.. _Sucker Punch: http://movies.tshepang.net/sucker-punch-2011
+.. _9: http://movies.tshepang.net/9-2009
+.. _Harry Porter and the Sorcerer's Stone: http://movies.tshepang.net/harry-porter-and-the-sorcerers-stone-2001
+.. _`Afro Samurai: Resurrection`: http://movies.tshepang.net/afro-samurai-resurrection-2009

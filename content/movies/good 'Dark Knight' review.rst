@@ -29,5 +29,5 @@ checking out, and among my favorites:
     a great character to get stuck in.
 
 .. _a real good Dark Knight review: http://www.ruthlessreviews.com/742/dark-knight-the
-.. _than I could manage: http://tshepang.net/the-dark-knight-and-the-joker
+.. _than I could manage: http://movies.tshepang.net/the-dark-knight-and-the-joker
 .. _a hater review: http://www.ruthlessreviews.com/746/dark-knight-the-2

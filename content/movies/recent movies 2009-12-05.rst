@@ -22,5 +22,5 @@ limited in terms of talent but not charisma; Quentin Tarantino is a
 weirdo who possesses the freedom (perhaps too much) to paint whatever he
 pleases on screen, and luckily got the talent.
 
-.. _are superior: http://tshepang.net/top-visual-effects
-.. _Transformers: http://tshepang.net/transformers-2007
+.. _are superior: http://movies.tshepang.net/top-visual-effects
+.. _Transformers: http://movies.tshepang.net/transformers-2007

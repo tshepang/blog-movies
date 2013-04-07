@@ -151,24 +151,24 @@ Beginning; Things We Lost in the Fire; Three Colours Red; Three Colours
 White; Torque; Trapped; Truth About Love, The; Unfaithful; War; We Are
 Marshall; Weather Man; Zoom
 
-.. _Cloverfield: http://tshepang.net/recent-movies-2008-12-15
-.. _Taken: http://tshepang.net/taken-2008
-.. _The Lake House: http://tshepang.net/recent-movies-2008-02-25
-.. _Children of Men: http://tshepang.net/recent-movies-2008-05-28
-.. _No Country for Old Men: http://tshepang.net/no-country-for-old-men-2007
-.. _Hairspray: http://tshepang.net/recent-movies-2008-05-19
-.. _Kinsey: http://tshepang.net/kinsey-2004
-.. _Persona: http://tshepang.net/persona-1966
-.. _The Squid & the Whale: http://tshepang.net/recent-movies-2008-11-06
-.. _30 Days of Night: http://tshepang.net/recent-movies-2008-02-01
-.. _`Step Up 2: The Streets`: http://tshepang.net/recent-movies-2008-12-15
-.. _Shooter: http://tshepang.net/shooter-2007
-.. _Vacancy: http://tshepang.net/recent-movies-2008-06-26
-.. _Final Fantasy VII - Advent Children: http://tshepang.net/final-fantasy-vii-advent-children-2005
-.. _Kung Fu Panda: http://tshepang.net/recent-movies-2008-07-10
-.. _The Forbidden Kingdom: http://tshepang.net/recent-movies-2008-10-12
-.. _Planet Terror: http://tshepang.net/planet-terror-2007
-.. _Confidence: http://tshepang.net/confidence-2002
-.. _these: http://tshepang.net/tag/2008-movie
-.. _The New World: http://tshepang.net/the-new-world-2005
-.. _Silent Hill: http://tshepang.net/silent-hill-2006
+.. _Cloverfield: http://movies.tshepang.net/recent-movies-2008-12-15
+.. _Taken: http://movies.tshepang.net/taken-2008
+.. _The Lake House: http://movies.tshepang.net/recent-movies-2008-02-25
+.. _Children of Men: http://movies.tshepang.net/recent-movies-2008-05-28
+.. _No Country for Old Men: http://movies.tshepang.net/no-country-for-old-men-2007
+.. _Hairspray: http://movies.tshepang.net/recent-movies-2008-05-19
+.. _Kinsey: http://movies.tshepang.net/kinsey-2004
+.. _Persona: http://movies.tshepang.net/persona-1966
+.. _The Squid & the Whale: http://movies.tshepang.net/recent-movies-2008-11-06
+.. _30 Days of Night: http://movies.tshepang.net/recent-movies-2008-02-01
+.. _`Step Up 2: The Streets`: http://movies.tshepang.net/recent-movies-2008-12-15
+.. _Shooter: http://movies.tshepang.net/shooter-2007
+.. _Vacancy: http://movies.tshepang.net/recent-movies-2008-06-26
+.. _Final Fantasy VII - Advent Children: http://movies.tshepang.net/final-fantasy-vii-advent-children-2005
+.. _Kung Fu Panda: http://movies.tshepang.net/recent-movies-2008-07-10
+.. _The Forbidden Kingdom: http://movies.tshepang.net/recent-movies-2008-10-12
+.. _Planet Terror: http://movies.tshepang.net/planet-terror-2007
+.. _Confidence: http://movies.tshepang.net/confidence-2002
+.. _these: http://movies.tshepang.net/tag/2008-movie
+.. _The New World: http://movies.tshepang.net/the-new-world-2005
+.. _Silent Hill: http://movies.tshepang.net/silent-hill-2006

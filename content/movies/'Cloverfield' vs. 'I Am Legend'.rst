@@ -26,4 +26,4 @@ is however more than well-compensated by the wonderful acting and
 direction, all pretty realistic, and that's before the unnamed monster
 begins its rampage.
 
-.. _I Am Legend: http://tshepang.net/i-am-legend
+.. _I Am Legend: http://movies.tshepang.net/i-am-legend

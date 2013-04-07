@@ -23,5 +23,5 @@ also good directing, script, and acting, and there's a nice cameo by
 Samuel L. Jackson, a normally uninteresting guy whose only other work I
 appreciate is `Pulp Fiction`_. The villain is a pleasure to watch.
 
-.. _newer review: http://tshepang.net/recent-movies-2010-10-25
-.. _Pulp Fiction: http://tshepang.net/300-the-visual-masterpiece-pulp-fiction-the-ex-masterpiece
+.. _newer review: http://movies.tshepang.net/recent-movies-2010-10-25
+.. _Pulp Fiction: http://movies.tshepang.net/300-the-visual-masterpiece-pulp-fiction-the-ex-masterpiece

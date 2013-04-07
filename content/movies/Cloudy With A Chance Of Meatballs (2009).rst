@@ -30,5 +30,5 @@ Okay, back to the good stuff:
 -  The food design is great. It reminds me of *Ratatouille*, and even
    rivals it. The most amazing of them all is the ice cream.
 
-.. _Megamind: http://tshepang.net/megamind-2010
-.. _unappreciative: http://tshepang.net/unforgiving-characters-are-annoying
+.. _Megamind: http://movies.tshepang.net/megamind-2010
+.. _unappreciative: http://movies.tshepang.net/unforgiving-characters-are-annoying

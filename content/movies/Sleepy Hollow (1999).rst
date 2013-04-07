@@ -16,4 +16,4 @@ caricatures of the villagers, especially the priest; Tim Burton is
 master of caricatures, and I love quality caricatures. His imagery and
 atmosphere is also great.
 
-.. _*Alice In Wonderland*: http://tshepang.net/alice-in-wonderland-2010
+.. _*Alice In Wonderland*: http://movies.tshepang.net/alice-in-wonderland-2010

@@ -26,4 +26,4 @@ dies). Sounds like desperate writing to me.
 
 An `earlier review`_ of another in the series.
 
-.. _earlier review: http://tshepang.net/recent-movies-2008-10-12
+.. _earlier review: http://movies.tshepang.net/recent-movies-2008-10-12

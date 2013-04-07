@@ -173,12 +173,12 @@ Labyrinth; Perfect Man, The; Pursuit of Happiness, The; Searchers, The;
 She's the Man; Sleeping Bride; Star Wrek; Sum of All Fears, The; Throne
 of Blood; Time Bandits; Troy
 
-.. _2005: http://tshepang.net/2005-movie-review
-.. _2006: http://tshepang.net/2006-movie-review
-.. _Apocalypto: http://tshepang.net/apocalypto-2006
-.. _Smokin' Aces: http://tshepang.net/smokin-aces-2006
-.. _Munich: http://tshepang.net/munich-2005
-.. _Fracture: http://tshepang.net/fracture-2007
-.. _Beowulf: http://tshepang.net/beowulf-2007
-.. _The Bourne Ultimatum: http://tshepang.net/the-bourne-ultimatum-2007
-.. _these: http://tshepang.net/tag/2007-movie
+.. _2005: http://movies.tshepang.net/2005-movie-review
+.. _2006: http://movies.tshepang.net/2006-movie-review
+.. _Apocalypto: http://movies.tshepang.net/apocalypto-2006
+.. _Smokin' Aces: http://movies.tshepang.net/smokin-aces-2006
+.. _Munich: http://movies.tshepang.net/munich-2005
+.. _Fracture: http://movies.tshepang.net/fracture-2007
+.. _Beowulf: http://movies.tshepang.net/beowulf-2007
+.. _The Bourne Ultimatum: http://movies.tshepang.net/the-bourne-ultimatum-2007
+.. _these: http://movies.tshepang.net/tag/2007-movie

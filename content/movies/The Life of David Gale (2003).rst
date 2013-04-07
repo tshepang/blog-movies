@@ -23,4 +23,4 @@ the ever-drunk lead character found in `Crazy Heart`_ at the hand of his
 lover.
 
 
-.. _Crazy Heart: http://tshepang.net/crazy-heart-2009
+.. _Crazy Heart: http://movies.tshepang.net/crazy-heart-2009

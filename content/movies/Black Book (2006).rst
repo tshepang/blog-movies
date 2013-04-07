@@ -19,5 +19,5 @@ feels like... there isn't anything remarkable.
 
 
 .. _interesting comparison: http://www.jonathanrosenbaum.com/?p=5780
-.. _Schindler's List: http://tshepang.net/schindlers-list-1993
-.. _Mata Hari: http://tshepang.net/mata-hari-1931
+.. _Schindler's List: http://movies.tshepang.net/schindlers-list-1993
+.. _Mata Hari: http://movies.tshepang.net/mata-hari-1931

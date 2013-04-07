@@ -23,5 +23,5 @@ I was afraid a revisit would disappoint of course, especially because
 this was the remaining newly-watched movie I labeled `excellent`_ in the
 entire year... it was going to be the best movie of the year.
 
-.. _Se7en: http://tshepang.net/revisiting-se7en
-.. _excellent: http://tshepang.net/tag/excellent
+.. _Se7en: http://movies.tshepang.net/revisiting-se7en
+.. _excellent: http://movies.tshepang.net/tag/excellent

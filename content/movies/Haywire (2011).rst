@@ -18,4 +18,4 @@ would have been happier with a bigger budget, though am glad there
 wasn't a car chase scene, or at least not one at the ridiculous scale of
 so many action movies.
 
-.. _Salt: http://tshepang.net/salt-2010
+.. _Salt: http://movies.tshepang.net/salt-2010

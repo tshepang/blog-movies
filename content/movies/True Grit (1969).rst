@@ -14,4 +14,4 @@ superior visuals of anything like that.
 I also do not get the appeal of John Wayne; why did anyone thinks he's
 any interesting.
 
-.. _a far better movie: http://tshepang.net/true-grit-2010
+.. _a far better movie: http://movies.tshepang.net/true-grit-2010

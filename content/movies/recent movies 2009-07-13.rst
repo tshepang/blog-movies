@@ -43,4 +43,4 @@ his dream. Victoria Abril is a pleasure to watch (as usual) playing an
 equally broken character, though maybe a bit worse since she also
 doesn't know what she wants.
 
-.. _Dr. Strangelove: http://tshepang.net/dr-strangelove-1964
+.. _Dr. Strangelove: http://movies.tshepang.net/dr-strangelove-1964

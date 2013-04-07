@@ -13,4 +13,4 @@ this one, we are given the unexciting sea-storm as the star. By the way,
 the first scene which `I once praised`_, doesn't pack quite as much a
 punch as when I saw it first time around.
 
-.. _I once praised: http://tshepang.net/pirates-of-the-caribbean-3
+.. _I once praised: http://movies.tshepang.net/pirates-of-the-caribbean-3

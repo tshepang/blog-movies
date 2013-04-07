@@ -120,34 +120,34 @@ Superhero Movie; Taste of Cherry; Tie Me Up, Tie Me Down; Traitor;
 Valkyrie; Wind Will Carry Us, The; Wrestler, The; Xiao Wu; Zack & Miri
 Make A Porno
 
-.. _Zatoichi: http://tshepang.net/zatoichi
-.. _District 9: http://tshepang.net/district-9-2009
-.. _Baise-moi: http://tshepang.net/baise-moi-2000
-.. _Bamboozled: http://tshepang.net/bamboozled-2000
-.. _Changeling: http://tshepang.net/recent-movies-2009-03-06
-.. _Watchmen: http://tshepang.net/watchmen-2009
+.. _Zatoichi: http://movies.tshepang.net/zatoichi
+.. _District 9: http://movies.tshepang.net/district-9-2009
+.. _Baise-moi: http://movies.tshepang.net/baise-moi-2000
+.. _Bamboozled: http://movies.tshepang.net/bamboozled-2000
+.. _Changeling: http://movies.tshepang.net/recent-movies-2009-03-06
+.. _Watchmen: http://movies.tshepang.net/watchmen-2009
 .. _Raffaëla Anderson: http://en.wikipedia.org/wiki/Raffa%C3%ABla_Anderson
-.. _There Will Be Blood: http://tshepang.net/there-will-be-blood-2007
-.. _Seven Pounds: http://tshepang.net/recent-movies-2009-04-14
-.. _Network: http://tshepang.net/recent-movies-2009-07-13
-.. _The Curious Case of Benjamin Button: http://tshepang.net/finchers-most-pointless-yet
-.. _Body of Lies: http://tshepang.net/recent-movies-2009-04-14
-.. _Midnight Cowboy: http://tshepang.net/recent-movies-2009-07-13
-.. _Still Life: http://tshepang.net/recent-movies-2009-09-30
-.. _Avatar: http://tshepang.net/avatar-2009
-.. _Small Soldiers: http://tshepang.net/small-soldiers-1998
-.. _2012: http://tshepang.net/recent-movies-2009-12-05
-.. _Transformers 2: http://tshepang.net/transformers-revenge-of-the-fallen-2009
-.. _Terminator Salvation: http://tshepang.net/terminator-salvation-2009
-.. _Shoot 'Em Up: http://tshepang.net/recent-movies-2009-03-06
-.. _Law-Abiding Citizen: http://tshepang.net/law-abiding-citizen
-.. _You Don't Mess With the Zohan: http://tshepang.net/many-recent-movies-2009-02-27
-.. _Wall-E: http://tshepang.net/many-recent-movies-2009-02-27
-.. _Sponge Bob: http://tshepang.net/recent-movies-2009-10-23
-.. _Quantum of Solace: http://tshepang.net/quantum-of-solace-2008
-.. _Ghost Dog: http://tshepang.net/ghost-dog
-.. _Monsters vs. Aliens: http://tshepang.net/recent-movies-2009-09-30
-.. _Yellow Earth: http://tshepang.net/yellow-earth-1984
-.. _The World: http://tshepang.net/more-of-jia
-.. _Rock 'n Rolla: http://tshepang.net/recent-movies-2009-03-06
-.. _these: http://tshepang.net/tag/2009-movie/
+.. _There Will Be Blood: http://movies.tshepang.net/there-will-be-blood-2007
+.. _Seven Pounds: http://movies.tshepang.net/recent-movies-2009-04-14
+.. _Network: http://movies.tshepang.net/recent-movies-2009-07-13
+.. _The Curious Case of Benjamin Button: http://movies.tshepang.net/finchers-most-pointless-yet
+.. _Body of Lies: http://movies.tshepang.net/recent-movies-2009-04-14
+.. _Midnight Cowboy: http://movies.tshepang.net/recent-movies-2009-07-13
+.. _Still Life: http://movies.tshepang.net/recent-movies-2009-09-30
+.. _Avatar: http://movies.tshepang.net/avatar-2009
+.. _Small Soldiers: http://movies.tshepang.net/small-soldiers-1998
+.. _2012: http://movies.tshepang.net/recent-movies-2009-12-05
+.. _Transformers 2: http://movies.tshepang.net/transformers-revenge-of-the-fallen-2009
+.. _Terminator Salvation: http://movies.tshepang.net/terminator-salvation-2009
+.. _Shoot 'Em Up: http://movies.tshepang.net/recent-movies-2009-03-06
+.. _Law-Abiding Citizen: http://movies.tshepang.net/law-abiding-citizen
+.. _You Don't Mess With the Zohan: http://movies.tshepang.net/many-recent-movies-2009-02-27
+.. _Wall-E: http://movies.tshepang.net/many-recent-movies-2009-02-27
+.. _Sponge Bob: http://movies.tshepang.net/recent-movies-2009-10-23
+.. _Quantum of Solace: http://movies.tshepang.net/quantum-of-solace-2008
+.. _Ghost Dog: http://movies.tshepang.net/ghost-dog
+.. _Monsters vs. Aliens: http://movies.tshepang.net/recent-movies-2009-09-30
+.. _Yellow Earth: http://movies.tshepang.net/yellow-earth-1984
+.. _The World: http://movies.tshepang.net/more-of-jia
+.. _Rock 'n Rolla: http://movies.tshepang.net/recent-movies-2009-03-06
+.. _these: http://movies.tshepang.net/tag/2009-movie/

@@ -20,8 +20,8 @@ Anyways here's a list of works of excellent works that fit the bill:
 -  `Payback`_
 -  `Requiem for A Dream`_
 
-.. _Being John Malkovich: http://tshepang.net/being-john-malkovich-1999
-.. _Dr. Strangelove: http://tshepang.net/dr-strangelove-1964
-.. _Requiem for A Dream: http://tshepang.net/requiem-for-a-dream-2000
-.. _Payback: http://tshepang.net/payback-1999
-.. _Lord of War: http://tshepang.net/lord-of-war-2005
+.. _Being John Malkovich: http://movies.tshepang.net/being-john-malkovich-1999
+.. _Dr. Strangelove: http://movies.tshepang.net/dr-strangelove-1964
+.. _Requiem for A Dream: http://movies.tshepang.net/requiem-for-a-dream-2000
+.. _Payback: http://movies.tshepang.net/payback-1999
+.. _Lord of War: http://movies.tshepang.net/lord-of-war-2005

@@ -48,4 +48,4 @@ flick, The Texas Chainsaw Massacre: The Beginning. And The Forbidden
 Kingdom needs to be hidden away from the eyes of all, even though I
 `enjoyed it more previously`_.
 
-.. _enjoyed it more previously: http://tshepang.net/recent-movies-2008-05-28
+.. _enjoyed it more previously: http://movies.tshepang.net/recent-movies-2008-05-28

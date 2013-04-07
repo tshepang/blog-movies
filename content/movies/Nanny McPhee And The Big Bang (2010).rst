@@ -20,4 +20,4 @@ senior in the military was quite powerful.
    bothered.
 -  I hate `the original`_.
 
-.. _the original: http://tshepang.net/nanny-mcphee-2005
+.. _the original: http://movies.tshepang.net/nanny-mcphee-2005

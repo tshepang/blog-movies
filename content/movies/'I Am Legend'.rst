@@ -17,4 +17,4 @@ direction possibly causing many to catch a nap. And by the way, the
 movie also leaves one salivating for more because it's so good,
 therefore feeling too short at 100 minutes.
 
-.. _newer review: http://tshepang.net/revisiting-i-am-legend
+.. _newer review: http://movies.tshepang.net/revisiting-i-am-legend

@@ -17,4 +17,4 @@ foreign culture, which is a real nice break from Hollywood.
 
 How lucky was I to experience this 'inaccessible' movie!
 
-[**sidenote**] `newer review <http://tshepang.net/recent-revisits-2010-08-15>`_
+[**sidenote**] `newer review <http://movies.tshepang.net/recent-revisits-2010-08-15>`_

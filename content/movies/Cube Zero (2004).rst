@@ -22,6 +22,6 @@ desperate attempt to portray an eccentric evil character, far less
 successful than the a character he reminds me of: the genius scientist
 in `Afro Samurai: Resurrection`_.
 
-.. _the first: http://tshepang.net/cube-1997
-.. _the second: http://tshepang.net/cube-2-hypercube
-.. _`Afro Samurai: Resurrection`: http://tshepang.net/afro-samurai-resurrection-2009
+.. _the first: http://movies.tshepang.net/cube-1997
+.. _the second: http://movies.tshepang.net/cube-2-hypercube
+.. _`Afro Samurai: Resurrection`: http://movies.tshepang.net/afro-samurai-resurrection-2009

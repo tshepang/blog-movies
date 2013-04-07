@@ -12,4 +12,4 @@ Sadly, he gives the only interesting performance in the movie. Luckily,
 the movie makes up for this with various hilarious moments, one favorite
 being the playing-with-fire scene.
 
-.. _the most interesting performance of his career: http://tshepang.net/favorite-of-career-performances
+.. _the most interesting performance of his career: http://movies.tshepang.net/favorite-of-career-performances

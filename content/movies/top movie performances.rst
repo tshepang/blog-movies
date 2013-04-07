@@ -46,12 +46,12 @@ witch
 
 -  Naomi Harris (*Pirates of the Caribbean: Dead Man's Chest*)
 
-.. _There Will Be Blood: http://tshepang.net/there-will-be-blood-2007
-.. _Rabbit Hole: http://tshepang.net/rabbit-hole-2010
+.. _There Will Be Blood: http://movies.tshepang.net/there-will-be-blood-2007
+.. _Rabbit Hole: http://movies.tshepang.net/rabbit-hole-2010
 .. _Dillon Freasier: http://en.wikipedia.org/wiki/Dillon_Freasier
-.. _Dr. Strangelove: http://tshepang.net/dr-strangelove-1964
-.. _Smokin' Aces: http://tshepang.net/smokin-aces-2006
-.. _Precious: http://tshepang.net/precious-2009
+.. _Dr. Strangelove: http://movies.tshepang.net/dr-strangelove-1964
+.. _Smokin' Aces: http://movies.tshepang.net/smokin-aces-2006
+.. _Precious: http://movies.tshepang.net/precious-2009
 .. _Lennie James: http://en.wikipedia.org/wiki/Lennie_James
-.. _The Next Three Days: http://tshepang.net/the-next-three-days-2010
-.. _Payback: http://tshepang.net/payback-1999
+.. _The Next Three Days: http://movies.tshepang.net/the-next-three-days-2010
+.. _Payback: http://movies.tshepang.net/payback-1999

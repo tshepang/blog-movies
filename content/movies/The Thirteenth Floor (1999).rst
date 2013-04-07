@@ -15,4 +15,4 @@ as was the case with Amy Smart as cashier in `The Butterfly Effect`_,
 another movie which tackled the alternative reality concept.
 
 
-.. _The Butterfly Effect: http://tshepang.net/the-butterfly-effect-2004
+.. _The Butterfly Effect: http://movies.tshepang.net/the-butterfly-effect-2004

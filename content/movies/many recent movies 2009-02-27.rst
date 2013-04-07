@@ -33,4 +33,4 @@ tough guy, but none with the flair of *You Don't Mess With the Zohan*, a
 weird and exciting fantasy/satire regarding middle-Eastern peoples. The
 only comparably-excellent movie Adam has been in is *Punch-Drunk Love*.
 
-.. _Requiem for A Dream: http://tshepang.net/requiem-for-a-dream-2000
+.. _Requiem for A Dream: http://movies.tshepang.net/requiem-for-a-dream-2000

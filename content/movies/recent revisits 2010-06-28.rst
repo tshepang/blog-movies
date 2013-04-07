@@ -26,4 +26,4 @@ Lynch`_, the highly-suspicious suspect. This `performance I honored last
 time`_ wasn't fit for a revisit.
 
 .. _John Carroll Lynch: http://en.wikipedia.org/wiki/John_Carroll_Lynch
-.. _performance I honored last time: http://tshepang.net/zodiac-and-david-fincher
+.. _performance I honored last time: http://movies.tshepang.net/zodiac-and-david-fincher

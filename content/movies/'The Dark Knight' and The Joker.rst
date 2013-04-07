@@ -39,4 +39,4 @@ magnificent *Batman Begins*.
 
 [`update`_]
 
-.. _update: http://tshepang.net/recent-movies-2008-12-27
+.. _update: http://movies.tshepang.net/recent-movies-2008-12-27

@@ -18,6 +18,6 @@ Here are some examples:
 -  `Robot`_
 -  `The Green Hornet`_
 
-.. _Cloudy With A Chance Of Meatballs: http://tshepang.net/cloudy-with-a-chance-of-meatballs-2009
-.. _Robot: http://tshepang.net/robot-2010
-.. _The Green Hornet: http://tshepang.net/the-green-hornet-2011
+.. _Cloudy With A Chance Of Meatballs: http://movies.tshepang.net/cloudy-with-a-chance-of-meatballs-2009
+.. _Robot: http://movies.tshepang.net/robot-2010
+.. _The Green Hornet: http://movies.tshepang.net/the-green-hornet-2011

@@ -16,4 +16,4 @@ subplot involving the love interest was a waste of time, although it was
 well-made, as is the movie in general.
 
 .. _Lennie James: http://en.wikipedia.org/wiki/Lennie_James
-.. _The Next Three Days: http://tshepang.net/the-next-three-days-2010
+.. _The Next Three Days: http://movies.tshepang.net/the-next-three-days-2010

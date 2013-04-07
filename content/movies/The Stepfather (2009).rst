@@ -22,4 +22,4 @@ The Stepfather (2009)
 
 `The earlier movie`_ is much better.
 
-.. _The earlier movie: http://tshepang.net/the-stepfather-1987
+.. _The earlier movie: http://movies.tshepang.net/the-stepfather-1987

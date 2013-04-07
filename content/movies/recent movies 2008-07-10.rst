@@ -16,4 +16,4 @@ abomination' and is far better than its shitty predecessor. The scenic
 (and abused) views of the massive Latin American slums are memorable.
 [`update`_]
 
-.. _update: http://tshepang.net/recent-movies-2008-12-27
+.. _update: http://movies.tshepang.net/recent-movies-2008-12-27

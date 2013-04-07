@@ -16,5 +16,5 @@ praised`_, remained impressive still.
 Emma Thompson, though appearing briefly, does offer the movie's most
 electrifying performance. The Jodie Foster lookalike ain't bad either.
 
-.. _older review: http://tshepang.net/i-am-legend
-.. _heavily praised: http://tshepang.net/i-am-legend
+.. _older review: http://movies.tshepang.net/i-am-legend
+.. _heavily praised: http://movies.tshepang.net/i-am-legend

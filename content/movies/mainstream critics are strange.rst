@@ -19,5 +19,5 @@ It was even more perplexing to find anyone honoring Rashomon_ at all.
 
 
 .. _Sight & Sound list: http://www.bfi.org.uk/news/50-greatest-films-all-time
-.. _Tokyo Story: http://tshepang.net/tokyo-story-1953
-.. _Rashomon: http://tshepang.net/rashomon-1950
+.. _Tokyo Story: http://movies.tshepang.net/tokyo-story-1953
+.. _Rashomon: http://movies.tshepang.net/rashomon-1950

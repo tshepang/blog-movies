@@ -46,5 +46,5 @@ Anyways, the entire concept is god-damn silly, but then *The Matrix*
 managed to get away with its own silly concept (machines 'farming' human
 energy; WTF) by being better elsewhere.
 
-.. _Pirates of the Caribbean 3: http://tshepang.net/pirates-of-the-caribbean-3
-.. _Spiderman 3: http://tshepang.net/spider-man-3-2007
+.. _Pirates of the Caribbean 3: http://movies.tshepang.net/pirates-of-the-caribbean-3
+.. _Spiderman 3: http://movies.tshepang.net/spider-man-3-2007

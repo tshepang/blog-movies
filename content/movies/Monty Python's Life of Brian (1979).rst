@@ -15,4 +15,4 @@ character of Brian's mom.
 Luckily, unlike `Holy Grail`_, it doesn't feel too much like a
 collection of gags.
 
-.. _Holy Grail: http://tshepang.net/monty-pythons-quest-for-the-holy-grail-1975
+.. _Holy Grail: http://movies.tshepang.net/monty-pythons-quest-for-the-holy-grail-1975

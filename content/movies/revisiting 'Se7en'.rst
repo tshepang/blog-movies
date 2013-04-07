@@ -73,4 +73,4 @@ been drowning in the last fews years. `The good things I once praised it
 for`_ still stand though.
 
 
-.. _The good things I once praised it for: http://tshepang.net/pivotal-moments-in-se7en
+.. _The good things I once praised it for: http://movies.tshepang.net/pivotal-moments-in-se7en

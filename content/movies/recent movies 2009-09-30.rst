@@ -17,4 +17,4 @@ sub-standard fare until the US president shows up, the prison warder,
 and a whole bunch of other characters, adding serious comic punch. It's
 however way too quirky, like no one involved wanted any awards.
 
-.. _Platform: http://tshepang.net/recent-ex-anticipated-movies
+.. _Platform: http://movies.tshepang.net/recent-ex-anticipated-movies

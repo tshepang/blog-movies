@@ -14,4 +14,4 @@ based for similar reasons. But I relented, and in turn got punished by
 Regarding the story, the musings regarding sexual/romantic relationships
 are quite sickening (think `*Eat Pray Love*`_).
 
-.. _*Eat Pray Love*: http://tshepang.net/eat-pray-love-2010
+.. _*Eat Pray Love*: http://movies.tshepang.net/eat-pray-love-2010

@@ -30,6 +30,6 @@ it must have been mere excitement, resulting from freshness...
 another instance of `The case of 'The Matrix Reloaded'`_.
 
 
-.. _The case of 'The Matrix Reloaded': http://tshepang.net/the-case-of-the-matrix-reloaded
+.. _The case of 'The Matrix Reloaded': http://movies.tshepang.net/the-case-of-the-matrix-reloaded
 .. _Pyramid Head: http://en.wikipedia.org/wiki/Pyramid_Head
 .. _nurses: http://silenthill.wikia.com/wiki/Nurse

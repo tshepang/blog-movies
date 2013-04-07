@@ -17,4 +17,4 @@ excite me as much as it did first time around;
 It was my most favorite from among `the movies I saw first time in 2006`__.
 
 
-__ http://tshepang.net/2006-movie-review
+__ http://movies.tshepang.net/2006-movie-review

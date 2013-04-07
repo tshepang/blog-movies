@@ -30,5 +30,5 @@ movie, but there's nothing really groundbreaking.
 physical look of Athena (basically the president of the city) so much?
 She's not even recognizable.
 
-.. _the first movie: http://tshepang.net/appleseed-2004
-.. _previously: http://tshepang.net/appleseed-2004
+.. _the first movie: http://movies.tshepang.net/appleseed-2004
+.. _previously: http://movies.tshepang.net/appleseed-2004

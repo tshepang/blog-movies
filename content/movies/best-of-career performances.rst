@@ -32,12 +32,12 @@ best-of-career performances
 
 related: `favorite-of-career performances`_
 
-.. _Changeling: http://tshepang.net/recent-movies-2009-03-06
-.. _Memento: http://tshepang.net/memento-2000
-.. _The King's Speech: http://tshepang.net/the-kings-speech-2010
-.. _The Rainmaker: http://tshepang.net/the-rainmaker-1997
-.. _favorite-of-career: http://tshepang.net/favorite-of-career-performances
-.. _Rabbit Hole: http://tshepang.net/rabbit-hole-2010
-.. _Vicky Cristina Barcelona: http://tshepang.net/vicky-cristina-barcelona-2008
-.. _Wit: http://tshepang.net/wit-2001
-.. _favorite-of-career performances: http://tshepang.net/favorite-of-career-performances
+.. _Changeling: http://movies.tshepang.net/recent-movies-2009-03-06
+.. _Memento: http://movies.tshepang.net/memento-2000
+.. _The King's Speech: http://movies.tshepang.net/the-kings-speech-2010
+.. _The Rainmaker: http://movies.tshepang.net/the-rainmaker-1997
+.. _favorite-of-career: http://movies.tshepang.net/favorite-of-career-performances
+.. _Rabbit Hole: http://movies.tshepang.net/rabbit-hole-2010
+.. _Vicky Cristina Barcelona: http://movies.tshepang.net/vicky-cristina-barcelona-2008
+.. _Wit: http://movies.tshepang.net/wit-2001
+.. _favorite-of-career performances: http://movies.tshepang.net/favorite-of-career-performances

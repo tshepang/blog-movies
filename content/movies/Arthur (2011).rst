@@ -20,6 +20,6 @@ made annoyingly uptight, since it had to fit in with that formula I
 mentioned.
 
 .. _Russell Brand: http://en.wikipedia.org/wiki/Russell_Brand
-.. _one of 2011's best performances: http://tshepang.net/2011-movie-review
-.. _Get Him to the Greek: http://tshepang.net/get-him-to-the-greek-2010
-.. _the formula that too many Hollywood romantic comedies tend to adopt: http://tshepang.net/the-unbearable-hollywood-romantic-comedy-formula
+.. _one of 2011's best performances: http://movies.tshepang.net/2011-movie-review
+.. _Get Him to the Greek: http://movies.tshepang.net/get-him-to-the-greek-2010
+.. _the formula that too many Hollywood romantic comedies tend to adopt: http://movies.tshepang.net/the-unbearable-hollywood-romantic-comedy-formula

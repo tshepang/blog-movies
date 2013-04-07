@@ -57,5 +57,5 @@ most impressive of all 3D animated films so far, and also blessed with a
 wonderful and fresh script.
 
 
-.. _The Triplets of Belleville: http://tshepang.net/the-triplets-of-belleville-2003
-.. _The Life of David Gale: http://tshepang.net/the-life-of-david-gale-2003
+.. _The Triplets of Belleville: http://movies.tshepang.net/the-triplets-of-belleville-2003
+.. _The Life of David Gale: http://movies.tshepang.net/the-life-of-david-gale-2003

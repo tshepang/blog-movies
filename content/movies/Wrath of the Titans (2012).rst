@@ -13,4 +13,4 @@ less exciting. The new character of the son of Poseidon is interesting;
 Andromeda, the queen of the human army, is given a miscast and
 uninteresting performance by Rosamund Pike,
 
-.. _the previous movie: http://tshepang.net/clash-of-the-titans-2010
+.. _the previous movie: http://movies.tshepang.net/clash-of-the-titans-2010

@@ -26,4 +26,4 @@ sequel would be another discovered tape, maybe with a bigger budget.
 Here's me salivating on what could be an extremely satisfying franchise.
 I just so much wish no one will fuck up the idea.
 
-.. _I Am Legend: http://tshepang.net/revisiting-i-am-legend
+.. _I Am Legend: http://movies.tshepang.net/revisiting-i-am-legend

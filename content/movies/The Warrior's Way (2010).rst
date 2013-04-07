@@ -54,4 +54,4 @@ villain are unconvincing, while the movie's best performance is that of
 the guy playing head of the ninjas.
 
 .. _a quality review: http://www.screendaily.com/reviews/the-warriors-way/5021277.article
-.. _Case of The Matrix Reloaded: http://tshepang.net/the-case-of-the-matrix-reloaded
+.. _Case of The Matrix Reloaded: http://movies.tshepang.net/the-case-of-the-matrix-reloaded

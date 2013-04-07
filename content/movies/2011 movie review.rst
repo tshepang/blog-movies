@@ -203,66 +203,66 @@ Here's the runner-ups:
 For a complete list of the movies I reviewed for the year, visit the
 `2011-movies tag`_.
 
-.. _Megamind: http://tshepang.net/megamind-2010
-.. _4 Months, 3 Weeks and 2 Days: http://tshepang.net/4-months-3-weeks-and-2-days-2007
-.. _Crimson Gold: http://tshepang.net/crimson-gold-2003
-.. _The Cat In The Hat: http://tshepang.net/the-cat-in-the-hat-2003
-.. _Downfall: http://tshepang.net/downfall-2004
-.. _Kung Fu Panda 2: http://tshepang.net/kung-fu-panda-2-2011
-.. _Rabbit Hole: http://tshepang.net/rabbit-hole-2010
-.. _Sex, Lies, and Videotape: http://tshepang.net/sex-lies-and-videotape-1989
-.. _Tangled: http://tshepang.net/tangled-2010
-.. _Unknown: http://tshepang.net/unknown-2011
-.. _The Seventh Seal: http://tshepang.net/the-seventh-seal-1957
-.. _The Kings's Speech: http://tshepang.net/the-kings-speech-2010
-.. _Shelter: http://tshepang.net/shelter-2010
-.. _Orphan: http://tshepang.net/orphan-2009
-.. _`The Chronicles of Narnia: The Voyage of the Dawn Treader`: http://tshepang.net/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader-2010
-.. _Sucker Punch: http://tshepang.net/sucker-punch-2011
-.. _`Percy Jackson & The Olympians: The Lightning Thief`: http://tshepang.net/percy-jackson-the-olympians-the-lightning-thief-2010
-.. _`Tron: Legacy`: http://tshepang.net/tron-legacy-2010
-.. _Super 8: http://tshepang.net/super-8-2011
-.. _`The Chronicles of Narnia: Prince Caspian`: http://tshepang.net/the-chronicles-of-narnia-prince-caspian-2008
+.. _Megamind: http://movies.tshepang.net/megamind-2010
+.. _4 Months, 3 Weeks and 2 Days: http://movies.tshepang.net/4-months-3-weeks-and-2-days-2007
+.. _Crimson Gold: http://movies.tshepang.net/crimson-gold-2003
+.. _The Cat In The Hat: http://movies.tshepang.net/the-cat-in-the-hat-2003
+.. _Downfall: http://movies.tshepang.net/downfall-2004
+.. _Kung Fu Panda 2: http://movies.tshepang.net/kung-fu-panda-2-2011
+.. _Rabbit Hole: http://movies.tshepang.net/rabbit-hole-2010
+.. _Sex, Lies, and Videotape: http://movies.tshepang.net/sex-lies-and-videotape-1989
+.. _Tangled: http://movies.tshepang.net/tangled-2010
+.. _Unknown: http://movies.tshepang.net/unknown-2011
+.. _The Seventh Seal: http://movies.tshepang.net/the-seventh-seal-1957
+.. _The Kings's Speech: http://movies.tshepang.net/the-kings-speech-2010
+.. _Shelter: http://movies.tshepang.net/shelter-2010
+.. _Orphan: http://movies.tshepang.net/orphan-2009
+.. _`The Chronicles of Narnia: The Voyage of the Dawn Treader`: http://movies.tshepang.net/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader-2010
+.. _Sucker Punch: http://movies.tshepang.net/sucker-punch-2011
+.. _`Percy Jackson & The Olympians: The Lightning Thief`: http://movies.tshepang.net/percy-jackson-the-olympians-the-lightning-thief-2010
+.. _`Tron: Legacy`: http://movies.tshepang.net/tron-legacy-2010
+.. _Super 8: http://movies.tshepang.net/super-8-2011
+.. _`The Chronicles of Narnia: Prince Caspian`: http://movies.tshepang.net/the-chronicles-of-narnia-prince-caspian-2008
 .. _exoskeletons: http://en.wikipedia.org/wiki/Powered_exoskeleton
-.. _`G.I. Joe: The Rise of Cobra`: http://tshepang.net/gi-joe-the-rise-of-cobra-2009
-.. _Gulliver's Travels: http://tshepang.net/gullivers-travels-2010
-.. _Toy Story 3: http://tshepang.net/toy-story-3-2010
-.. _Rango: http://tshepang.net/rango-2011
-.. _Legend of the Guardians: http://tshepang.net/legend-of-the-guardians-the-owls-of-gahoole-2010
-.. _9: http://tshepang.net/9-2009
+.. _`G.I. Joe: The Rise of Cobra`: http://movies.tshepang.net/gi-joe-the-rise-of-cobra-2009
+.. _Gulliver's Travels: http://movies.tshepang.net/gullivers-travels-2010
+.. _Toy Story 3: http://movies.tshepang.net/toy-story-3-2010
+.. _Rango: http://movies.tshepang.net/rango-2011
+.. _Legend of the Guardians: http://movies.tshepang.net/legend-of-the-guardians-the-owls-of-gahoole-2010
+.. _9: http://movies.tshepang.net/9-2009
 .. _exoskeleton: http://en.wikipedia.org/wiki/Powered_exoskeleton
-.. _The Green Hornet: http://tshepang.net/the-green-hornet-2011
+.. _The Green Hornet: http://movies.tshepang.net/the-green-hornet-2011
 .. _Andie MacDowell: http://en.wikipedia.org/wiki/Andie_MacDowell
 .. _Jon de Lancie: http://en.wikipedia.org/wiki/John_de_Lancie
-.. _Pathology: http://tshepang.net/pathology-2008
+.. _Pathology: http://movies.tshepang.net/pathology-2008
 .. _Miles Teller: http://en.wikipedia.org/wiki/Miles_Teller
-.. _Contagion: http://tshepang.net/contagion-2011
-.. _Fair Game: http://tshepang.net/fair-game-2010
+.. _Contagion: http://movies.tshepang.net/contagion-2011
+.. _Fair Game: http://movies.tshepang.net/fair-game-2010
 .. _Lennie James: http://en.wikipedia.org/wiki/Lennie_James
-.. _The Next Three Days: http://tshepang.net/the-next-three-days-2010
+.. _The Next Three Days: http://movies.tshepang.net/the-next-three-days-2010
 .. _Russell Brand: http://en.wikipedia.org/wiki/Russell_Brand
-.. _Get Him to the Greek: http://tshepang.net/get-him-to-the-greek-2010
-.. _The Warrior's Way: http://tshepang.net/the-warriors-way-2010
+.. _Get Him to the Greek: http://movies.tshepang.net/get-him-to-the-greek-2010
+.. _The Warrior's Way: http://movies.tshepang.net/the-warriors-way-2010
 .. _Sandra Oh: http://en.wikipedia.org/wiki/Sandra_Oh
 .. _Shirley MacLaine: http://en.wikipedia.org/wiki/Shirley_MacLaine
-.. _Being There: http://tshepang.net/being-there-1979
+.. _Being There: http://movies.tshepang.net/being-there-1979
 .. _Teri Hatcher: http://en.wikipedia.org/wiki/Teri_Hatcher
-.. _Tango & Cash: http://tshepang.net/tango-cash-1989
+.. _Tango & Cash: http://movies.tshepang.net/tango-cash-1989
 .. _Jill Schoelen: http://en.wikipedia.org/wiki/Jill_Schoelen
-.. _The Stepfather: http://tshepang.net/the-stepfather-1987
-.. _According to Greta: http://tshepang.net/according-to-greta-2009
-.. _She's Out of My League: http://tshepang.net/shes-out-of-my-league-2010
-.. _Nacho Libre: http://tshepang.net/nacho-libre-2006
-.. _Nanny McPhee And The Big Bang: http://tshepang.net/nanny-mcphee-and-the-big-bang-2010
-.. _Shrek Forever After: http://tshepang.net/shrek-forever-after-2010
-.. _Bill & Ted's Bogus Journey: http://tshepang.net/bill-teds-bogus-journey-1991
-.. _Brewster's Millions: http://tshepang.net/brewsters-millions-1985
-.. _Semi-Pro: http://tshepang.net/semi-pro-2008
-.. _Dark Matter: http://tshepang.net/dark-matter-2007
-.. _Sunset Boulevard: http://tshepang.net/sunset-boulevard-1950
-.. _All About Eve: http://tshepang.net/all-about-eve-1950
-.. _Requiem for A Dream: http://tshepang.net/requiem-for-a-dream-2000
-.. _Mandingo: http://tshepang.net/mandingo-1975
-.. _The Bourne Supremacy: http://tshepang.net/the-bourne-supremacy-2004
-.. _Bill & Ted's Excellent Adventure: http://tshepang.net/bill-teds-excellent-adventure-1989
-.. _2011-movies tag: http://tshepang.net/tag/2011-movie
+.. _The Stepfather: http://movies.tshepang.net/the-stepfather-1987
+.. _According to Greta: http://movies.tshepang.net/according-to-greta-2009
+.. _She's Out of My League: http://movies.tshepang.net/shes-out-of-my-league-2010
+.. _Nacho Libre: http://movies.tshepang.net/nacho-libre-2006
+.. _Nanny McPhee And The Big Bang: http://movies.tshepang.net/nanny-mcphee-and-the-big-bang-2010
+.. _Shrek Forever After: http://movies.tshepang.net/shrek-forever-after-2010
+.. _Bill & Ted's Bogus Journey: http://movies.tshepang.net/bill-teds-bogus-journey-1991
+.. _Brewster's Millions: http://movies.tshepang.net/brewsters-millions-1985
+.. _Semi-Pro: http://movies.tshepang.net/semi-pro-2008
+.. _Dark Matter: http://movies.tshepang.net/dark-matter-2007
+.. _Sunset Boulevard: http://movies.tshepang.net/sunset-boulevard-1950
+.. _All About Eve: http://movies.tshepang.net/all-about-eve-1950
+.. _Requiem for A Dream: http://movies.tshepang.net/requiem-for-a-dream-2000
+.. _Mandingo: http://movies.tshepang.net/mandingo-1975
+.. _The Bourne Supremacy: http://movies.tshepang.net/the-bourne-supremacy-2004
+.. _Bill & Ted's Excellent Adventure: http://movies.tshepang.net/bill-teds-excellent-adventure-1989
+.. _2011-movies tag: http://movies.tshepang.net/tag/2011-movie

@@ -191,29 +191,29 @@ Gift, The; The Unborn; Up; Wall Street; War, Inc; What Doesn't Kill You;
 World's Greatest Dad; Smokin' Aces 2; The Expendables; August Rush;
 Karate Kid; Skin
 
-.. _Precious: http://tshepang.net/precious-2009
-.. _Somewhere: http://tshepang.net/somewhere-2010
-.. _Inception: http://tshepang.net/many-many-recent-movies
-.. _The A-Team: http://tshepang.net/recent-movies-2010-09-15
-.. _Brooklyn's Finest: http://tshepang.net/many-many-recent-movies
-.. _An Education: http://tshepang.net/recent-movies-2010-05-06
-.. _The Social Network: http://tshepang.net/the-social-network-2010
-.. _The Kite Runner: http://tshepang.net/many-many-recent-movies
-.. _Takers: http://tshepang.net/many-many-recent-movies
-.. _Memento: http://tshepang.net/memento-2000
-.. _The Job: http://tshepang.net/recent-movies-2010-11-19
-.. _Sophie's Choice: http://tshepang.net/recent-movies-2010-11-19
-.. _Invictus: http://tshepang.net/recent-movies-2010-11-19
-.. _Salt: http://tshepang.net/salt-2010
-.. _Clash of the Titans: http://tshepang.net/clash-of-the-titans-2010
-.. _Iron Man 2: http://tshepang.net/recent-movies-2010-05-06
-.. _Superman: http://tshepang.net/many-many-recent-movies
-.. _`Afro Samurai: Resurrection`: http://tshepang.net/afro-samurai-resurrection-2009
-.. _The Hurt Locker: http://tshepang.net/recent-movies-2010-05-06
-.. _Smokin' Aces: http://tshepang.net/smokin-aces-2006
-.. _Se7en: http://tshepang.net/revisiting-se7en
-.. _Malcolm X: http://tshepang.net/recent-movies-2010-11-19
-.. _Human Nature: http://tshepang.net/many-many-recent-movies
-.. _Shane: http://tshepang.net/many-many-recent-movies
-.. _Batman: http://tshepang.net/many-many-recent-movies
-.. _these: http://tshepang.net/tag/2010-movie/
+.. _Precious: http://movies.tshepang.net/precious-2009
+.. _Somewhere: http://movies.tshepang.net/somewhere-2010
+.. _Inception: http://movies.tshepang.net/many-many-recent-movies
+.. _The A-Team: http://movies.tshepang.net/recent-movies-2010-09-15
+.. _Brooklyn's Finest: http://movies.tshepang.net/many-many-recent-movies
+.. _An Education: http://movies.tshepang.net/recent-movies-2010-05-06
+.. _The Social Network: http://movies.tshepang.net/the-social-network-2010
+.. _The Kite Runner: http://movies.tshepang.net/many-many-recent-movies
+.. _Takers: http://movies.tshepang.net/many-many-recent-movies
+.. _Memento: http://movies.tshepang.net/memento-2000
+.. _The Job: http://movies.tshepang.net/recent-movies-2010-11-19
+.. _Sophie's Choice: http://movies.tshepang.net/recent-movies-2010-11-19
+.. _Invictus: http://movies.tshepang.net/recent-movies-2010-11-19
+.. _Salt: http://movies.tshepang.net/salt-2010
+.. _Clash of the Titans: http://movies.tshepang.net/clash-of-the-titans-2010
+.. _Iron Man 2: http://movies.tshepang.net/recent-movies-2010-05-06
+.. _Superman: http://movies.tshepang.net/many-many-recent-movies
+.. _`Afro Samurai: Resurrection`: http://movies.tshepang.net/afro-samurai-resurrection-2009
+.. _The Hurt Locker: http://movies.tshepang.net/recent-movies-2010-05-06
+.. _Smokin' Aces: http://movies.tshepang.net/smokin-aces-2006
+.. _Se7en: http://movies.tshepang.net/revisiting-se7en
+.. _Malcolm X: http://movies.tshepang.net/recent-movies-2010-11-19
+.. _Human Nature: http://movies.tshepang.net/many-many-recent-movies
+.. _Shane: http://movies.tshepang.net/many-many-recent-movies
+.. _Batman: http://movies.tshepang.net/many-many-recent-movies
+.. _these: http://movies.tshepang.net/tag/2010-movie/

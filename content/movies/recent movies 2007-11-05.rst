@@ -44,4 +44,4 @@ cops in `Payback`_; the dirty cop here wants a piece of action in
 return for not arresting Al Pacino's character same as those in *Payback*.
 Hilarious stuff actually.
 
-.. _Payback: http://tshepang.net/payback-1999
+.. _Payback: http://movies.tshepang.net/payback-1999

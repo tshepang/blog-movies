@@ -19,4 +19,4 @@ The Stepfather (1987)
    remake..
 -  Not fun enough... sleep-inducing.
 
-.. _its remake: http://tshepang.net/the-stepfather-2009
+.. _its remake: http://movies.tshepang.net/the-stepfather-2009

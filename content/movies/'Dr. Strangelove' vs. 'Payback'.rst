@@ -29,5 +29,5 @@ compared to Gregg Henry's Val Resnick, the one who betrayed `Payback`_
 lead.
 
 
-.. _Dr. Strangelove: http://tshepang.net/dr-strangelove-1964
-.. _Payback: http://tshepang.net/payback-1999
+.. _Dr. Strangelove: http://movies.tshepang.net/dr-strangelove-1964
+.. _Payback: http://movies.tshepang.net/payback-1999

@@ -17,9 +17,9 @@ Being fresh, eye-popping, and immersive helps
    `Transformers: Dark of the Moon`_
 9. Independence Day
 
-.. _The Avengers: http://tshepang.net/the-avengers-2012
-.. _Avatar: http://tshepang.net/avatar-2009
-.. _Battleship: http://tshepang.net/battleship-2012
-.. _Transformers: http://tshepang.net/transformers-2007
-.. _`Transformers: Revenge of the Fallen`: http://tshepang.net/transformers-revenge-of-the-fallen-2009
-.. _`Transformers: Dark of the Moon`: http://tshepang.net/transformers-dark-of-the-moon-2011
+.. _The Avengers: http://movies.tshepang.net/the-avengers-2012
+.. _Avatar: http://movies.tshepang.net/avatar-2009
+.. _Battleship: http://movies.tshepang.net/battleship-2012
+.. _Transformers: http://movies.tshepang.net/transformers-2007
+.. _`Transformers: Revenge of the Fallen`: http://movies.tshepang.net/transformers-revenge-of-the-fallen-2009
+.. _`Transformers: Dark of the Moon`: http://movies.tshepang.net/transformers-dark-of-the-moon-2011

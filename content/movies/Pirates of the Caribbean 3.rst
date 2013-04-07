@@ -32,12 +32,12 @@ Pretty decent entertainment after all, but then I already saw
 `Apocalypto`_, `Fearless`_ [`update`_], and `300`_ so far this year,
 which still stand to be beaten, though none have visual effects matching
 this pirates movie, and I doubt there will be this year
-[`update <http://tshepang.net/transformers-2007>`__], which will
+[`update <http://movies.tshepang.net/transformers-2007>`__], which will
 result in this being a reluctant winner in that department.
 
-.. _before: http://tshepang.net/davey-jones-vs-kong
-.. _`update: 03 Mar 2008`: http://tshepang.net/revisiting-pirates-of-the-caribbean-3
-.. _Apocalypto: http://tshepang.net/apocalypto-2006
-.. _Fearless: http://tshepang.net/fearless
-.. _update: http://tshepang.net/revisiting-fearless
-.. _300: http://tshepang.net/300-the-visual-masterpiece-pulp-fiction-the-ex-masterpiece
+.. _before: http://movies.tshepang.net/davey-jones-vs-kong
+.. _`update: 03 Mar 2008`: http://movies.tshepang.net/revisiting-pirates-of-the-caribbean-3
+.. _Apocalypto: http://movies.tshepang.net/apocalypto-2006
+.. _Fearless: http://movies.tshepang.net/fearless
+.. _update: http://movies.tshepang.net/revisiting-fearless
+.. _300: http://movies.tshepang.net/300-the-visual-masterpiece-pulp-fiction-the-ex-masterpiece

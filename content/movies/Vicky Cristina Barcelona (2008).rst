@@ -17,5 +17,5 @@ favorite of her performances`_. I guess the main appeal of the movie is
 the concept of open relationships (and frank sex talk), hence the
 mention in `my discussion of the topic`_.
 
-.. _my favorite of her performances: http://tshepang.net/favorite-of-career-performances
-.. _my discussion of the topic: http://tshepang.net/me-sex-and-popular-media
+.. _my favorite of her performances: http://movies.tshepang.net/favorite-of-career-performances
+.. _my discussion of the topic: http://movies.tshepang.net/me-sex-and-popular-media

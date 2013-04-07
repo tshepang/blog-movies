@@ -32,4 +32,4 @@ carries a face that is too sad to bear, even when she smiles. The movie
 isn't as gritty as the first time I watched it, but I still like the
 rescue scene, where the heroic officer expresses superiority.
 
-.. _older review: http://tshepang.net/zatoichi
+.. _older review: http://movies.tshepang.net/zatoichi

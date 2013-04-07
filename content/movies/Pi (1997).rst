@@ -18,5 +18,5 @@ experiencing (**update**: `an explanation was given`_). The movie starts
 a lot better than it ends, and although made by a stylistic
 master-director, there was at least two sleep-inducing moments.
 
-.. _Requiem for A Dream: http://tshepang.net/requiem-for-a-dream-2000
+.. _Requiem for A Dream: http://movies.tshepang.net/requiem-for-a-dream-2000
 .. _an explanation was given: http://movies.stackexchange.com/a/9540/105

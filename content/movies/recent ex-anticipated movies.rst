@@ -19,4 +19,4 @@ It turned out to lack any interesting characters and story. It's a
 fucking mystery that anyone liked (or made) it.
 
 
-__ http://tshepang.net/best-movie-critic-jonathan-rosenbaum
+__ http://movies.tshepang.net/best-movie-critic-jonathan-rosenbaum

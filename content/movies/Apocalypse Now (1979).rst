@@ -59,5 +59,5 @@ that's a careless statement, but my memory is hardly ever impressive.
 -  The cut I watched is the one released in 2001, fully titled
    *Apocalypse Now Redux*.
 
-.. _Seven Samurai: http://tshepang.net/seven-samurai-1954
+.. _Seven Samurai: http://movies.tshepang.net/seven-samurai-1954
 .. _excellent (and negative) review: http://www.time.com/time/printout/0,8816,920572,00.html

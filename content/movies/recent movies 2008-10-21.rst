@@ -33,4 +33,4 @@ One thing that attracted me to *Closer* is Mike Nichol's attachment as
 director and he here crafts a movie of gorgeous sets and camerawork
 armed with a fresh and original storyline, albeit depressing.
 
-.. _Planet Terror: http://tshepang.net/planet-terror-2007
+.. _Planet Terror: http://movies.tshepang.net/planet-terror-2007

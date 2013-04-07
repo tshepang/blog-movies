@@ -21,4 +21,4 @@ makes the movie feel like passive entertainment, and the destruction
 that happens in the movie's final action sequence is way too much. Why
 the noise?
 
-.. _and ungrateful: http://tshepang.net/unforgiving-characters-are-annoying
+.. _and ungrateful: http://movies.tshepang.net/unforgiving-characters-are-annoying

@@ -21,5 +21,5 @@ plane follow, is impressive; the dialog is incredible.
 Have a look at `a comparison`_ between this classic and a much younger
 `Payback`_.
 
-.. _a comparison: http://tshepang.net/dr-strangelove-vs-payback
-.. _Payback: http://tshepang.net/payback-1999
+.. _a comparison: http://movies.tshepang.net/dr-strangelove-vs-payback
+.. _Payback: http://movies.tshepang.net/payback-1999

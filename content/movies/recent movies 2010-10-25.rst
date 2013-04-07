@@ -41,4 +41,4 @@ justifies its existence at all. There's nothing new and movie makers
 know it. WTF! Other than for financial gain, why the fuck did they make
 it?
 
-.. _the first time: http://tshepang.net/recent-movies-2010-05-06
+.. _the first time: http://movies.tshepang.net/recent-movies-2010-05-06

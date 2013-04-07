@@ -20,4 +20,4 @@ There are stupid classic movie 'mistakes':
 -  There is very limited time to take the bomb as far away as possible,
    yet we see people kissing and exchanging goodbyes... so annoying
 
-.. _the immediate predecessor: http://tshepang.net/the-dark-knight-and-the-joker
+.. _the immediate predecessor: http://movies.tshepang.net/the-dark-knight-and-the-joker

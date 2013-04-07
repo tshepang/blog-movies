@@ -37,4 +37,4 @@ You'll wish the filmmakers would invest as much in plausibility and
 common sense as in the gorgeous suit on display here... and the
 middle-eastern villain is less-than-convincing.
 
-.. _Pulp Fiction: http://tshepang.net/300-the-visual-masterpiece-pulp-fiction-the-ex-masterpiece
+.. _Pulp Fiction: http://movies.tshepang.net/300-the-visual-masterpiece-pulp-fiction-the-ex-masterpiece

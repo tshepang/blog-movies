@@ -28,5 +28,5 @@ So, what makes it so good:
 
 -  wonderful visual effects of course
 
-.. _Thor: http://tshepang.net/thor-2011
-.. _Captain America: http://tshepang.net/captain-america-the-first-avenger-2011
+.. _Thor: http://movies.tshepang.net/thor-2011
+.. _Captain America: http://movies.tshepang.net/captain-america-the-first-avenger-2011

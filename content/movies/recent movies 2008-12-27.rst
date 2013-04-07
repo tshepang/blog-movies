@@ -19,5 +19,5 @@ As for *The Incredible Hulk*, I found William Hurt unbearable, while Liv
 Tyler and Tim Roth didn't help much. Not even the `battle of monsters`_,
 which itself did lose its appeal, saves the movie.
 
-.. _I so previously cherished: http://tshepang.net/the-dark-knight-and-the-joker
-.. _battle of monsters: http://tshepang.net/recent-movies-2008-07-10
+.. _I so previously cherished: http://movies.tshepang.net/the-dark-knight-and-the-joker
+.. _battle of monsters: http://movies.tshepang.net/recent-movies-2008-07-10

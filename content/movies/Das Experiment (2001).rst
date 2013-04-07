@@ -14,4 +14,4 @@ They however go way too far to be believable (e.g. attempted rape). The
 romance is beautiful (did you see that gal!), but they just had to push
 it as far as the gal having a part in the violence.
 
-.. _remake: http://tshepang.net/the-experiment-2010
+.. _remake: http://movies.tshepang.net/the-experiment-2010

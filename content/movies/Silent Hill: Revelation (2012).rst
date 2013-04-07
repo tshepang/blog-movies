@@ -26,6 +26,6 @@ was left unexplained, and is simply over-the-top.
 
 
 .. _Pyramid Head: http://en.wikipedia.org/wiki/Pyramid_Head
-.. _the previous movie: http://tshepang.net/silent-hill-2006
+.. _the previous movie: http://movies.tshepang.net/silent-hill-2006
 .. _The Missionary: http://silenthill.wikia.com/wiki/Missionary_(film)
 .. _nurses: http://silenthill.wikia.com/wiki/Nurse

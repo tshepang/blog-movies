@@ -39,4 +39,4 @@ appeal worked well.
 
 `my review of its sequel`_
 
-.. _my review of its sequel: http://tshepang.net/appleseed-ex-machina-2007
+.. _my review of its sequel: http://movies.tshepang.net/appleseed-ex-machina-2007

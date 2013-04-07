@@ -40,4 +40,4 @@ interesting of which is that of the mother, and the freedom
 fighters/terrorists are wonderfully-done, while the superbly-done action
 rocks hard too.
 
-.. _update: http://tshepang.net/recent-movies-2008-10-12
+.. _update: http://movies.tshepang.net/recent-movies-2008-10-12

@@ -19,4 +19,4 @@ I was led to this after finding out it's based on the same material
 as the later Payback_, a far superior take.
 
 
-.. _Payback: http://tshepang.net/payback-1999
+.. _Payback: http://movies.tshepang.net/payback-1999

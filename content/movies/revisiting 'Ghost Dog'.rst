@@ -15,4 +15,4 @@ the young girl are beautiful, coloring what is otherwise a dark, dull,
 and ugly world; the movie itself feels purposeless (if we don't count
 its entertainment value). [`older review`_]
 
-.. _older review: http://tshepang.net/ghost-dog
+.. _older review: http://movies.tshepang.net/ghost-dog

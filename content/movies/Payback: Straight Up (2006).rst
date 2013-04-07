@@ -41,4 +41,4 @@ There is so much that is different:
 Overall, I find `the earlier release`__ superior, but not by a big margin.
 
 
-__ http://tshepang.net/payback-1999
+__ http://movies.tshepang.net/payback-1999

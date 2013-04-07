@@ -11,4 +11,4 @@ means *Fist of Legend* retains its title as having the best martial arts
 choreography of all movies ever made. The movie's general appeal itself
 also fell, meaning another revisit will be filled with reluctance.
 
-.. _previously: http://tshepang.net/fearless
+.. _previously: http://movies.tshepang.net/fearless

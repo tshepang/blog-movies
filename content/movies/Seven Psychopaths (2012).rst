@@ -31,4 +31,4 @@ relationships, which I always find beautiful.
 superior work of art in many ways, excluding humor.
 
 .. _Tom Waits: http://en.wikipedia.org/wiki/Tom_Waits
-.. _The earlier movie: http://tshepang.net/in-bruges-2008
+.. _The earlier movie: http://movies.tshepang.net/in-bruges-2008

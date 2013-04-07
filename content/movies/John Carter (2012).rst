@@ -13,4 +13,4 @@ even though their look and behavior is similar to that of the giants of
 `Avatar`_.
 
 
-.. _Avatar: http://tshepang.net/avatar-2009
+.. _Avatar: http://movies.tshepang.net/avatar-2009

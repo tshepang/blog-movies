@@ -22,4 +22,4 @@ altogether. I struggled to stay awake... it's boring as fuck. It's also
 pointless. I must go find out what the fuss is all about.
 
 
-.. _The Case of 'The Matrix Reloaded': http://tshepang.net/the-case-of-the-matrix-reloaded
+.. _The Case of 'The Matrix Reloaded': http://movies.tshepang.net/the-case-of-the-matrix-reloaded
