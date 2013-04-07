@@ -5,7 +5,7 @@ import os
 
 site = {
     'name': 'Tshepang & movies',
-    'url': 'http://movies.tshepang.net',
+    'url': 'http://tshepang.net',
 }
 
 output = os.path.expanduser('~/tmp/blog-movies')
