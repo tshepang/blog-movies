@@ -39,7 +39,7 @@ theme = {
         'navigation': [
             {'name': 'main blog', 'link': 'http://tshepang.net'},
             {'name': 'key-posts', 'link': '/key-posts'},
-            {'name': 'about-me', 'link': '/about-me'},
+            {'name': 'about-me', 'link': 'http://tshepang.net/about-me'},
         ]
     }
 }
