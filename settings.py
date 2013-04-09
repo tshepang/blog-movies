@@ -4,7 +4,7 @@
 import os
 
 site = {
-    'name': 'Tshepang & movies',
+    'name': 'Tshepang logs - movies',
     'url': 'http://tshepang.net',
 }
 
