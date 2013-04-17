@@ -20,7 +20,7 @@ A wonderful cast:
    offers nice and laid-back humor.
 
 The direction is sophisticated and smooth,
-though there's too focus on the modern-day Margaret,
+though there's too much focus on the modern-day Margaret,
 with so many flashbacks that it's just distracting.
 I also left the movie feeling like I still don't know
 enough about this 20th century giant.
