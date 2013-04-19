@@ -135,29 +135,30 @@ Libre`_ and the fat oversexed woman in `Nanny McPhee And The Big Bang`_.
 miscellaneous
 -------------
 
-In order to recognize movies that deliver certain ideas/messages I find
-most important, I am making a new category, the **most important
-movie**. The harmful effects of making abortion illegal are portrayed in
+The category of **most important movie* exists in order to recognize
+movies that deliver certain ideas/messages I find extremely important;
+The harmful effects of making abortion illegal are portrayed in
 a very powerful way in `4 Months, 3 Weeks and 2 Days`_, and that easily
-makes the move the winner. There's a tie between the 2 runners-ups:
+makes the movie the winner. There's a tie between the 2 runners-ups:
 
--  `Fair Game`_ (harmful suppression of truth by powerful government
-   officials)
--  `Contagion`_ (a reminder of how fragile our existence is, and the
-   social chaos that can result from desperation and fear)
+- `Fair Game`_ (harmful suppression of truth by powerful government officials)
+- `Contagion`_ (a reminder of how fragile our existence is,
+  and the social chaos that can result from desperation and fear)
 
 Each repeat of a movie is a different experience, hence this category of
-**best first-time viewing experience**. It's won by `Megamind`_ (blew my
-mind away due to its seeming perfection) and the runner-up is `Shrek
-Forever After`_, which sadly couldn't survive a revisit.
+**best first-time viewing experience**. It's won by `Megamind`_
+(it blew my mind away due to its seeming perfection)
+and the runner-up is `Shrek Forever After`_,
+which sadly couldn't survive a revisit.
 
 The **worst revisit** was `Shrek Forever After`_. I deemed it a
 near-masterpiece on first viewing, but it seemed a different (and worse)
 movie on a revisit. Not that it was trash. It was just not very good.
 The runner-up is `The Warrior's Way`_.
 
-As for the year's **best script/dialog**, there is a tie between `Sex,
-Lies, and Videotape`_ and `Contagion`_. The runner-up is `Fair Game`_.
+As for the year's **best script/dialog**,
+there is a tie between `Sex, Lies, and Videotape`_ and `Contagion`_.
+The runner-up is `Fair Game`_.
 
 The year's **funniest movie** is `Bill & Ted's Bogus Journey`_. The
 first runner-up is `Being There`_, while its three 2nd runner-ups are a
