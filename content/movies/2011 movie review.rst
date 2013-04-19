@@ -135,7 +135,7 @@ Libre`_ and the fat oversexed woman in `Nanny McPhee And The Big Bang`_.
 miscellaneous
 -------------
 
-The category of **most important movie* exists in order to recognize
+The category of **most important movie** exists in order to recognize
 movies that deliver certain ideas/messages I find extremely important;
 The harmful effects of making abortion illegal are portrayed in
 a very powerful way in `4 Months, 3 Weeks and 2 Days`_, and that easily
