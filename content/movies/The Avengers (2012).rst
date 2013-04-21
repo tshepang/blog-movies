@@ -26,7 +26,6 @@ So, what makes it so good:
 -  I found the reaction of the city public refreshingly-realistic,
    especially considering that this is a comic book adaptation
 
--  wonderful visual effects of course
 
 .. _Thor: http://movies.tshepang.net/thor-2011
 .. _Captain America: http://movies.tshepang.net/captain-america-the-first-avenger-2011
