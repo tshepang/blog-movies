@@ -14,7 +14,7 @@ who gives a very fitting character and performance.
 
 The first several moments are entrancing,
 and holds its own terms of execution (and grit) against far
-more expensive productions like those in the *Bourne* series.
+more expensive productions like those in the `Bourne series`__.
 
 The one weak spot in the movie is the beheader character.
 He was supposed to be menacing and heartless,
@@ -24,4 +24,5 @@ Luckily there is no shortage of superb acting,
 most notably from the lady in charge, `Charlotte Rampling`__.
 
 
+__ http://en.wikipedia.org/wiki/Bourne_(film_series)
 __ http://en.wikipedia.org/wiki/Charlotte_Rampling
