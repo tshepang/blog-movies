@@ -17,7 +17,7 @@ Here is what I mean by the rating tags:
   the rest:
 
   * 8/10 **excellent**
-  * 7/10 **very-good**
+  * 7/10 **very good**
   * 6/10 **good**
   * 5/10 **decent**
   * 4/10 **average**
