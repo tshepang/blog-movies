@@ -7,9 +7,11 @@
 
 
 best movie
+
 * `In Bruges`_
 
 direction
+
 * `In Bruges`_
 
 
@@ -19,9 +21,11 @@ visuals
 production design
 
 cinematography
+
 * `In Bruges`_
 
 action
+
 * Cleanskin_
 
 action sequence
@@ -37,10 +41,13 @@ performances
 ------------
 
 favorite performance
+
 * Tom Towles playing Otis (`Henry: Portrait of a Serial Killer`_)
+
 best male performance
 
 best female performance
+
 * Charlotte Rampling (Cleanskin_)
 
 cast
@@ -60,6 +67,7 @@ desirable gal
 * the love interest (`In Bruges`_)
 
 character design
+
 * The Missionary (`Silent Hill: Revelation`_)
 
 
@@ -75,6 +83,7 @@ miscellaneous
 -------------
 
 script/dialogue
+
 * `In Bruges`_
 
 narration
@@ -84,6 +93,7 @@ sound
 concept
 
 most important
+
 * Frozen_
 
 first-time viewing experience
@@ -111,6 +121,7 @@ bizarre
 
 'old' movies
 ------------
+
 * Payback_
 
 viewing experience
