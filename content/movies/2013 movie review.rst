@@ -56,6 +56,7 @@ favorite character
 villain
 
 desirable gal
+
 * the love interest (`In Bruges`_)
 
 character design
