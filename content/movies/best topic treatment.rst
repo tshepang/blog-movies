@@ -38,8 +38,8 @@ domestic abuse
 existential threats
 -------------------
 
-#. Contagion__
-#. Frozen__
+#. Contagion_
+#. Frozen_
 
 alternate reality concepts
 --------------------------
