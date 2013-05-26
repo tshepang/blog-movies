@@ -41,7 +41,7 @@ favorite performance
 best male performance
 
 best female performance
-* Charlotte Rampling (`Cleanskin_)
+* Charlotte Rampling (Cleanskin_)
 
 cast
 
