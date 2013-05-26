@@ -123,4 +123,4 @@ fall from glory
 .. _Silent Hill: Revelation: http://tshepang.net/silent-hill-revelation-2012
 .. _Frozen: http://movies.tshepang.net/frozen-2009
 .. _Cleanskin: http://movies.tshepang.net/cleanskin-2012
-.. _Henry: Portrait of a Serial Killer: http://movies.tshepang.net/henry-portrait-of-a-serial-killer
+.. _`Henry: Portrait of a Serial Killer`: http://movies.tshepang.net/henry-portrait-of-a-serial-killer
