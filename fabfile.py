@@ -1,5 +1,5 @@
 import os
-from fabric.api import local, task
+from fabric.api import local, task, settings, hide
 
 OUTPUTDIR = os.path.join(os.path.expanduser("~/tmp"), 'blog-movies')
 
@@ -14,7 +14,8 @@ def build():
 def push():
     local('cd {} && git add . && git commit -am "build" '
           '&& git push origin gh-pages'.format(OUTPUTDIR))
-    local('hg push')
+    with settings(hide('warnings'), warn_only=True):
+        local('hg push')
 
 
 @task(default=True)
