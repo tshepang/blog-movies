@@ -14,8 +14,8 @@ Allen was desperate to appease. As for Penélope Cruz, I praised her
 profusely for her portrayal of the crazy-but-gifted ex-lover. Well, the
 performance is good, but the appeal wore off, but it remains `my
 favorite of her performances`_. I guess the main appeal of the movie is
-the concept of open relationships (and frank sex talk), hence the
-mention in `my discussion of the topic`_.
+the concept of open relationships (and frank sex talk).
+
 
 .. _my favorite of her performances: http://movies.tshepang.net/favorite-of-career-performances
-.. _my discussion of the topic: http://tshepang.net/me-sex-and-popular-media
+
