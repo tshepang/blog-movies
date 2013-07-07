@@ -16,10 +16,12 @@ Anyways here's a list of works of excellent works that fit the bill:
 -  `Dr. Strangelove`_
 -  Fight Club
 -  `Lord of War`_
--  Network
+-  Network__
 -  `Payback`_
 -  `Requiem for A Dream`_
 
+
+__ http://tshepang.net/network-1979
 .. _Being John Malkovich: http://movies.tshepang.net/being-john-malkovich-1999
 .. _Dr. Strangelove: http://movies.tshepang.net/dr-strangelove-1964
 .. _Requiem for A Dream: http://movies.tshepang.net/requiem-for-a-dream-2000

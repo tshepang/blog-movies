@@ -34,17 +34,17 @@ is unmasked. Runner-up is `Raffaëla Anderson`_ as a crazed rape victim
 in `Baise-moi`_.
 
 There was quite a number of superb male performances, the best being
-Daniel-Day Lewis' near-flawless oil miner in `There Will Be Blood`_,
-followed by John Malkovich's activist in `Changeling`_, followed by the
-ever-magnificent Jack Nicholson's grumpy tycoon in Bucket List, while
-3rd runner-up is a tie between Woody Harrelson's blind man in `Seven
-Pounds`_ and Robert Duvall's unscrupulous media man in `Network`_.
+Daniel-Day Lewis' near-flawless performances as oil miner in `There
+Will Be Blood`_. Here's the runner-ups:
+
+#. John Malkovich's activist in `Changeling`_
+#. Jack Nicholson's grumpy tycoon in *Bucket List*
+#. Woody Harrelson's blind man in `Seven Pounds`_
 
 The year's best female performance came from Anjelina Jolie's grieving
 victim in Changeling followed by a tie between Rosario Dawson's love
-interest in `Seven Pounds`_, Faye Dunaway's fast-talking media lady in
-`Network`_, and Tilda Swinton's fleeting lover in `The Curious Case of
-Benjamin Button`_.
+interest in `Seven Pounds`_, and Tilda Swinton's fleeting lover in
+`The Curious Case of Benjamin Button`_.
 
 characters
 ----------
@@ -129,7 +129,6 @@ Make A Porno
 .. _Raffaëla Anderson: http://en.wikipedia.org/wiki/Raffa%C3%ABla_Anderson
 .. _There Will Be Blood: http://movies.tshepang.net/there-will-be-blood-2007
 .. _Seven Pounds: http://movies.tshepang.net/recent-movies-2009-04-14
-.. _Network: http://movies.tshepang.net/recent-movies-2009-07-13
 .. _The Curious Case of Benjamin Button: http://movies.tshepang.net/finchers-most-pointless-yet
 .. _Body of Lies: http://movies.tshepang.net/recent-movies-2009-04-14
 .. _Midnight Cowboy: http://movies.tshepang.net/recent-movies-2009-07-13

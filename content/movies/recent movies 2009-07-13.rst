@@ -5,16 +5,6 @@ recent movies 2009-07-13
 
 
 
-For a strong satire like *Network*, complete with powerful appearances
-by Faye Dunaway and Robert Duvall, one tends to wish the entire thing
-was shot and edited at least as well as it's mightier counterpart, `Dr.
-Strangelove`_. It's got quite some heavy-handed dialogue that may have
-inspired the superior and much younger *Good Night & Good Luck*. What's
-also commendable is that the one voice of sane reason actually is
-offered by a man who is likely more cruel than all others in the story
-(bar those in the last meeting of course, a moment which would be a
-spoiler if revealed).
-
 In *Midnight Cowboy*, Dustin Hoffman plays a character so broken that he
 depresses all the time, and better off dead. John Voigt plays the only
 friend he could ever have, and is even dumber. Luckily we find a ray of
@@ -43,4 +33,3 @@ his dream. Victoria Abril is a pleasure to watch (as usual) playing an
 equally broken character, though maybe a bit worse since she also
 doesn't know what she wants.
 
-.. _Dr. Strangelove: http://movies.tshepang.net/dr-strangelove-1964
