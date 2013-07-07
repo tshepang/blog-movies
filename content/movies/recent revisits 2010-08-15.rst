@@ -11,9 +11,6 @@ ignore first time around since I was seduced by the concept of a blind
 swordsman. The action choreography is uneven (good at times) and I
 enjoyed the final showdown and as well as the final dance sequence.
 
-A revisit of *Good Night, And Good Luck* didn't pack as much of a punch
-as before. It even felt barren.
-
 The gal in *Hitman* is damn desirable, the movie so average (but I
 like the early scene set in Africa). Here's an old review from early
 2008, and is still relevant:
