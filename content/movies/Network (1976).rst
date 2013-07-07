@@ -10,7 +10,7 @@ Here's what I wrote in 2009:
     For a strong satire like *Network*, complete with powerful
     appearances by Faye Dunaway and Robert Duvall, one tends to wish
     the entire thing was shot and edited at least as well as it's
-    mightier counterpart, `Dr. Strangelove`___. It's got quite some
+    mightier counterpart, `Dr. Strangelove`__. It's got quite some
     heavy-handed dialog that may have inspired the superior and much
     younger *Good Night & Good Luck*. What's also commendable is that
     the one voice of sane reason actually is offered by a man who is

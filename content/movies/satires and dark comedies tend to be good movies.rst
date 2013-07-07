@@ -11,19 +11,20 @@ I chose to make this one post.
 
 Anyways here's a list of works of excellent works that fit the bill:
 
--  Bamboozled
--  `Being John Malkovich`_
--  `Dr. Strangelove`_
--  Fight Club
--  `Lord of War`_
--  Network__
--  `Payback`_
--  `Requiem for A Dream`_
+- Bamboozled
+- `Being John Malkovich`__
+- `Dr. Strangelove`__
+- Fight Club
+- `Lord of War`__
+- Network__
+- Payback__
+- `Requiem for A Dream`__
 
 
+__ http://movies.tshepang.net/being-john-malkovich-1999
+__ http://movies.tshepang.net/dr-strangelove-1964
+__ http://movies.tshepang.net/lord-of-war-2005
 __ http://tshepang.net/network-1979
-.. _Being John Malkovich: http://movies.tshepang.net/being-john-malkovich-1999
-.. _Dr. Strangelove: http://movies.tshepang.net/dr-strangelove-1964
-.. _Requiem for A Dream: http://movies.tshepang.net/requiem-for-a-dream-2000
-.. _Payback: http://movies.tshepang.net/payback-1999
-.. _Lord of War: http://movies.tshepang.net/lord-of-war-2005
+__ http://movies.tshepang.net/payback-1999
+__ http://movies.tshepang.net/requiem-for-a-dream-2000
+
