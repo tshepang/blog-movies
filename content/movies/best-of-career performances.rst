@@ -7,7 +7,7 @@ best-of-career performances
 - Carrie-Anne Moss (`Memento`_)
 - Clive Owen (Closer)
 - Colin Firth (`The King's Speech`_)
-- David Straithairn (Good Night, and Good Luck)
+- David Straithairn (`Good Night, and Good Luck`__)
 - Emma Thompson (Wit_)
 - Geoffrey Rush (`The King's Speech`_)
 - Guy Pearce (`Memento`_)
@@ -31,6 +31,9 @@ best-of-career performances
 --------------
 
 related: `favorite-of-career performances`_
+
+
+__ http://movies.tshepang.net/good-night-and-good-luck-2005
 
 .. _Changeling: http://movies.tshepang.net/recent-movies-2009-03-06
 .. _Memento: http://movies.tshepang.net/memento-2000

@@ -12,4 +12,6 @@ Here's what a revisit felt like, back in 2010:
 
 I was hoping that the third viewing would be more pleasant, but is
 still the same as the second. It is sad because I really enjoyed this
-on first viewing. It remains an important movie of course.
+on first viewing. It remains an important movie of course, not to
+mention being the best David Straithairn moment yet. The camerawork is
+also simple, yet effective.

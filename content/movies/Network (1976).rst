@@ -12,7 +12,7 @@ Here's what I wrote in 2009:
     the entire thing was shot and edited at least as well as it's
     mightier counterpart, `Dr. Strangelove`__. It's got quite some
     heavy-handed dialog that may have inspired the superior and much
-    younger *Good Night & Good Luck*. What's also commendable is that
+    younger `Good Night & Good Luck`__. What's also commendable is that
     the one voice of sane reason actually is offered by a man who is
     likely more cruel than all others in the story (bar those in the
     last meeting of course, a moment which would be a spoiler if
@@ -22,8 +22,11 @@ A revisit, as usual, didn't impress as much. I still appreciate the
 humor and satire, but the fact that it made me feel asleep is not a
 good thing. I didn't even enjoy the two performances I so praised
 above. I don't even remember who I was referring to by *one voice of
-sane reason*, but I do celebrate that very last scene, the meeting.
+sane reason*, and the latter movie I mentioned is a lesser movie
+overall. One thing I still celebrate though is that very last
+scene... the meeting.
 
 
 __ http://movies.tshepang.net/dr-strangelove-1964
+__ http://movies.tshepang.net/good-night-and-good-luck-2005
 
