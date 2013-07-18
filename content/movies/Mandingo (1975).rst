@@ -15,7 +15,7 @@ powerful. Oh, and there's some hot and happening gals within.
 
 **pros**
 
--  the them of extreme oppression, both of women and of black people, is
+-  the theme of extreme oppression, both of women and of black people, is
    very well done
 -  decent production design
 -  decent acting
@@ -28,5 +28,9 @@ powerful. Oh, and there's some hot and happening gals within.
 
 **cons**
 
--  ummm...
+-  ummm... is there any?
 
+One interesting thing is that the plight of the the jealous wife
+saddened me more than that of the slaves. I don't know if this was
+deliberate by the writer or director, but I cared more for her than
+for the slaves, even though they got even shittier treatment.
