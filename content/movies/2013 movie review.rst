@@ -46,6 +46,8 @@ favorite performance
 
 best male performance
 
+* `Chiwetel Ejiofor`_ as arts instructor (Redbelt_)
+
 best female performance
 
 * Charlotte Rampling (Cleanskin_)
@@ -59,6 +61,8 @@ characters
 character development
 
 favorite character
+
+* Chiwetel Ejiofor as an honorable martial arts instructor (Redbelt_)
 
 villain
 
@@ -136,3 +140,5 @@ fall from glory
 .. _Frozen: http://movies.tshepang.net/frozen-2009
 .. _Cleanskin: http://movies.tshepang.net/cleanskin-2012
 .. _`Henry: Portrait of a Serial Killer`: http://movies.tshepang.net/henry-portrait-of-a-serial-killer
+.. _Redbelt: http://movies.tshepang.net/redbelt-2007
+.. _Chiwetel Ejiofor: http://en.wikipedia.org/wiki/Chiwetel_Ejiofor
