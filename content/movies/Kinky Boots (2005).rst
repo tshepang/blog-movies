@@ -12,3 +12,6 @@ movie's climax is rather outrageous, and bordering on
 embarrassing. The movie remains a worthy addition to those which
 criticize oppression based on gender. This Chiwetel guy is also kinda
 pretty.
+
+
+__ http://en.wikipedia.org/wiki/Chiwetel_Ejiofor
