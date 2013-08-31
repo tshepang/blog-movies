@@ -1,5 +1,5 @@
-Devil's Double
-==============
+Devil's Double (2011)
+=====================
 
 :date: 2013-08-30
 :tags: 2013-movie, average
