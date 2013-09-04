@@ -23,3 +23,6 @@ Are the writers so untalented? It was still a fun movie, but it makes
 me miss the freshness of the first movie and the villain of the second
 (apart from being unconvincing, the primary one here, played by Guy
 Pearce, is also not interesting).
+
+
+__ http://movies.tshepang.net/the-avengers-2012
