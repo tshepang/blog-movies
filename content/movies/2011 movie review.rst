@@ -120,7 +120,7 @@ view of her... I want her, now! Here's the runner-ups:
 1. `Andie MacDowell`_ (`Sex, Lies, and Videotape`_)
 2. `Shirley MacLaine`_ (`Being There`_)
 3. `Teri Hatcher`_ (`Tango & Cash`_)
-4. `Jill Schoelen`_ `The Stepfather`_
+4. `Jill Schoelen`_ (`The Stepfather`_)
 
 `According to Greta`_ boasts both the **most perfect gentleman** (the
 lead's boyfriend) and the **most perfect father** (the lead's grandpa).
