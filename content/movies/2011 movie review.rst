@@ -105,10 +105,10 @@ characters
 As regards the **best character development**, James Spader's
 free-spirited character in `Sex, Lies, and Videotape`_ ties with Nicole
 Kidman's grieving asshole in `Rabbit Hole`_. Runner-up is the evil
-peacock in `Kung Fu Panda 2`_.
-
-The **best villain** is the peacock in `Kung Fu Panda 2`_. He was truly
-evil yet his demeanor, often humorous, made us care about him.
+peacock in `Kung Fu Panda 2`_, the same peacock that happens to be the
+year's **best villain**. Despite his cruelty, his oft-humorous
+demeanor made me care about him, which is the sort of quality I find
+exceptional in terms of character development of villains.
 
 The **best character design** is that of the main villain in `9`_,
 followed by the ninjas in `The Warrior's Way`_.
