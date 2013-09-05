@@ -31,7 +31,7 @@ The best **hand-to-hand combat sequence** is the fight that takes place
 in a diner in `Haywire`_, followed by the protagonist fighting 2
 assasins in `The Bourne Legacy`_.
 
-The best **animation** is, interestingly, is an insert in (`Harry Potter
+The best **animation** is, interestingly, an insert in (`Harry Potter
 and the Deathly Hallows, Part 1`_), which tells the story of the Deathly
 Hallows.
 
