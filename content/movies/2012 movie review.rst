@@ -140,8 +140,8 @@ Runner-up is `Taken`_, which remains as intense and exciting as ever.
 The **fall from glory** award goes to:
 
 -  `Vicky Cristina Barcelona`_: I enjoyed this massively first time I
-   watched it 2 years ago; it now feels pretentious and cheap/shallow
-   paradies, like something I would write if I were to try.
+   watched it 2 years ago; it now feels pretentious and cheap/shallow,
+   like something I would write if I were to try.
 
 -  `Perfume`_: It is sad that I used to consider this a
    near-masterpiece. It remains good, just nowhere near the top.
