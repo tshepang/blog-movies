@@ -8,5 +8,5 @@ Being There (1979)
 
 A fantasy that is extremely funny in places and very entertaining
 everywhere else. I found the rich man's wife irresistible. In the
-movie's finniest moment, the ultra-dumb protagonist didn't find her so
+movie's funniest moment, the ultra-dumb protagonist didn't find her so
 attractive.
