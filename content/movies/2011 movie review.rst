@@ -115,7 +115,7 @@ followed by the ninjas in `The Warrior's Way`_.
 
 The year's **most desirable gal** is `Sandra Oh`_ in `Rabbit Hole`_,
 playing a small role as the love interest. Watching this has changed my
-view of her... I want her, now! Here's the (multiple) runner-ups:
+view of her... I want her, now! Here's the runner-ups:
 
 1. `Andie MacDowell`_ (`Sex, Lies, and Videotape`_)
 2. `Shirley MacLaine`_ (`Being There`_)
