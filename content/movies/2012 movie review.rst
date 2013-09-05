@@ -111,7 +111,7 @@ Give`_.
 The best **costume design** comes, surprisingly, from `The Great
 Dictator`_.
 
-Each repeat of a movie is a different experience, hence this category of
+Each repeat of a movie is a different experience, hence the category,
 **best first-time viewing experience**. This year, it's won by the
 year's **greatest spectacle**, `The Avengers`_. Runner-up is `Gone Baby
 Gone`_, and that's because it was so gripping that I thought it would be
