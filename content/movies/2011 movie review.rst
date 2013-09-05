@@ -50,7 +50,7 @@ The year's **best visual effects (overall)**:
 2. `Sucker Punch`_
 3. a tie between `Percy Jackson & The Olympians: The Lightning Thief`_
    and `Tron: Legacy`_
-4. it would be sinful not to include [Transformers: Dark of the Moon][],
+4. it would be sinful not to include `Transformers: Dark of the Moon`_,
    even though it's pretty much the same offering as the 2 previous
    offerings in the franchise.
 
@@ -267,3 +267,4 @@ For a complete list of the movies I reviewed for the year, visit the
 .. _The Bourne Supremacy: http://movies.tshepang.net/the-bourne-supremacy-2004
 .. _Bill & Ted's Excellent Adventure: http://movies.tshepang.net/bill-teds-excellent-adventure-1989
 .. _2011-movies tag: http://movies.tshepang.net/tag/2011-movie
+.. _Transformers\: Dark of the Moon: http://movies.tshepang.net/transformers-dark-of-the-moon-2011
