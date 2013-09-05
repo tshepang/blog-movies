@@ -68,7 +68,7 @@ characters
 The best **character development** is the father of the title character
 (Jack Lemmon) in `Missing`_, followed by the wife (Sissy Spacek) in the
 same movie. My **favorite character** is however the son (`Dakota
-Goyo`_) in (`Real Steel`_.
+Goyo`_) in `Real Steel`_.
 
 My **favorite villain** is the witch (Eva Green) in `Dark Shadows`_,
 runner-up being Bane (Tom Hardy) in `The Dark Knight Rises`_.
