@@ -74,7 +74,7 @@ My **favorite villain** is the witch (Eva Green) in `Dark Shadows`_,
 runner-up being Bane (Tom Hardy) in `The Dark Knight Rises`_.
 
 The most **desirable gal** is Charlotte Gainsbourg as main love interest
-`The Science of Sleep`_ (I really loved this girl right?). Here are the
+`The Science of Sleep`_ (I really loved this girl!). Here are the
 runner-ups:
 
 1. Brooke White as wife and new mother (`Change of Plans`_)
