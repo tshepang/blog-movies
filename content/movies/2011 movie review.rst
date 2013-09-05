@@ -197,7 +197,7 @@ Here's the runner-ups:
    yet
 3. `Bill & Ted's Excellent Adventure`_, whose continued excellence and
    humor surprised me, it being a childhood favorite, and also being
-   made in the 80's (a bad decade for movies).
+   made in the 80's, a bad movie decade.
 
 --------------
 
