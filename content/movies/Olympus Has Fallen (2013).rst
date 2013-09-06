@@ -2,7 +2,7 @@ Olympus Has Fallen (2013)
 =========================
 
 :date: 2013-09-06
-:tags: 2013-movies, average
+:tags: 2013-movie, average
 
 
 
