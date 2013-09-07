@@ -165,7 +165,7 @@ Marshall; Weather Man; Zoom
 .. _Shooter: http://movies.tshepang.net/shooter-2007
 .. _Vacancy: http://movies.tshepang.net/recent-movies-2008-06-26
 .. _Final Fantasy VII - Advent Children: http://movies.tshepang.net/final-fantasy-vii-advent-children-2005
-.. _Kung Fu Panda: http://movies.tshepang.net/recent-movies-2008-07-10
+.. _Kung Fu Panda: http://movies.tshepang.net/kung-fu-panda-2008
 .. _The Forbidden Kingdom: http://movies.tshepang.net/recent-movies-2008-10-12
 .. _Planet Terror: http://movies.tshepang.net/planet-terror-2007
 .. _Confidence: http://movies.tshepang.net/confidence-2002
