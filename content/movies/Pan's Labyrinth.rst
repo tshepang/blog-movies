@@ -1,18 +1,11 @@
-Pan's Labyrinth
-===============
+Pan's Labyrinth (2006)
+======================
 
-:date: 2007-11-13
+:date: 2013-09-14
+:tags: decent, 2007-movie
 
 
-
-It's unfortunate that the ugly creature and it's environment, which
-tends to be showcased in posters for the movie, is a rare occasion
-within that same movie. Such misleading non-sense is annoying actually,
-especially because it, together with rave reviews, made this among my
-most anticipated movies. Otherwise I can't understand why the movie was
-made at all, the message I mean.
-
---------------
-
-**sidenote**: The celebrated scene is the only worthy thing about the
-entire thing.
+Not very interesting, except for the celebrated scene with the child
+killer, which is a showcase of visual mastery... one of the best (and
+most original) character designs I've seen. The faun character is
+pretty good too.

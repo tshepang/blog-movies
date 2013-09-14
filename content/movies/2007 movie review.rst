@@ -85,6 +85,8 @@ of Scotland* are tied as runner-ups. Julianne Moore in *Next* is the
 year's best detective given her unrelenting focus in getting the job
 done. A special mention should go to John Heder's goofy and kind-hearted
 ice skating champion in the delightful *Blades of Glory*.
+The **best character design** is the child-killing, pale monster in
+`Pan's Labyrinth`_.
 
 visuals
 -------
@@ -168,8 +170,8 @@ Covenant, The; Deuce Bigalow: European Gigolo; Devil's Rejects; Die Hard
 Month; Eragon; Fantastic 4: the Rise of the Silver Surfer; Final
 Destination 3; Giant; Graduate, The; Gridiron Gang; Grudge, The; Happily
 Never After; Happy Together; Hills Have Eyes 2; In America; In-Crowd,
-The; Me & Dupree; Meet the Robinsons; Mission, The; Mr. Brooks; Pan's
-Labyrinth; Perfect Man, The; Pursuit of Happiness, The; Searchers, The;
+The; Me & Dupree; Meet the Robinsons; Mission, The; Mr. Brooks;
+Perfect Man, The; Pursuit of Happiness, The; Searchers, The;
 She's the Man; Sleeping Bride; Star Wrek; Sum of All Fears, The; Throne
 of Blood; Time Bandits; Troy
 
@@ -182,3 +184,4 @@ of Blood; Time Bandits; Troy
 .. _Beowulf: http://movies.tshepang.net/beowulf-2007
 .. _The Bourne Ultimatum: http://movies.tshepang.net/the-bourne-ultimatum-2007
 .. _these: http://movies.tshepang.net/tag/2007-movie
+.. _Pan's Labyrinth: http://movies.tshepang.net/pans-labyrinth-2006

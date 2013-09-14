@@ -60,7 +60,7 @@ monsters
 
 #. Monster (*Cloverfield*)
 #. Pyramid Head (`Silent Hill`_ and `Silent Hill: Revelation`_)
-#. Pale Man (*Pan's Labyrinth*)
+#. Pale Man (`Pan's Labyrinth`_)
 #. The Missionary (`Silent Hill: Revelation`_)
 #. Nurses (`Silent Hill: Revelation`_)
 #. Dementors (`Harry Porter and the Prisoner of Azkaban`_)
@@ -103,3 +103,4 @@ airport checkpoint officer
 .. _9: http://movies.tshepang.net/9-2009
 .. _Harry Porter and the Sorcerer's Stone: http://movies.tshepang.net/harry-porter-and-the-sorcerers-stone-2001
 .. _`Afro Samurai: Resurrection`: http://movies.tshepang.net/afro-samurai-resurrection-2009
+.. _Pan's Labyrinth: http://movies.tshepang.net/pans-labyrinth-2006

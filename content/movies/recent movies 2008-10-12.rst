@@ -40,7 +40,7 @@ And it's also amazing that you can get such amazing martial arts
 choreography in Yuen Woo Ping's absence. Oh, and I couldn't stop
 noticing that the walking fish is modeled after that talkative robot in
 Star Wars. It's also obvious that some (at least one) of the creature
-designs were inspired by Pan's Labyrinth's childkiller, and much of the
+designs were inspired by childkiller from `Pan's Labyrinth`__, and much of the
 designs look childish and unconvincing.
 
 R. Lee Ermey doesn't miss a step in the bad and unnecessary horror
@@ -49,3 +49,4 @@ Kingdom needs to be hidden away from the eyes of all, even though I
 `enjoyed it more previously`_.
 
 .. _enjoyed it more previously: http://movies.tshepang.net/recent-movies-2008-05-28
+__ http://movies.tshepang.net/pans-labyrinth-2006
