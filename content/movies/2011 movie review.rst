@@ -29,7 +29,6 @@ Here's the rest (ranked alphabetically):
 -  `Rabbit Hole`_
 -  `Sex, Lies, and Videotape`_
 -  `Tangled`_
--  `Unknown`_
 
 visuals
 -------
@@ -214,7 +213,6 @@ For a complete list of the movies I reviewed for the year, visit the
 .. _Rabbit Hole: http://movies.tshepang.net/rabbit-hole-2010
 .. _Sex, Lies, and Videotape: http://movies.tshepang.net/sex-lies-and-videotape-1989
 .. _Tangled: http://movies.tshepang.net/tangled-2010
-.. _Unknown: http://movies.tshepang.net/unknown-2011
 .. _The Seventh Seal: http://movies.tshepang.net/the-seventh-seal-1957
 .. _The Kings's Speech: http://movies.tshepang.net/the-kings-speech-2010
 .. _Shelter: http://movies.tshepang.net/shelter-2010
