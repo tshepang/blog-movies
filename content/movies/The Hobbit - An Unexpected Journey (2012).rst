@@ -13,7 +13,7 @@ character, which I think were more varied/complex than he had in *The
 Lord of the Rings* trilogy. I also enjoyed the character of the
 eccentric animal-lover wizard. The trolls (ugly, disgusting giants)
 represent great characer design and so do the orcs, complete with
-their wolves. Pity none of is actually new. I dislike the excessive
+their wolves. Pity none of it is actually new. I dislike the excessive
 complexity of the battle scens, as if movie makers equate such with
 excellence... serious waste of money and effort. I also hate it when
 characters go through way too much physical pounding, as in when the
