@@ -1,4 +1,4 @@
-The Hobbit - An Unexpected Journey (2012)
+The Hobbit: An Unexpected Journey (2012)
 =========================================
 
 :date: 2013-09-04
