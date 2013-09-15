@@ -14,8 +14,8 @@ Lord of the Rings* trilogy. I also enjoyed the character of the
 eccentric animal-lover wizard. The trolls (ugly, disgusting giants)
 represent great character design and so do the orcs, complete with
 their wolves. Pity none of it is actually new. `I dislike the excessive
- complexity of the battle scene`__, as if movie makers equate such with
-excellence... serious waste of money and effort. I also hate it when
+ complexity of the battle scene`__... serious waste of money and effort.
+I also hate it when
 characters go through way too much physical pounding, as in when the
 rock giants fight (a ridiculous and unexplained moment), and the Dwarf
 escape.
