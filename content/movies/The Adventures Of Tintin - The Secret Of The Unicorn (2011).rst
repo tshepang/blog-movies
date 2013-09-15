@@ -1,4 +1,4 @@
-The Adventures Of Tintin - The Secret Of The Unicorn (2011)
+The Adventures Of Tintin: The Secret Of The Unicorn (2011)
 ===========================================================
 
 :date: 2013-09-15
