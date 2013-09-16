@@ -20,4 +20,4 @@ physical pounding, as in when the rock giants fight (a ridiculous and
 unexplained moment), and the Dwarf escape.
 
 
-__ http://tshepang.net/overly-complex-action-sequences
+__ http://movies.tshepang.net/overly-complex-action-sequences
