@@ -20,7 +20,4 @@ Some of what caused this celebration:
 -  mafia telephone conversation
 -  the murderous neo-nazi trio
 
-Like *Fight Club* before it, the movie is `packed too much of
-goodness`_.
-
-.. _packed too much of goodness: http://movies.ign.com/articles/758/758269p1.html
+Like *Fight Club* before it, the movie is packed too much of goodness.
