@@ -14,7 +14,7 @@ cinematography
 --------------
 
 1. Fight Club
-2. Changeling; Munich
+2. Munich
 3. Se7en
 
 editing

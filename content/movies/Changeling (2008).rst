@@ -1,0 +1,13 @@
+Changeling (2008)
+=================
+
+:date: 2013-09-25
+:tags: 2009-movie, good
+
+
+The movie has some great elements: production design, costume design,
+cinematography, direction, and cast, especially John Malkovich, who
+gives his best performance I've yet seen. The story itself is okay
+enough, but I enjoyed it a lot more on the first viewing. I also
+enjoyed Anjelina Jolie's performance as grieving mother on that first
+viewing than on this revisit, going as far as calling it her best yet.

@@ -1,7 +1,7 @@
 2009 movie review
 =================
 
-:date: 2010-01-01
+:date: 2013-09-25
 :tags: year-movie-review
 
 
@@ -22,8 +22,8 @@ best movie
 
 The year's best movie is `Baise-moi`_, whose unflinching and unsettling
 violence has the raw intensity of `Bamboozled`_'s climax and the
-harshness of *Natural Born Killers*, without the humor. First runner-up
-is `Changeling`_, and second runner-up is `District 9`_.
+harshness of *Natural Born Killers*, without the humor. It's runner-up
+is `District 9`_.
 
 performances
 ------------
@@ -37,14 +37,13 @@ There was quite a number of superb male performances, the best being
 Daniel-Day Lewis' near-flawless performances as oil miner in `There
 Will Be Blood`_. Here's the runner-ups:
 
-#. John Malkovich's activist in `Changeling`_
-#. Jack Nicholson's grumpy tycoon in *Bucket List*
-#. Woody Harrelson's blind man in `Seven Pounds`_
+#. John Malkovich as activist in Changeling_
+#. Jack Nicholson as grumpy tycoon in *Bucket List*
+#. Woody Harrelson as blind man in `Seven Pounds`_
 
-The year's best female performance came from Anjelina Jolie's grieving
-victim in Changeling followed by a tie between Rosario Dawson's love
-interest in `Seven Pounds`_, and Tilda Swinton's fleeting lover in
-`The Curious Case of Benjamin Button`_.
+The year's **best female performance** is a tie between that Rosario
+Dawson's as the love interest in `Seven Pounds`_, and Tilda Swinton's
+as fleeting lover in `The Curious Case of Benjamin Button`_.
 
 characters
 ----------
@@ -56,9 +55,6 @@ leading lady, Zhao Tao, in `Still Life`_ followed by (cheat) the warrior
 girl in `Avatar`_, who/which also happens to be year's **best creature**.
 
 Character design goes to the talking toys of `Small Soldiers`_.
-
-Due to a lack of a worthy villain, I'll crown `Changeling`_'s police
-force as the year's best for their unbearable acts of cruelty.
 
 visuals
 ~~~~~~~
@@ -76,12 +72,10 @@ Salvation`_, which ties with the exo-suit in `District 9`_.
 misc elements
 ~~~~~~~~~~~~~
 
-As regards the year's **best direction**, I can't decide who wins
-between `Changeling`_ and `There Will Be Blood`_. As for **best
-production design**, `Changeling`_ wins, and its runner-up is `Shoot 'Em
-Up`_. You will notice that *Changeling* gets more accolades than any
-other movie this year, and includes the **best costume design**, and the
-**best cast**. *Shoot 'Em Up* scoops **best cinematography**.
+`There Will Be Blood`_ has the year's **best direction**. Changeling_
+has **best production design**, and its runner-up is `Shoot 'Em Up`_,
+which however gets **best cinematography**.  Changeling_ also has
+**best costume design** and **best cast**.
 
 The year's greatest spectacles are *2012* and `Avatar`_; best thriller
 is `Law-Abiding Citizen`_; most original movie, or one that feels so, is
@@ -124,7 +118,7 @@ Make A Porno
 .. _District 9: http://movies.tshepang.net/district-9-2009
 .. _Baise-moi: http://movies.tshepang.net/baise-moi-2000
 .. _Bamboozled: http://movies.tshepang.net/bamboozled-2000
-.. _Changeling: http://movies.tshepang.net/recent-movies-2009-03-06
+.. _Changeling: http://movies.tshepang.net/changeling-2008
 .. _Watchmen: http://movies.tshepang.net/watchmen-2009
 .. _Raffaëla Anderson: http://en.wikipedia.org/wiki/Raffa%C3%ABla_Anderson
 .. _There Will Be Blood: http://movies.tshepang.net/there-will-be-blood-2007
