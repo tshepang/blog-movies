@@ -17,8 +17,9 @@ First review:
 
 It feels a lot worse, which is yet another instance of `The case of
 'The Matrix Reloaded'`__. It's not as interesting, it does not feel
-like *Taken*, is not set in dark Europe, the twist not too
-interesting, and the untrained life-saver merely irritating.
+like *Taken*, it's not set in dark Europe, the twist not too
+interesting (unless it's your first time), and the untrained
+life-saver merely irritating.
 
 
 __ http://movies.tshepang.net/the-case-of-the-matrix-reloaded
