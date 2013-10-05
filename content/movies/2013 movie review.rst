@@ -30,7 +30,11 @@ action
 
 action sequence
 
+* first battle with second-in-command of Zod (`Man of Steel`_)
+
 visual effects (overall)
+
+* `Man of Steel`_
 
 visual effects (specifics)
 
@@ -142,3 +146,4 @@ fall from glory
 .. _`Henry: Portrait of a Serial Killer`: http://movies.tshepang.net/henry-portrait-of-a-serial-killer
 .. _Redbelt: http://movies.tshepang.net/redbelt-2007
 .. _Chiwetel Ejiofor: http://en.wikipedia.org/wiki/Chiwetel_Ejiofor
+.. _Man of Steel: http://movies.tshepang.net/man-of-steel-2013
