@@ -11,7 +11,7 @@ of the not-so-interesting lead. The story also feels incomplete, and
 I've seen superior treatment of `the subject matter`__.
 
 On a more positive note, I have never seen zombies so vicious. Also,
-the movie not boring.
+the movie is not boring.
 
 
 __ http://movies.tshepang.net/subject-pandemics
