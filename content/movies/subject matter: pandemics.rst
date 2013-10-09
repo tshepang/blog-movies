@@ -1,8 +1,8 @@
-subject matter: pandemics
-=========================
+pandemic
+========
 
 :date: 2013-10-05
-:tags: list
+:tags: list, specific-subject
 
 
 Following is a ranking of movies on the subject matter of pandemics:
