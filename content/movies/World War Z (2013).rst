@@ -14,4 +14,4 @@ On a more positive note, I have never seen zombies so vicious. Also,
 the movie is not boring.
 
 
-__ http://movies.tshepang.net/pandemics
+__ http://movies.tshepang.net/pandemic
