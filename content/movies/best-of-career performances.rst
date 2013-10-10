@@ -18,7 +18,7 @@ best-of-career performances
 - Jon Voigt (`The Rainmaker`_)
 - Kerry Washington (I Think I Love My Wife)
 - Kirsten Dunst (Eternal Sunshine of the Spotless Mind)
-- Laurence Fishburne (Mystic River; Contagion)
+- Laurence Fishburne (Mystic River; Contagion_)
 - Mickey Rourke (The Wrestler)
 - Morgan Freeman (Million Dollar Baby)
 - Nicole Kidman (Birth); also `favorite-of-career`_; honorable mention
@@ -46,3 +46,4 @@ __ http://movies.tshepang.net/good-night-and-good-luck-2005
 .. _Vicky Cristina Barcelona: http://movies.tshepang.net/vicky-cristina-barcelona-2008
 .. _Wit: http://movies.tshepang.net/wit-2001
 .. _favorite-of-career performances: http://movies.tshepang.net/favorite-of-career-performances
+.. _Contagion: http://movies.tshepang.net/contagion-2011
