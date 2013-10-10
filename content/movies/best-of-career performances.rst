@@ -15,7 +15,7 @@ best-of-career performances
 - Jon Voigt (`The Rainmaker`_)
 - Kerry Washington (I Think I Love My Wife)
 - Kirsten Dunst (Eternal Sunshine of the Spotless Mind)
-- Laurence Fishburne (*Mystic River*; *Contagion*)
+- Laurence Fishburne (Mystic River; Contagion)
 - Mickey Rourke (The Wrestler)
 - Morgan Freeman (Million Dollar Baby)
 - Nicole Kidman (Birth); also `favorite-of-career`_; honorable mention
