@@ -24,20 +24,20 @@ asshole
 1. Ben Kingsley (*Sexy Beast*)
 2. Marlon Brandon (`A Streetcar Named Desire`_)
 
-favorite tough gals
--------------------
+tough gal
+---------
 
 1. Anjelina Jolie (*Salt*)
 2. Julianne Moore (*Next*)
 
-favorite animated gals
-----------------------
+animated gals
+-------------
 
 1. gal in `Avatar`_ (toughness, attitude, and sex appeal)
 2. gal in `Rango`_ (accent and character)
 
-cute character
---------------
+cute
+----
 
 1. new-born baby alien (*Men In Black*)
 2. the young penguins (*Surf's Up*)
@@ -48,15 +48,15 @@ nerd
 
 -  Jason Schwartzman's in *Shopgirl*
 
-creatures
----------
+creature
+--------
 
 #. Davey Jones (*Pirates of the Caribbean: Dead Man's Chest*)
 #. Kong (*King Kong*)
 #. Na'vi (`Avatar`_)
 
-monsters
---------
+monster
+-------
 
 #. Monster (*Cloverfield*)
 #. Pyramid Head (`Silent Hill`_ and `Silent Hill: Revelation`_)
@@ -88,6 +88,7 @@ airport checkpoint officer
 --------------------------
 
 -  the humorless guy at airport checkpoint (`The Next Three Days`_)
+
 
 .. _Kinsey: http://movies.tshepang.net/kinsey-2004
 .. _A Streetcar Named Desire: http://movies.tshepang.net/a-streetcar-named-desire-1951
