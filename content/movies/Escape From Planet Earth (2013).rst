@@ -9,7 +9,7 @@ Escape From Planet Earth (2013)
 It is reasonably entertaining, the animation is sophisticated, and
 visual design is of good quality, but it suffers from relying too much
 on recycled material, most notably from *The Incredibles* and
-Megamind__. I must no fault it too much for its direction, which is
+Megamind__. I must not fault it too much for its direction, which is
 also typical of so many expensive 3D-animated movies, including the
 above-mentioned ones. Even the character design is not fresh, though I
 did like one character... the giant gal. She is also not an original
