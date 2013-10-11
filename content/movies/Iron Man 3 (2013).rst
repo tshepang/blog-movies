@@ -12,8 +12,8 @@ impressive physical abilities (which was excused by some evidence of
 martial arts training), or the uninteresting idea of flaming villains
 (though the Pepper entrance was fun), or the whole story in
 general. Felt like mere opportunism (milking the franchise), and the
-abilities of the suit keep growing more and more, to point of being
-ludicrous: In the second movie, the portable suit idea was kool, and
+abilities of the suit keep growing more and more, to
+ludicrous levels: In the second movie, the portable suit idea was kool, and
 so was the *magnetic* one in `The Avengers`__. The remote-driven one
 in this third one is also a nice touch, but when it gets to the point
 of its individual parts flying themselves, I get to wish the
