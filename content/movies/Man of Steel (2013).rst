@@ -10,7 +10,7 @@ The visual design is amazing, and it made sense seeing that it was
 Zack Snyder at the top, the same director who brought us the visual
 masterpiece that is *300*. The movie has a weird feel to it, being
 such a dark (and dull) re-imagining of the world's most recognizable
-comic superheroes. It has incredible visual effects, some of which
+comic superhero. It has incredible visual effects, some of which
 represents the most epic hand-to-hand combat sequences ever put on
 screen. The Superman suit looks amazing!
 
