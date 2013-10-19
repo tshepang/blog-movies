@@ -30,7 +30,7 @@ casting choices:
 -  The driver of the boat sucks, and he sucked in *Malcolm X* too.
 -  I'm not sure about Laurence Fishburne; he seems too artificial, like
    some sorry attempt to keep the story interesting.
--  Harorissio Ford looks like ineffective comic relief, without being
+-  Harrison Ford looks like ineffective comic relief, without being
    one.
 
 Although the quality of being over-the-top worked well in the first
@@ -39,10 +39,10 @@ antic was acceptable. But as if that wasn't enough, they (later on, for
 some silly and unjustified reason) also had to fuck the travelling men.
 There was also the moment at a dinner table with the French. Note that
 these moments were very well done, but they just don't live up to what
-the first hour promises. They almost seem like desperate attempts at
+the first hour promised. They almost seem like desperate attempts at
 keeping the whole thing exciting. Yes, and that wasn't enough still, so
-there had to be sex and romance too, oh and the gal rocks so hard, and
-her face and sensuality of the magnificent Tilda Swinton.
+there had to be sex and romance too. Regardless, the gal rocks so hard,
+complete with the face and sensuality of the magnificent Tilda Swinton.
 
 The shortcomings of the movie aren't comfortable with me, for I would be
 happy to name it a masterpiece. But it's not. Excellent as it is. The
