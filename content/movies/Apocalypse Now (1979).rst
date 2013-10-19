@@ -45,8 +45,8 @@ there had to be sex and romance too. Regardless, the gal rocks so hard,
 complete with the face and sensuality of the magnificent Tilda Swinton.
 
 The shortcomings of the movie aren't comfortable with me, for I would be
-happy to name it a masterpiece. But it's not. Excellent as it is. The
-simply there so much mor eout there that's overall suprior. Surely this
+happy to name it a masterpiece. But it's not. Excellent as it is. There's
+simply so much more out there that's overall superior. Surely this
 is a work of visual excellence, and is showered with amazing
 cinematography and, especially, production design. The only war movie
 that is any match on both these elements is *Saving Private Ryan*. Maybe
