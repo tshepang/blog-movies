@@ -44,12 +44,12 @@ keeping the whole thing exciting. Yes, and that wasn't enough still, so
 there had to be sex and romance too. Regardless, the gal rocks so hard,
 complete with the face and sensuality of the magnificent Tilda Swinton.
 
-I hate the shortcomings of the, for I would be
-happy to name it a masterpiece. Surely this
-is a work of visual excellence, and is showered with amazing
-cinematography and, especially, production design. The only war movie
-that is any match on both these elements is *Saving Private Ryan*. Maybe
-that's a careless statement, but my memory is hardly ever impressive.
+I hate the shortcomings of the, for I would be happy to name it a
+masterpiece. Surely this is a work of visual excellence, and is
+showered with amazing cinematography and, especially, production
+design. The only war movie that is any match on both these elements is
+*Saving Private Ryan*. Maybe that's a careless statement, but my
+memory is hardly ever impressive.
 
 --------------
 
