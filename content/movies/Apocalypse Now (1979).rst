@@ -55,7 +55,7 @@ that's a careless statement, but my memory is hardly ever impressive.
 
 --------------
 
--  The version I watched is the one released in 2001, fully titled
-   *Apocalypse Now Redux*.
+The version I watched is the one released in 2001, fully titled
+*Apocalypse Now Redux*.
 
 .. _Seven Samurai: http://movies.tshepang.net/seven-samurai-1954
