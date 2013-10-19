@@ -19,7 +19,7 @@ Marlon Brando has very powerful moments dedicated to his character, a
 twisted fuck who revels in intense horror resulting from his experiences
 of war. He doesn't appear in much of the movie, and is filmed with
 reverance of a prophet, reminding of the old man in the early scenes of
-`Seven Samurai`_. Dennis Hopper does a wonderful turn as his admirer, in
+`Seven Samurai`__. Dennis Hopper does a wonderful turn as his admirer, in
 one of the few performances of his that are actually enjoyable (and I
 honestly can't remember which other ones are).
 
@@ -58,4 +58,5 @@ that's a careless statement, but my memory is hardly ever impressive.
 The version I watched is the one released in 2001, fully titled
 *Apocalypse Now Redux*.
 
-.. _Seven Samurai: http://movies.tshepang.net/seven-samurai-1954
+
+__ http://movies.tshepang.net/seven-samurai-1954
