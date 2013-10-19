@@ -5,6 +5,7 @@ favorite-of-career performances
 
 -  Ben Stiller (`Zoolander`_)
 -  Brad Pitt (Fight Club); honorable mention (Snatch)
+-  Dennis Hopper (`Apocalypse Now`_)
 -  Eamonn Walker (`Lord of War`_)
 -  Jet Li (Fist of Legend)
 -  Kerry Washington (I Think I Love My Wife)
@@ -29,3 +30,4 @@ related: `best-of-career performances`_
 .. _best-of-career performances: http://movies.tshepang.net/best-of-career-performances
 .. _Payback: http://movies.tshepang.net/payback-1999
 .. _Lord of War: http://movies.tshepang.net/lord-of-war-2005
+.. _Apocalypse Now: http://movies.tshepang.net/apocalypse-now-1979
