@@ -20,8 +20,7 @@ twisted fuck who revels in intense horror.
 He doesn't appear in much of the movie, and is filmed with
 reverance of a prophet, reminding me of the old man in the early scenes of
 `Seven Samurai`__. Dennis Hopper does a wonderful turn as his admirer, in
-one of the few performances of his that are actually enjoyable (and I
-honestly can't remember which other ones are).
+the only one of his performances that I actually find enjoyable.
 
 Despite this, I am not going to neglect to mention some questionable
 casting choices:
