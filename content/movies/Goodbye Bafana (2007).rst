@@ -8,7 +8,7 @@ Goodbye Bafana (2007)
 
 Watching `Mandela: Long Walk to Freedom`__ led me to check this one,
 whose existence I've been ignoring a few years now. Sadly, I have to
-say I didn't miss much... it's as dull they come, and none of the
+say I didn't miss much... it's about as dull they come, and none of the
 elements are worthy of celebration (cinematography, direction, acting,
 script, ...). The concept of exploring the life of an icon through
 someone else's eyes is something I appreciated about *Cry Freedom*,
