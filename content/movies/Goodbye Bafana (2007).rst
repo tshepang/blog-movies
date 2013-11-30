@@ -18,5 +18,11 @@ guard). As for the icon in question (Nelson Mandela), it doesn't look
 like much effort was expended really. Not even an attempt to make him
 look older, beyond some white shit on the actor's head. WTF!
 
+There was also not much effort on the part of the two actors to speak
+Xhosa (a major language in South Africa) in a half-convincing
+manner. Most of the world won't notice of course, but it still does
+matter... it's embarassing if you have any passing familiarity of the
+language. Lazy!
+
 
 __ http://movies.tshepang.net/mandela-long-walk-to-freedom-2013
