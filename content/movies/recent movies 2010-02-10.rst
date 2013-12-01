@@ -7,9 +7,9 @@ recent movies 2010-02-10
 
 I had intense anticipation for *Ninja Assassin*, and its intro lived up
 to the expectation while the rest failed (the momentum is lost even
-before halfway through); the brutality against the kids is hard to
-swallow; also the supernatural powers are left unexplained & martial
-choreography could be better; what I liked though is they helped wake up
+before halfway through). The brutality against the kids is hard to
+swallow. The supernatural powers are left unexplained & martial arts
+choreography could be better. What I liked though is the movie helped wake up
 the appealing mystery of Ninja lore, which will hopefully pave the way
 for superior works.
 
