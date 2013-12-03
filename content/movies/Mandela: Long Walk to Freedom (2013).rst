@@ -10,7 +10,7 @@ Good cinematography, production design, sound, and performance of the
 lady playing Zinzi. Horrible old-age make-up (check mom of Mandela, or
 worse still, check the Mandela face when Zinzi visits him in
 jail... embarrassing and unwatchable). Also, I didn't see Mandela in
-the lead performance (Idris Alba is not a very good performer, and he
+the lead performance (Idris Alba is not a very good performer, and is
 not credible in the role).
 
 The story was very rushed, and it leaves one feeling too many details
