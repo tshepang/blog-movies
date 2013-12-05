@@ -8,7 +8,7 @@ site = {
     'url': 'http://movies.tshepang.net',
 }
 
-output = os.path.expanduser('~/tmp/blog-movies')
+output = '.output'
 config = {
     'source': 'content',
     'output': output,
