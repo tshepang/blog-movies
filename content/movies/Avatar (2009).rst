@@ -46,7 +46,7 @@ what others feel
 
 -  I liked this `short analysis`_ of the movie.
 -  One commenter `correctly noted`_ stylistic similarities to the
-   much-deplored Jar Jar Binks of Star Trek fame.
+   much-deplored Jar Jar Binks of Star Wars fame.
 -  I also enjoyed a `disapproving review`_ by a famous inventor and
    futurist, Ray Kurzweil.
 
