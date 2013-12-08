@@ -35,6 +35,7 @@ action sequence
 visual effects (overall)
 
 * `Man of Steel`_
+* Elysium_
 
 visual effects (specifics)
 
@@ -147,3 +148,4 @@ fall from glory
 .. _Redbelt: http://movies.tshepang.net/redbelt-2007
 .. _Chiwetel Ejiofor: http://en.wikipedia.org/wiki/Chiwetel_Ejiofor
 .. _Man of Steel: http://movies.tshepang.net/man-of-steel-2013
+.. _Elysium: http://movies.tshepang.net/elysium-2013
