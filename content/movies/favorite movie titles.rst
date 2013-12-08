@@ -2,7 +2,7 @@ favorite movie titles
 =====================
 
 :date: 2013-05-25
-:tags: untagged
+:tags: list
 :public: false
 
 

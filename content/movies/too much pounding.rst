@@ -2,7 +2,7 @@ too much pounding
 =================
 
 :date: 2013-09-04
-:tags: untagged
+:tags: list
 :public: false
 
 
