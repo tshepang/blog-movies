@@ -13,7 +13,7 @@ actions of the violent villains are not justified, and so are those of
 the Jodie Foster villain. The leader of the revolutionry criminals is
 very unconvincing. The movie also feels rushed. It's a pity because it
 starts well, and is well-made (the director made `District 9`__ after
-all), complete with great visual effects, and an appealing story.
+all), complete with great visual effects and action direction.
 
 
 __ http://en.wikipedia.org/wiki/William_Fichtner
