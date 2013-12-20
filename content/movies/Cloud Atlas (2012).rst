@@ -20,7 +20,7 @@ reality?
 --------------
 
 There are some interesting quotables sprinkled all over the place. My
-favorite example is one uttered by a master composer after an attempt at
+favorite is one uttered by a master composer after an attempt at
 a piano by one apprentice:
 
     You must have misheard me! I said I had a melody, not a malady!
