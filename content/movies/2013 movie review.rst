@@ -78,7 +78,7 @@ desirable gal
 character design
 
 * The Missionary (`Silent Hill: Revelation`_)
-
+* floating giants (MirrorMask_)
 
 perfect gentleman
 
@@ -125,7 +125,7 @@ enchanting
 
 bizarre
 
-* `Cloud Atlas`_
+* A tie between `Cloud Atlas`_ and MirrorMask_
 
 
 'old' movies
@@ -149,3 +149,4 @@ fall from glory
 .. _Chiwetel Ejiofor: http://en.wikipedia.org/wiki/Chiwetel_Ejiofor
 .. _Man of Steel: http://movies.tshepang.net/man-of-steel-2013
 .. _Elysium: http://movies.tshepang.net/elysium-2013
+.. _MirrorMask: http://movies.tshepang.net/mirrormask-2005
