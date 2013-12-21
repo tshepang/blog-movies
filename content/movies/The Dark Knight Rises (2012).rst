@@ -1,23 +1,19 @@
 The Dark Knight Rises (2012)
 ============================
 
-:date: 2012-12-01
-:tags: good, 2012-movie
+:date: 2013-12-21
+:tags: decent, 2012-movie
 
 
 
-I am in love with the voice and utterances of the masked villain. He is
-also a villain so formidable that almost nowhere in the movie do you
-doubt that he is not in control, until the silly twist of course. This
-is in a movie whose makers ensured it was far bigger and more intense
-than `the immediate predecessor`_. I also found it a lot more
-entertaining, though of course there just cannot be anything matching
-the incredible miracle that was Heath Ledger's The Joker.
+I am in love with the voice and utterances of Bane, a physically
+formidable villain in a mask. The movie is far bigger and more intense
+than `the immediate predecessor`__. I also found it more entertaining
+(at least on first viewing), and a lot less annoying, though nothing
+matches the miracle that is Heath Ledger's The Joker. The title
+character sounds unconvincing with the silly voice, and movie feels
+like a mess. Maybe it's just too long, and the writers too desperate
+to impress. The stupid twist didn't help.
 
-There are stupid classic movie 'mistakes':
 
--  A knife removed from abdomen makes a metallic sound
--  There is very limited time to take the bomb as far away as possible,
-   yet we see people kissing and exchanging goodbyes... so annoying
-
-.. _the immediate predecessor: http://movies.tshepang.net/the-dark-knight-and-the-joker
+__ http://movies.tshepang.net/the-dark-knight-and-the-joker
