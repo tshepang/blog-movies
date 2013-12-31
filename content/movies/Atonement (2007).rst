@@ -6,7 +6,7 @@ Atonement (2007)
 
 
 
-Superb performance by all 3 people playing the writer girl, my favorite
+Superb performances by all 3 people playing the writer girl, my favorite
 being the youngest, which happens to be among the best child
 performances I've ever seen. One other nice performance is the young
 girl who eventually gets raped. I like the rather lame use of
