@@ -7,7 +7,7 @@ best performance
 ----------------
 
 1. Robert De Niro as boxer (*Raging Bull*)
-2. Heath Ledger as The Joker (*The Dark Knight*)
+2. Heath Ledger as The Joker (`The Dark Knight`_)
 3. Daniel Day-Lewis as oil-rich titan (`There Will Be Blood`_)
 
 best child performance
@@ -19,7 +19,7 @@ best child performance
 favorite
 --------
 
-1. Heath Ledger as The Joker (*The Dark Knight*)
+1. Heath Ledger as The Joker (`The Dark Knight`_)
 2. Sterling Hayden as the mad general (`Dr. Strangelove`_)
 3. John Carrol Lynch as suspect (*Zodiac*)
 4. Taraji Hanson as the sniper (`Smokin' Aces`_)
@@ -55,3 +55,4 @@ witch
 .. _Lennie James: http://en.wikipedia.org/wiki/Lennie_James
 .. _The Next Three Days: http://movies.tshepang.net/the-next-three-days-2010
 .. _Payback: http://movies.tshepang.net/payback-1999
+.. _The Dark Knight: http://movies.tshepang.net/the-dark-knight-2008

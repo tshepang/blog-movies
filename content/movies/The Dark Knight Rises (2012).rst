@@ -16,4 +16,4 @@ like a mess. Maybe it's just too long, and the writers too desperate
 to impress. The stupid twist didn't help.
 
 
-__ http://movies.tshepang.net/the-dark-knight-and-the-joker
+__ http://movies.tshepang.net/the-dark-knight-2008

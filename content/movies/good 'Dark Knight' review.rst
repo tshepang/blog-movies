@@ -29,5 +29,5 @@ checking out, and among my favorites:
     a great character to get stuck in.
 
 __ http://www.ruthlessreviews.com/742/dark-knight-the
-__ http://movies.tshepang.net/the-dark-knight-and-the-joker
+__ http://movies.tshepang.net/the-dark-knight-2008
 __ http://www.ruthlessreviews.com/746/dark-knight-the-2

@@ -69,7 +69,7 @@ in movie history as great as that in *Death Proof*.
 performances
 ------------
 
-The year's performance is easily Heath Ledger's in *The Dark Knight*,
+The year's performance is easily Heath Ledger's in `The Dark Knight`_,
 and he happens to be the movie's sole redeemer, almost. Other
 outstanding male performers are Josh Brolin in `Planet Terror`_, Cuba
 Gooding, Jr.'s as dirty cop in *Dirty*, John Carrol Lynch's bit
@@ -100,7 +100,7 @@ of the Native Americans.
 characters
 ----------
 
-The **best villain** is Heath Ledger's The Joker in *The Dark Knight*,
+The **best villain** is Heath Ledger's The Joker in `The Dark Knight`_,
 who is also my most favorite ever. He is followed by Sid Haig's homorous
 clown in *House of A Thousand Corpses*.
 
@@ -172,3 +172,4 @@ Marshall; Weather Man; Zoom
 .. _these: http://movies.tshepang.net/tag/2008-movie
 .. _The New World: http://movies.tshepang.net/the-new-world-2005
 .. _Silent Hill: http://movies.tshepang.net/silent-hill-2006
+.. _The Dark Knight: http://movies.tshepang.net/the-dark-knight-2008
