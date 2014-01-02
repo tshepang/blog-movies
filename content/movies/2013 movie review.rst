@@ -46,7 +46,7 @@ MirrorMask_.
 miscellaneous
 -------------
 
-The most **important** movie is Frozen_ due to its well-delivered
+The most **important** movie is `The Thaw`_ due to its well-delivered
 story, which is related to the consequences of global warming. There
 is a tie for the most **bizarre** movie: `Cloud Atlas`_ and
 MirrorMask_.
@@ -62,7 +62,7 @@ in 2013.
 .. _Cloud Atlas: http://movies.tshepang.net/cloud-atlas-2012
 .. _In Bruges: http://movies.tshepang.net/in-bruges-2008
 .. _`Silent Hill: Revelation`: http://movies.tshepang.net/silent-hill-revelation-2012
-.. _Frozen: http://movies.tshepang.net/frozen-2009
+.. _The Thaw: http://movies.tshepang.net/the-thaw-2009
 .. _Cleanskin: http://movies.tshepang.net/cleanskin-2012
 .. _`Henry: Portrait of a Serial Killer`: http://movies.tshepang.net/henry-portrait-of-a-serial-killer
 .. _Redbelt: http://movies.tshepang.net/redbelt-2007

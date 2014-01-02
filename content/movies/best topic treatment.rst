@@ -39,7 +39,7 @@ existential threats
 -------------------
 
 #. Contagion_
-#. Frozen_
+#. `The Thaw`__
 
 alternate reality concepts
 --------------------------
@@ -53,5 +53,5 @@ alternate reality concepts
 .. _Precious: http://tshepang.net/precious-2009
 .. _Festen: http://tshepang.net/festen-1998
 .. _Contagion: http://movies.tshepang.net/contagion-2011
-.. _Frozen: http://movies.tshepang.net/frozen-2009
+.. _The Thaw: http://movies.tshepang.net/the-thaw-2009
 .. _Cleanskin: http://movies.tshepang.net/cleanskin-2012
