@@ -34,7 +34,7 @@ Cleanskin_.
 characters
 ----------
 
-My **favorite character** is the honorable martial arts intructor in
+My **favorite character** is the honorable martial arts instructor in
 Redbelt_, played by Chiwetel Ejiofor. The most **desirable gal** is
 the love interest in `In Bruges`_.
 
@@ -47,7 +47,7 @@ miscellaneous
 -------------
 
 The most **important** movie is Frozen_ given its effective global
-warming message, while the most **bizarre** title is a tie between
+warming message, while the most **bizarre** movie is a tie between
 `Cloud Atlas`_ and MirrorMask_.
 
 The title for **best 'old' movie experience** goes to Payback_. This a
