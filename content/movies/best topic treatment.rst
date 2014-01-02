@@ -22,7 +22,7 @@ oppressed. Here's a list of movies that covers that topic very well:
 food
 ----
 
-You would love to join in:
+You would love to have some:
 
 #. Ratatouille
 #. Julie & Julia
