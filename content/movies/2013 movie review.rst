@@ -16,8 +16,8 @@ visuals
 -------
 
 Cleanskin_ has the best **action**, while `Man of Steel`_ has the
-single best **action sequence** (the first battle with
-second-in-command of Zod).  The best **visual effects** can be found
+best **action sequence**, the first battle with
+second-in-command of Zod.  The best **visual effects** can be found
 in `Man of Steel`_, followed by Elysium_.
 
 
