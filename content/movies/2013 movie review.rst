@@ -5,7 +5,7 @@
 
 
 
-Not such a great year at movies, worse than `last year`_, though I
+Not such a great year at the movies, even worse than `last year`_, though I
 think I also watched a lot less movies. Luckily there's two excellent
 ones, the best being `In Bruges`_. It also boasts the year's best
 **direction**, **cinematography**, and **script/dialog**. The other
