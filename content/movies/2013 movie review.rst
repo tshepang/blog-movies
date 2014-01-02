@@ -2,139 +2,58 @@
 =================
 
 :date: 2014-01-01
-:public: false
 
 
 
-best movie
-
-* `In Bruges`_
-
-direction
-
-* `In Bruges`_
+Not such a great year at movies, worse than `last year`_, though I
+think I also watched a lot less movies. Luckily there's two excellent
+ones, the best being `In Bruges`_. It also boasts the year's best
+**direction**, **cinematography**, and **script/dialog**. The other
+excellent movie is Redbelt_.
 
 
 visuals
 -------
 
-production design
-
-cinematography
-
-* `In Bruges`_
-
-action
-
-* Cleanskin_
-
-action sequence
-
-* first battle with second-in-command of Zod (`Man of Steel`_)
-
-visual effects (overall)
-
-* `Man of Steel`_
-* Elysium_
-
-visual effects (specifics)
-
-animation
+Cleanskin_ has the best **action**, while `Man of Steel`_ has the
+single best **action sequence** (the first battle with
+second-in-command of Zod).  The best **visual effects** can be found
+in `Man of Steel`_, followed by Elysium_.
 
 
 performances
 ------------
 
-favorite performance
-
-* Tom Towles playing Otis (`Henry: Portrait of a Serial Killer`_)
-
-best male performance
-
-* `Chiwetel Ejiofor`_ as arts instructor (Redbelt_)
-
-best female performance
-
-* Charlotte Rampling (Cleanskin_)
-
-cast
+My **favorite performance** is that of Tom Towles playing Otis in
+`Henry: Portrait of a Serial Killer`_, but the **best male
+performance** is by `Chiwetel Ejiofor`_ as an instructor in
+Redbelt_. The **best female performance** is by Charlotte Rampling in
+Cleanskin_.
 
 
 characters
 ----------
 
-character development
+My **favorite character** is the honorable martial arts intructor in
+Redbelt_, played by Chiwetel Ejiofor. The most **desirable gal** is
+the love interest in `In Bruges`_.
 
-favorite character
-
-* Chiwetel Ejiofor as an honorable martial arts instructor (Redbelt_)
-
-villain
-
-desirable gal
-
-* the love interest (`In Bruges`_)
-
-character design
-
-* The Missionary (`Silent Hill: Revelation`_)
-* floating giants (MirrorMask_)
-
-perfect gentleman
-
-comic
-
-voice talent
-
+The best **character design** is the fearsome The Missionary in
+`Silent Hill: Revelation`_, followed by the bizarre floating giants in
+MirrorMask_.
 
 
 miscellaneous
 -------------
 
-script/dialogue
+The most **important** movie is Frozen_ given its effective global
+warming message, while the most **bizarre** title is a tie between
+`Cloud Atlas`_ and MirrorMask_.
 
-* `In Bruges`_
-
-narration
-
-sound
-
-concept
-
-most important
-
-* Frozen_
-
-first-time viewing experience
-
-worst revisit
-
-make-up
-
-overrated
-
-original story
-
-spectacle
-
-painful
-
-funny
-
-enchanting
-
-bizarre
-
-* A tie between `Cloud Atlas`_ and MirrorMask_
-
-
-'old' movies
-------------
-
-* Payback_
-
-viewing experience
-fall from glory
+The title for **best 'old' movie experience** goes to Payback_. This a
+title for a movie I've seen before this year. A special mention should
+go to the `Director's Cut version`__, which I saw first time this
+year.
 
 
 
@@ -150,3 +69,5 @@ fall from glory
 .. _Man of Steel: http://movies.tshepang.net/man-of-steel-2013
 .. _Elysium: http://movies.tshepang.net/elysium-2013
 .. _MirrorMask: http://movies.tshepang.net/mirrormask-2005
+.. _last year: http://movies.tshepang.net/2012-movie-review
+__ http://movies.tshepang.net/payback-straight-up-2006
