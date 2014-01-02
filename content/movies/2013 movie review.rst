@@ -53,8 +53,8 @@ MirrorMask_.
 
 The title for **best 'old' movie experience** goes to Payback_. This a
 title for a movie I've seen before this year. A special mention should
-go to the `Director's Cut version`__, which I saw first time this
-year.
+go to the `Director's Cut version`__, which I saw first time
+in 2013.
 
 
 
