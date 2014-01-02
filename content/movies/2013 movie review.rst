@@ -57,9 +57,9 @@ year.
 
 
 
-.. _Payback: http://tshepang.net/payback-1999
-.. _Cloud Atlas: http://tshepang.net/cloud-atlas-2012
-.. _In Bruges: http://tshepang.net/in-bruges-2008
+.. _Payback: http://movies.tshepang.net/payback-1999
+.. _Cloud Atlas: http://movies.tshepang.net/cloud-atlas-2012
+.. _In Bruges: http://movies.tshepang.net/in-bruges-2008
 .. _`Silent Hill: Revelation`: http://movies.tshepang.net/silent-hill-revelation-2012
 .. _Frozen: http://movies.tshepang.net/frozen-2009
 .. _Cleanskin: http://movies.tshepang.net/cleanskin-2012
