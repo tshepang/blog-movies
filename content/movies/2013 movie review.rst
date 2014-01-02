@@ -46,9 +46,10 @@ MirrorMask_.
 miscellaneous
 -------------
 
-The most **important** movie is Frozen_ given its effective global
-warming message, while the most **bizarre** movie is a tie between
-`Cloud Atlas`_ and MirrorMask_.
+The most **important** movie is Frozen_ due to its well-delivered
+story, which is related to the consequences of global warming. There
+is a tie for the most **bizarre** movie: `Cloud Atlas`_ and
+MirrorMask_.
 
 The title for **best 'old' movie experience** goes to Payback_. This a
 title for a movie I've seen before this year. A special mention should
