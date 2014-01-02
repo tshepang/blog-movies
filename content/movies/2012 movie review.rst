@@ -7,9 +7,8 @@
 
 
 It is a pity that this year lacks any excellent movies, never mind a
-masterpiece. This makes `last year`_, which was a great year, by far
-better, and this among the worst. This does not mean there was nothing
-to celebrate of course.
+masterpiece. This makes `last year`_ far better and this among the
+worst. This does not mean there was nothing to celebrate of course.
 
 visuals
 -------
