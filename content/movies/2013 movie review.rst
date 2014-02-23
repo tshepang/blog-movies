@@ -5,7 +5,7 @@
 
 
 
-Not such a great year at the movies, even worse than `last year`_,
+Not such a great year at the movies, even worse than `last year`__,
 though I think I also watched a lot less movies. Luckily there's two
 excellent ones, the best being `In Bruges`_. It also boasts the year's
 best **direction**, **cinematography**, and **script/dialog**. The
@@ -76,5 +76,5 @@ in 2013.
 .. _Elysium: http://movies.tshepang.net/elysium-2013
 .. _MirrorMask: http://movies.tshepang.net/mirrormask-2005
 .. _Goodbye Uncle Tom: http://movies.tshepang.net/goodbye-uncle-tom-1971
-.. _last year: http://movies.tshepang.net/2012-movie-review
+__ http://movies.tshepang.net/2012-movie-review
 __ http://movies.tshepang.net/payback-straight-up-2006
