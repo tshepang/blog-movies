@@ -75,6 +75,6 @@ in 2013.
 .. _Man of Steel: http://movies.tshepang.net/man-of-steel-2013
 .. _Elysium: http://movies.tshepang.net/elysium-2013
 .. _MirrorMask: http://movies.tshepang.net/mirrormask-2005
-.. _Goodbyw Uncle Tom: http://movies.tshepang.net/goodbye-uncle-tom-1971
+.. _Goodbye Uncle Tom: http://movies.tshepang.net/goodbye-uncle-tom-1971
 .. _last year: http://movies.tshepang.net/2012-movie-review
 __ http://movies.tshepang.net/payback-straight-up-2006
