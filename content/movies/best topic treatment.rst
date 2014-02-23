@@ -39,7 +39,7 @@ existential threats
 -------------------
 
 #. Contagion_
-#. `The Thaw`__
+#. `The Thaw`_
 
 alternate reality concepts
 --------------------------
