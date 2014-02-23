@@ -1,0 +1,16 @@
+The Passion of Joan of Arc (1928)
+=================================
+
+:date: 2014-02-23
+:tags: 2014-movie, very-good
+
+
+
+A well-made and entertaining dark comedy with interesting
+performances. I did not expect the humor, but it made things more
+entertaining. The lead performance also brought pleasure to eye,
+though it was never quite convincing. The character is admirable
+though: she maintained courage despite the mental torture (threats,
+harsh accusations, and deception), though I wish she should have said
+more... too often she kept quite while questioned. The direction is
+powerful, and so is the story.
