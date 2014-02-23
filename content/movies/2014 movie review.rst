@@ -11,7 +11,8 @@ best movie
 visuals
 -------
 
-**visual design**: `Upside Down`_
+**visual design**: `Upside Down`_, followed by `The Hunger Games:
+ Catching Fire`_
 
 production design
 
@@ -97,4 +98,5 @@ viewing experience
 fall from glory
 
 
-.. _upside down: http://movies.tshepang.net/upside-down-2012
+.. _Upside Down: http://movies.tshepang.net/upside-down-2012
+.. _`The Hunger Games: Catching Fire`: http://movies.tshepang.net/the-hunger-games-catching-fire-2013
