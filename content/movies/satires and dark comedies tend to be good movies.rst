@@ -1,7 +1,7 @@
 satires and dark comedies tend to be good movies
 ================================================
 
-:date: 2012-04-16
+:date: 2014-02-23
 :tags: list
 
 
@@ -16,6 +16,7 @@ Anyways here's a list of works of excellent works that fit the bill:
 - `Being John Malkovich`__
 - `Dr. Strangelove`__
 - Fight Club
+- `Goodbye Uncle Tom`__
 - `Lord of War`__
 - Network__
 - Payback__
@@ -24,6 +25,7 @@ Anyways here's a list of works of excellent works that fit the bill:
 
 __ http://movies.tshepang.net/being-john-malkovich-1999
 __ http://movies.tshepang.net/dr-strangelove-1964
+__ http://movies.tshepang.net/goodbye-uncle-tom-1971
 __ http://movies.tshepang.net/lord-of-war-2005
 __ http://movies.tshepang.net/network-1976
 __ http://movies.tshepang.net/payback-1999
