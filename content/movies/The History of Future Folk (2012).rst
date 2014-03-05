@@ -6,9 +6,10 @@ The History of Future Folk (2012)
 
 
 
-Unique, and often dull, the movie has the lead telling a story of his
-alien origins, which is so ludicrous everyone thinks is just made-up
-as part of his entertainment set. This character is played by a
-gorgeous Jet Li lookalike, who is a pleasure to the eye. The other
-alien that later befriends him is fun to watch, and the female police
-officer is pretty as fuck.
+An unusual and somewhat dull movie which has the lead tell a the story
+of his alien origins, a story so ridiculous it has people think is
+just made-up as part of his entertainment set as a musician. This
+character is played by a guy with an interesting face, a Jet Li
+lookalike, making him a pleasure to eye. The other alien that later
+befriends him is fun to watch, and the female police officer is pretty
+as fuck.
