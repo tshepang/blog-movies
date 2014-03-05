@@ -48,7 +48,7 @@ villain
 
 desirable gal
 
-character design
+**character design**: giant samurai robot in `The Wolverine`_
 
 perfect gentleman
 
@@ -102,3 +102,4 @@ fall from glory
 
 .. _Upside Down: http://movies.tshepang.net/upside-down-2012
 .. _`The Hunger Games: Catching Fire`: http://movies.tshepang.net/the-hunger-games-catching-fire-2013
+.. _The Wolverine: http://movies.tshepang.net/the-wolverine-2013
