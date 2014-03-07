@@ -18,7 +18,7 @@ The are three performances that stand out:
   there isn't a lack of those two qualities here.
 
 The whole is very well-made, complete with quality production design
-and an interesting story. The portrayal of the setting is also
-believable.
+and an interesting story.
+
 
 __ http://movies.tshepang.net/best-of-career-performances
