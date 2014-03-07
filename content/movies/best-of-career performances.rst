@@ -11,6 +11,7 @@ best-of-career performances
 - Colin Firth (`The King's Speech`_)
 - David Straithairn (`Good Night, and Good Luck`__)
 - Emma Thompson (Wit_)
+- Forest Whitaker (`The Last King of Scotland`_)
 - Geoffrey Rush (`The King's Speech`_)
 - Guy Pearce (`Memento`_)
 - John Carroll Lynch (Zodiac)
@@ -47,3 +48,4 @@ __ http://movies.tshepang.net/good-night-and-good-luck-2005
 .. _Wit: http://movies.tshepang.net/wit-2001
 .. _favorite-of-career performances: http://movies.tshepang.net/favorite-of-career-performances
 .. _Contagion: http://movies.tshepang.net/contagion-2011
+.. _The Last King of Scotland: http://movies.tshepang.net/the-last-king-of-scotland-2006
