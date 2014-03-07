@@ -67,7 +67,7 @@ Aces`_. The best female performance was however that of Anne Parillaud,
 who plays the lead in *Sex is Comedy*, portraying a tough yet lovely
 movie director. The performance is enhanced very well by her limp. As
 for male performances, there's a tie between Anthony Hopkins in
-`Fracture`_ and Forest Whitaker in *The Last King of Scotland*, which is
+`Fracture`_ and Forest Whitaker in `The Last King of Scotland`_, which is
 a pity because that was Forest's best ever performance while Anthony's
 was business-as-usual. Mark Ruffalo's subdued but highly-focused
 character in *Zodiac* is runner-up.
@@ -80,8 +80,8 @@ for its unflinching acts of corruption. My favorite character is Gerard
 Butler's Spartan king in *300* while the most exotic is the Anjelina
 Jolie's demon in `Beowulf`_. The most desirable gal is Rosamund Pike in
 *Fracture* while Vera Farmica of *The Departed*, Ana Claudia Talancon'
-in *El Crimen del Padro Amaro*, and Kerry Washington in *The Last King
-of Scotland* are tied as runner-ups. Julianne Moore in *Next* is the
+in *El Crimen del Padro Amaro*, and Kerry Washington in `The Last King
+of Scotland`_ are tied as runner-ups. Julianne Moore in *Next* is the
 year's best detective given her unrelenting focus in getting the job
 done. A special mention should go to John Heder's goofy and kind-hearted
 ice skating champion in the delightful *Blades of Glory*.
@@ -98,7 +98,7 @@ exciting. That runner-up would have won had it come up with something
 more interesting than the stormy battle. *300* easily wins the year's
 best imagery for being greatly stylized. *The Number 23* takes second
 spot due to its gorgeous fantasy-like scenes. The most horrific
-imagery emanates from *The Last King of Scotland*, a scene that
+imagery emanates from `The Last King of Scotland`_, a scene that
 showcases the aftermath of the cheating wife.
 
 action
@@ -129,7 +129,7 @@ treatment I've ever seen of time-travel, though the movie itself sucks
 much. 2nd runner-up happens to be *Solaris*, whose concept is
 reminiscent of that of *Sphere* and therefore not so fresh. *Solaris* is
 also runner-up for most surreal, winner by far being the unbearably
-weird *The Fountain*. *The Last King of Scotland* had the best music
+weird *The Fountain*. `The Last King of Scotland`_ had the best music
 while `Apocalypto`_ had the best costume design. *Fearless*' battle on
 the elevated platform was the best fight while *Five Fingers* had the
 best twist. The most overrated movie turns out to be *Vertigo*, which
@@ -185,3 +185,4 @@ of Blood; Time Bandits; Troy
 .. _The Bourne Ultimatum: http://movies.tshepang.net/the-bourne-ultimatum-2007
 .. _these: http://movies.tshepang.net/tag/2007-movie
 .. _Pan's Labyrinth: http://movies.tshepang.net/pans-labyrinth-2006
+.. _The Last King of Scotland: http://movies.tshepang.net/the-last-king-of-scotland-2006
