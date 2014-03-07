@@ -8,7 +8,7 @@ The Last King of Scotland (2006)
 
 The are three performances that stand out:
 
-* Forest Whitaker gives `the best one of his career`__ the title
+* Forest Whitaker gives `the best one of his career`__ playing the title
   character. His is also a very well-developed character.
 
 * James McAvoy gives an excellent one as the advisor, though his
