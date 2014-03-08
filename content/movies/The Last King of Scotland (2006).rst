@@ -17,7 +17,7 @@ The are three performances that stand out:
 * Kerry Washington is both a desirable and very capable actor, and
   there isn't a lack of those two qualities here.
 
-The whole is very well-made, complete with quality production design
+The movie is very well-made, complete with quality production design
 and an interesting story.
 
 
