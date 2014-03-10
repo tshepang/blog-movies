@@ -1,7 +1,6 @@
 2014 movie review
 =================
 
-:date: 2014-01-18
 :public: false
 
 
