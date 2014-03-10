@@ -12,7 +12,7 @@ visuals
 -------
 
 **visual design**: `Upside Down`_, followed by `The Hunger Games:
- Catching Fire`_
+Catching Fire`_
 
 production design
 
