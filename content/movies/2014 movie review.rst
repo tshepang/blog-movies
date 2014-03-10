@@ -20,7 +20,7 @@ cinematography
 
 action sequence
 
-visual effects (overall)
+**visual effects (overall)**: `Thor: The Dark World`_
 
 visual effects (specifics)
 
@@ -103,3 +103,4 @@ fall from glory
 .. _Upside Down: http://movies.tshepang.net/upside-down-2012
 .. _`The Hunger Games: Catching Fire`: http://movies.tshepang.net/the-hunger-games-catching-fire-2013
 .. _The Wolverine: http://movies.tshepang.net/the-wolverine-2013
+.. _`Thor: The Dark World`: http://movies.tshepang.net/thor-the-dark-world-2013
