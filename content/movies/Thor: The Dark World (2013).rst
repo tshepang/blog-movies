@@ -9,7 +9,7 @@ Thor: The Dark World (2013)
 An improvement over `the original`__, it has far superior visual
 effects (the evil dark energy and the epic duels), a far more
 interesting villain, and superior character design. There is still the
-uninteresting Natalie Portman character (not charming, and too stale)
+uninteresting and stale Natalie Portman character
 and the never-serious sidekick.
 
 
