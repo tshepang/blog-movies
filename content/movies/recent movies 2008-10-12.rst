@@ -49,8 +49,8 @@ R. Lee Ermey doesn't miss a step in the bad and unnecessary horror
 flick, *The Texas Chainsaw Massacre: The Beginning*.
 
 One movie that should be forbidden from the eyes of all is *The
-Forbidden Kingdom*, even though I `enjoyed it more previously`_.
+Forbidden Kingdom*, even though I `enjoyed it more previously`__.
 
 
-.. _enjoyed it more previously: http://movies.tshepang.net/recent-movies-2008-05-28
 __ http://movies.tshepang.net/pans-labyrinth-2006
+__ http://movies.tshepang.net/recent-movies-2008-05-28
