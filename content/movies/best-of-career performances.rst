@@ -22,7 +22,7 @@ best-of-career performances
 - Laurence Fishburne (Mystic River; Contagion_)
 - Mickey Rourke (The Wrestler)
 - Morgan Freeman (Million Dollar Baby)
-- Nicole Kidman (Birth); also `favorite-of-career`_; honorable mention
+- Nicole Kidman (Birth_); also `favorite-of-career`_; honorable mention
   (`Rabbit Hole`_)
 - Penélope Cruz (`Vicky Cristina Barcelona`_)
 - Rosario Dawson (Seven Pounds)
@@ -49,3 +49,4 @@ __ http://movies.tshepang.net/good-night-and-good-luck-2005
 .. _favorite-of-career performances: http://movies.tshepang.net/favorite-of-career-performances
 .. _Contagion: http://movies.tshepang.net/contagion-2011
 .. _The Last King of Scotland: http://movies.tshepang.net/the-last-king-of-scotland-2006
+.. _Birth: http://movies.tshepang.net/birth-2004
