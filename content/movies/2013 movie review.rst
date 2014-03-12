@@ -15,10 +15,10 @@ other excellent movie is Redbelt_.
 visuals
 -------
 
-Cleanskin_ has the best **action**, while `Man of Steel`_ has the
-best **action sequence**, the first battle with
-second-in-command of Zod. The movie also has the best **visual effects**,
-followed by Elysium_.
+Cleanskin_ has the best **action**, while `Man of Steel`_ has the best
+**action sequence**, the first battle with second-in-command of
+Zod. The movie also has the best **visual effects**, followed by
+Elysium_.
 
 
 performances
