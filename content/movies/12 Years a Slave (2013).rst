@@ -14,13 +14,13 @@ Brothers* for example.
 
 The one interesting subplot is one involving the sex pet, whose fate
 is less than desirable. Not that her performance is any excellent, nor
-her scenes particularly well-made; she just happens to be in a rather
+her scenes particularly well-made. She just happens to be in a rather
 unique situation, and I like her face :)
 
 This may end up the most overrated movie of the year. There's not much
 value in here. Find something else. If in a mood for some Black
 American slavery stuff, check out the far superior Mandingo__ and
-`Goodbye Uncle Tom`__, or more recently, `Django Unchained`__.
+`Goodbye Uncle Tom`__, or even `Django Unchained`__.
 
 
 __ http://movies.tshepang.net/redbelt-2007
