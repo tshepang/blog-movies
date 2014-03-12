@@ -29,7 +29,7 @@ animation
 performances
 ------------
 
-best male performance
+**best male performance**: `Michael Shannon`_ in `Premium Rush`_
 
 best female performance
 
@@ -45,7 +45,7 @@ favorite character
 
 villain
 
-desirable gal
+**desirable gal** love interest in `Premium Rush`_
 
 **character design**: giant samurai robot in `The Wolverine`_
 
@@ -103,3 +103,5 @@ fall from glory
 .. _`The Hunger Games: Catching Fire`: http://movies.tshepang.net/the-hunger-games-catching-fire-2013
 .. _The Wolverine: http://movies.tshepang.net/the-wolverine-2013
 .. _`Thor: The Dark World`: http://movies.tshepang.net/thor-the-dark-world-2013
+.. _Michael Shannon: http://en.wikipedia.org/wiki/Michael_Shannon
+.. _Premium Rush: http://movies.tshepang.net/premium-rush-2012
