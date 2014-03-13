@@ -6,11 +6,10 @@ satires and dark comedies tend to be good movies
 
 
 
-It's probably hard to make dark comedies and satires, discouraging most
-artists to make them. Many satires tend to be dark comedies, that's why
-I chose to make this one post.
+*Many satires tend to be (dark) comedies, and that's why I made one
+list instead of two.*
 
-Anyways here's a list of works of excellent works that fit the bill:
+A list of very-good__ movies (or better) that fit the description:
 
 - Bamboozled
 - `Being John Malkovich`__
@@ -23,6 +22,7 @@ Anyways here's a list of works of excellent works that fit the bill:
 - `Requiem for A Dream`__
 
 
+__ http://movies.tshepang.net/my-movie-rating-system
 __ http://movies.tshepang.net/being-john-malkovich-1999
 __ http://movies.tshepang.net/dr-strangelove-1964
 __ http://movies.tshepang.net/goodbye-uncle-tom-1971
