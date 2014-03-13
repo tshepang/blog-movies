@@ -6,6 +6,6 @@ Gravity (2013)
 
 
 
-Very well-made, with good attention to detail, and a unique story-line;
-The suspense is too much for my liking; I enjoyed performance of
+Very well-made, with good attention to detail, and a unique story-line.
+The suspense is too much for my liking. I enjoyed performance of
 George Clooney much.
