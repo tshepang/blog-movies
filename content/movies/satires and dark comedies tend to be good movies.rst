@@ -6,18 +6,17 @@ satires and dark comedies tend to be good movies
 
 
 
-*Many satires tend to be (dark) comedies, and that's why I made one
-list instead of two.*
+Many satires tend to be (dark) comedies, and that's why I made one
+list instead of two. Following is a list of very-good__ (or better)
+movies that fit the description:
 
-A list of very-good__ movies (or better) that fit the description:
-
-- Bamboozled
-- `Being John Malkovich`__
-- `Dr. Strangelove`__
-- Fight Club
-- `Lord of War`__
-- Payback__
-- `Requiem for A Dream`__
+#. Fight Club
+#. `Requiem for A Dream`__
+#. Bamboozled
+#. `Being John Malkovich`__
+#. `Dr. Strangelove`__
+#. Payback__
+#. `Lord of War`__
 
 
 __ http://movies.tshepang.net/my-movie-rating-system
