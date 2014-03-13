@@ -91,6 +91,11 @@ enchanting
 
 bizarre
 
+**wtf**: the guy who directed a very unimpressive `The Butler`_ is the
+same one who made Precious_, which `one of the best movies in
+history`__. WTF happened there!
+
+
 'old' movies
 ------------
 
@@ -105,3 +110,7 @@ fall from glory
 .. _`Thor: The Dark World`: http://movies.tshepang.net/thor-the-dark-world-2013
 .. _Michael Shannon: http://en.wikipedia.org/wiki/Michael_Shannon
 .. _Premium Rush: http://movies.tshepang.net/premium-rush-2012
+.. _The Butler: http://movies.tshepang.net/the-butler-2013
+.. _Precious: http://movies.tshepang.net/precious-2009
+
+__ http://movies.tshepang.net/top-movies
