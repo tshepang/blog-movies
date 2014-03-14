@@ -7,7 +7,7 @@ The Butler (2013)
 
 
 The most shocking thing about this overrated bore is that it was made
-Lee Daniels, the same guy who made `the most impressive movie made in
+by Lee Daniels, the same guy who made `the most impressive movie made in
 the last few years`__. It's fucking weird! It's among the most
 surprising things in all of my experiences watching movies. Not even a
 wonderful actor like Forest Whitaker pulled off a decent
