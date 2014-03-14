@@ -12,5 +12,5 @@ designs. It is pretty much pointless, but it was sort of interesting
 to watch the super-cute gal go about her dreamy adventures. Of the
 creatures, none was as annoying as the human-cat hybrids, none as
 scary as the bird-ape hybrids, and none as original as the floating
-giants. At the moment, I cannot remember creatures as saddening these
+giants. I cannot remember creatures as saddening as these
 giants. They alone make the entire movie worth watching.
