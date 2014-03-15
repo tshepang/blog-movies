@@ -17,10 +17,10 @@ The story was very rushed, and it leaves one feeling too many details
 were left out (there was no mention of Oliver Tambo or Albert Luthuli,
 for example), and some very significant moments merely given passing
 attention (Sharpeville and Soweto killings, for example). One thing
-that could have helped is narration, or even flashbacks. One can argue that you can't fit everything in a
-single movie, but that would be an excuse... I've seen biopics in
-which feel like they do justice to a legend, recent examples being
-`The Iron Lady`__ and Lincoln__.
+that could have helped is narration, or even flashbacks. One can argue
+that you can't fit everything in a single movie, but that would be an
+excuse... I've seen biopics in which feel like they do justice to a
+legend, recent examples being `The Iron Lady`__ and Lincoln__.
 
 
 __ http://movies.tshepang.net/the-iron-lady-2011
