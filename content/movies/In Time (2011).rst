@@ -8,7 +8,7 @@ In Time (2011)
 
 We here see a world where people stop physically aging when they reach
 25 and have a year to live unless they get more (or less) time. Money
-is replaced by time currency, and the reason the setup is such is left
+is replaced by time as currency, and the reason the setup is such is left
 unexplained, though the hint given is population control, and that the
 situation can't be changed.
 
