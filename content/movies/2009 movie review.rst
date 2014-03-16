@@ -84,7 +84,7 @@ enchanting/delightful is `Wall-E`_, followed up by `Sponge Bob`_.
 
 The year's **best action** movie is `Quantum of Solace`_, followed by
 `Avatar`_; the most bizarre is `Ghost Dog`_, followed by `Watchmen`_;
-the funniest is *You Don't Mess With the Zohan*, followed by *Yes Man*,
+the **funniest** is *You Don't Mess With the Zohan*, followed by *Yes Man*,
 then `Monsters vs. Aliens`_.
 
 The **most touching** movie (overall) is `Yellow Earth`_, a sad
