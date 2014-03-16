@@ -6,7 +6,7 @@ Warrior (2011)
 
 
 The two toughest guys, the brother and the Russian guy, are scary as
-fuck... I would not try. The military back-story felt a little tired,
+fuck. The military back-story felt a little tired,
 and if anything, just made the movie longer. It was done quite well
 though, so am not complaining (much).
 
