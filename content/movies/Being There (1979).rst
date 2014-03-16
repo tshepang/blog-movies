@@ -13,7 +13,7 @@ Being There (1979)
     her so attractive.
 
 The *everywhere else* isn't exactly accurate, since I found the
-moments before the lead leaves the house are quote boring. Also, I
+moments before the lead leaves the house quite boring. Also, I
 didn't find the lady *that* delicious this time around. It remains a
 special movie, and kinda edgy, since you keep getting worried if
 anyone would actually discover that our hero is actually a retard.
