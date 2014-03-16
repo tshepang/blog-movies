@@ -6,9 +6,9 @@ Warrior (2011)
 
 
 The two toughest guys, the brother and the Russian guy, are scary as
-fuck. The military back-story felt a little tired,
-and if anything, just made the movie longer. It was done quite well
-though, so am not complaining (much).
+fuck. The military back-story felt a little tired, and if anything,
+just made the movie longer. It was done quite well though, so am not
+complaining (much).
 
 The teacher guy gives a very nice performance, and so is the
 wife. Nick Nolte (the father character) does the usual, boring,
