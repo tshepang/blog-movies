@@ -7,8 +7,8 @@ Goodbye Uncle Tom (1971)
 
 
 The most brutal slavery movie I've seen yet, though peppered with
-humor all over the place (it's a dark comedy/satire, which is a rather
-daring approach considering the subject material). It's interesting to
+humor all over the place: it's a dark comedy/satire, which is a rather
+daring approach considering the subject material. It's interesting to
 note the cruelty Black people here face, which isn't better than that
 of farm animals. Makes me feel guilty for eating meat, much like `Roger
 Ebert makes me feel`__ for calling this movie good.
