@@ -3,7 +3,7 @@ top visual effects
 
 
 
-Being fresh, eye-popping, and immersive helps
+Being fresh, eye-popping, and immersive helps:
 
 1. King Kong
 2. 2012
