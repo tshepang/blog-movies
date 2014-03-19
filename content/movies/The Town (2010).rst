@@ -7,7 +7,7 @@ The Town (2010)
 
 Well-directed robbery scenes and well-written story, but nothing
 really new.  I liked the nun costumes, and loved performance of
-`Jeremy Renner`__ performance.
+`Jeremy Renner`__.
 
 I wish a different movie title was chosen.
 
