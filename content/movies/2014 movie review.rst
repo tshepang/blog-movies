@@ -13,9 +13,9 @@ visuals
 **visual design**: `Upside Down`_, followed by `The Hunger Games:
 Catching Fire`_
 
-production design
+**production design**: `The Iceman`_
 
-cinematography
+**cinematography**: `The Iceman`_
 
 action sequence
 
@@ -29,7 +29,8 @@ animation
 performances
 ------------
 
-**best male performance**: `Michael Shannon`_ in `Premium Rush`_
+**best male performance**: `Michael Shannon`_ in `The Iceman`_
+followed by the same in `Premium Rush`_
 
 best female performance
 
@@ -113,5 +114,6 @@ fall from glory
 .. _The Butler: http://movies.tshepang.net/the-butler-2013
 .. _Precious: http://movies.tshepang.net/precious-2009
 .. _In Time: http://movies.tshepang.net/in-time-2011
+.. _The Iceman: http://movies.tshepang.net/the-iceman-2012
 
 __ http://movies.tshepang.net/top-movies
