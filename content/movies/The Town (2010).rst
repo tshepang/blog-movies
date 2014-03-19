@@ -5,8 +5,9 @@ The Town (2010)
 :tags: 2013-movie, good
 
 
-Well-directed robbery scenes and well-written story, but nothing really new.
-I liked the nun costumes, and loved performance of `Jeremy Renner`__ performance.
+Well-directed robbery scenes and well-written story, but nothing
+really new.  I liked the nun costumes, and loved performance of
+`Jeremy Renner`__ performance.
 
 I wish a different movie title was chosen.
 
