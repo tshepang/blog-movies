@@ -19,7 +19,7 @@ by sprinkling fantasy over his script,
 where for example we find the heroic Django highly-skilled with a gun,
 without even a mention of training.
 Another example is the number of men the DiCaprio character has at his command,
-an excuse to spill liters of blood, as well as showcase the Django excellence,
+an excuse to spill liters of blood, as well as showcase the Django excellence.
 If only the lead was a better (or more interesting) actor than Jamie Foxx.
 
 My favorite (and best) scene is one where the great Tarantino appears.
