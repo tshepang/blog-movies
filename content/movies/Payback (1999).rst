@@ -25,7 +25,7 @@ It remains impressive after all this time:
 
 * The two ladies in Porter's life are given solid portrayals.
 
-* There some more nice appearances here and there, fat guy being one,
+* There are some more nice appearances here and there, fat guy being one,
   and his boss another.
 
 So, overall this is a real joyful experience, and my complaints aren't major:
