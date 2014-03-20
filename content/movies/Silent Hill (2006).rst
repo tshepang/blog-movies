@@ -6,9 +6,9 @@ Silent Hill (2006)
 
 
 Some of the creature design which is quite good,
-best of which is `Pyramid Head`_, the horrific blade-dragging monster,
+best of which is `Pyramid Head`__, the horrific blade-dragging monster,
 whose made even more memorable by his countless bug-like companions.
-Second favorites are the supersexy, faceless, murderous `nurses`_.
+Second favorites are the supersexy, faceless, murderous `nurses`__.
 These pleasures were however spoiled by a miscast/unconvincing
 villainous lady and the weak story.
 This is not to mention random stupid things,
@@ -29,5 +29,5 @@ is extreme. As for the visual mastery comment,
 it must have been mere virgin excitement.
 
 
-.. _Pyramid Head: http://en.wikipedia.org/wiki/Pyramid_Head
-.. _nurses: http://silenthill.wikia.com/wiki/Nurse
+__ http://en.wikipedia.org/wiki/Pyramid_Head
+__ http://silenthill.wikia.com/wiki/Nurse
