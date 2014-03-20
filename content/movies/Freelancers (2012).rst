@@ -17,5 +17,4 @@ day at work.
 The movie did feel rushed though,
 and I was actually hungry for more of the racist guy.
 The direction is very edgy, keeping me tense for a large portion of the movie.
-The storyline is also unusual, and middle-age lady totally edible.
-
+The storyline is also unusual, and the middle-aged lady totally edible.
