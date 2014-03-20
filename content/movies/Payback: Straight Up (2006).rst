@@ -15,7 +15,7 @@ There is so much that is different:
 
 * There is one moment of domestic abuse that is rather hard to swallow.
   I thought it was quite daring (and surprising),
-  especially for a character we are supposed to like being the perpetrator.
+  especially because a character we are supposed to like is the perpetrator.
   This moment alone makes it understandable why it was edited out.
 
 * The ending is a lot different and more involved
