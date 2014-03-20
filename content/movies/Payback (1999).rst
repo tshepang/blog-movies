@@ -24,7 +24,8 @@ It remains impressive after all this time:
   his work, and a very memorable lead villain.
 
 * The two ladies in Porter's life are given solid portrayals.
-  There some more nice appearances here and there, fat guy being one,
+
+* There some more nice appearances here and there, fat guy being one,
   and his boss another.
 
 So, overall this is a real joyful experience, and my complaints aren't major:
