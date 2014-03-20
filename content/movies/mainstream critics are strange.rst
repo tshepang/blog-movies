@@ -5,15 +5,15 @@ mainstream critics are strange
 
 
 
-My experiences of those I've seen from the `Sight & Sound list`_
+Following is my experiences of movies on the `Sight & Sound list`_:
 
 I've seen the overrated *Citizen Kane* and slept through the *2001: A
 Space Odyssey*. I can't believe *Singin' in the Rain* made it into the list,
 nor did I find anything particularly exceptional about `Tokyo Story`_.
 *The Searchers* does not deserve to be mentioned
 (except maybe for the lead's surprising non-angelic persona,
-which gives him some complexity) nor does *Vertigo* because I did not
-notice a single thing special about it, which made it more shocking given
+which gives him some complexity). I did not
+notice a single thing special about *Vertigo*, which made it more shocking given
 that the critics regarded it the greatest movie ever made!
 It was even more perplexing to find anyone honoring Rashomon_ at all.
 
