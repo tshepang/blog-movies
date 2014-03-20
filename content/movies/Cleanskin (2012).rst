@@ -13,7 +13,7 @@ This is unlike the Sean Bean character,
 who gives a very fitting character and performance.
 
 The first several moments are entrancing,
-and holds its own terms of execution (and grit) against far
+and compete favorably in terms of execution (and grit) against far
 more expensive productions like those in the `Bourne series`__.
 
 The one weak spot in the movie is the beheader character.
