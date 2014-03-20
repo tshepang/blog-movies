@@ -6,8 +6,8 @@ Point Blank (1967)
 
 
 If you look past the ugliness of having been made in 1967
-(awkward direction and acting), it actually is interesting,
-partly with the help of the lead,
+(awkward direction and acting), it actually is interesting.
+This is partly with the help of the lead,
 Lee Marvin (not exactly a good performance,
 but an interesting one nevertheless),
 and partly with the help of his character,
