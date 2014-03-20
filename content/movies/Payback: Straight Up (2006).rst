@@ -8,7 +8,7 @@ Payback: Straight Up (2006)
 This is the most extensive Director's Cut I've seen yet.
 There is so much that is different:
 
-* Most regretful is the absense of the Kris Kristofferson character,
+* Most regretful is the absence of the Kris Kristofferson character,
   whose role of head of The Outfit is replaced by a female voice.
   This itself isn't so bad, if we ignore that Kris was amazing to watch,
   most especially the moment he first appeared on screen (amazing direction).
