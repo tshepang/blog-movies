@@ -13,7 +13,7 @@ an overall superior movie, which was on a far grander scale (and budget);
 but this one is more unsettling given it's various horror movie elements,
 except handled with far greater skill than horror movies normally get.
 
-All performances of at least decent quality,
+All performances are of at least decent quality,
 my favorite being that of Val Kilmer.
 He was always good, but he seems to get better with age
 (see him in Felon__).
