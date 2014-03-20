@@ -26,10 +26,8 @@ This is how I felt first time I watched it, and is no longer the case:
 
 That early scene was nice yes, but calling it *extremely beautiful*
 is extreme. As for the visual mastery comment,
-it must have been mere excitement, resulting from freshness...
-another instance of `The case of 'The Matrix Reloaded'`_.
+it must have been mere virgin excitement.
 
 
-.. _The case of 'The Matrix Reloaded': http://movies.tshepang.net/the-case-of-the-matrix-reloaded
 .. _Pyramid Head: http://en.wikipedia.org/wiki/Pyramid_Head
 .. _nurses: http://silenthill.wikia.com/wiki/Nurse
