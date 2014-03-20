@@ -7,8 +7,7 @@ Lord of War (2005)
 
 Scathing, well-made satire; excellent and exciting during its first half,
 and a slow-down in the second, with the usual consequences thing,
-not to mention an annoying Jared Leto:
-needless drama from the most beautiful man on the planet.
+not to mention the annoying Jared Leto character.
 If only the movie kept the delicious pace,
 and if only it kept the length at 100 minutes or so...
 
