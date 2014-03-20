@@ -9,7 +9,7 @@ The Iceman (2012)
 `Michael Shannon`__ gives an excellent and unusual performance as a
 fearsome contract killer, in a movie with excellent cinematography and
 production design, and excellent writing. Another notable performance
-is that of `Ray Liotta`__, even though he plays his usual character,
+is that of `Ray Liotta`__, even though he plays one of his usual characters,
 only this time I really enjoyed him, perhaps even more than in
 `Smokin' Aces`__. There is not one other performance that is lacking,
 and even `Chris Evans`__ helped by hiding his not-too-talented face
