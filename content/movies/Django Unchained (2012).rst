@@ -6,7 +6,7 @@ Django Unchained (2012)
 
 
 Lots of humor, delicious acting, brutality (the suffering of the slaves
-is way too intense), and heroism. Also, I don't remember watching a
+is just too intense), and heroism. Also, I don't remember watching a
 Western with a black hero (untapped territory), and with a director as
 good as Tarantino, it must have been... wait for the lame...
 a walk in the park.
