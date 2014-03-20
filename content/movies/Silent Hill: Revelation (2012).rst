@@ -20,7 +20,7 @@ The leading lady, and his boyfriend, are not interesting.
 Sean Bean is a good actor, but is seriously miscast,
 as he was in `the previous movie`_.
 There's lots of meh dialog, but I really did love the leading lady's
-moment in the classroom, there sort I've never seen before in movies.
+moment in the classroom, which is something I've never seen before in movies.
 But because the script isn't solid, her attitude (and strength of character)
 was left unexplained, and is simply over-the-top.
 
