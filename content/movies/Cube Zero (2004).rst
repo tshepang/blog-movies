@@ -14,7 +14,7 @@ it... the actual purpose of the Cube. It is sad. Surely one could setup
 brainstorming sessions about these things, especially if you are going
 to spend a few million?
 
-Well, the exectution in this case is not disgusting bad, and there is
+Well, the execution in this case is not disgusting bad, and there is
 okay acting, but the fascination is largely gone, and the excuse of an
 explanation is merely a passing reference to patriotism and religion.
 Also, the villain is not very impressive, despite a
