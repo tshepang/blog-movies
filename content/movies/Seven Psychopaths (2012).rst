@@ -15,7 +15,7 @@ My favorite utterance from the movie:
 
 It is a very well-made dark comedy with some wonderful performances. My
 favorites are `Tom Waits`_ and the Vietnamese psychopath. The latter
-also happens to be lucky enough to be one talk who gets to experience
+also happens to be the lucky guy who gets to experience
 some moments with that one special hooker. I also loved the old lady in
 hospital, who also happens to be gorgeous. Sam Rockwell, Christopher
 Walken, and Woody Harrelson are impressive, but this is
