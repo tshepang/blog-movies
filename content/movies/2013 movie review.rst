@@ -1,9 +1,6 @@
 2013 movie review
 =================
 
-:date: 2014-02-23
-
-
 
 Not such a great year at the movies, even worse than `last year`__,
 though I think I also watched a lot less movies. Luckily there's two
@@ -47,7 +44,9 @@ miscellaneous
 -------------
 
 The most **important** movie is `The Thaw`_ due to its well-delivered
-story, which is related to the consequences of global warming. There
+story, which is related to the consequences of global warming. Runner-up
+is `Seven Psychopaths`_ due to its stance on homophobia and
+interracial relationships. There
 is a tie for the most **bizarre** movie: `Cloud Atlas`_ and
 MirrorMask_.
 
@@ -76,5 +75,6 @@ in 2013.
 .. _Elysium: http://movies.tshepang.net/elysium-2013
 .. _MirrorMask: http://movies.tshepang.net/mirrormask-2005
 .. _Goodbye Uncle Tom: http://movies.tshepang.net/goodbye-uncle-tom-1971
+.. _Seven Psychopaths: http://movies.tshepang.net/seven-psychopaths-2012
 __ http://movies.tshepang.net/2012-movie-review
 __ http://movies.tshepang.net/payback-straight-up-2006
