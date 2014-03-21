@@ -28,7 +28,7 @@ relationships, which I always find beautiful.
 --------------
 
 `The earlier movie`_, written and directed by the same person, is a
-superior work of art in many ways, excluding humor.
+superior work of art in many ways, though not as funny.
 
 .. _Tom Waits: http://en.wikipedia.org/wiki/Tom_Waits
 .. _The earlier movie: http://movies.tshepang.net/in-bruges-2008
