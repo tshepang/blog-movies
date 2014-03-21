@@ -16,11 +16,12 @@ to spend a few million?
 
 Well, the exectution in this case is not disgusting bad, and there is
 okay acting, but the fascination is largely gone, and the excuse of an
-explanation is merely a passing reference to patriotism and religion,
-not to mention a villain that is not very impressive, despite a
-desperate attempt to portray an eccentric evil character, far less
-successful than the a character he reminds me of: the genius scientist
+explanation is merely a passing reference to patriotism and religion.
+Also, the villain is not very impressive, despite a
+desperate attempt to portray an eccentric evil character. It's a far less
+successful attempt than the a character he reminds me of: the genius scientist
 in `Afro Samurai: Resurrection`_.
+
 
 .. _the first: http://movies.tshepang.net/cube-1997
 .. _the second: http://movies.tshepang.net/cube-2-hypercube
