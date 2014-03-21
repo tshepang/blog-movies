@@ -11,7 +11,8 @@ predecessor`__ even more. It is also heavily populated with characters,
 many new, but they are mostly shallow. Both the script and direction are
 far poorer than one would hope. It is full of lame utterances and
 uninteresting performances, all but from the super-fast lady, the
-Aaliyah (dead RnB artist) looklike.
+Aaliyah (dead RnB artist) looklike, played by `Dania Ramirez`__.
 
 
 __ movies.tshepang.net/x-men-2-2003
+__ http://en.wikipedia.org/wiki/Dania_Ramirez

@@ -46,7 +46,7 @@ favorite character
 
 villain
 
-**desirable gal** love interest in `Premium Rush`_
+**desirable gal** `Dania Ramirez`__ in `Premium Rush`_
 
 **character design**: giant samurai robot in `The Wolverine`_
 
@@ -56,6 +56,7 @@ comic
 
 voice talent
 
+__ http://en.wikipedia.org/wiki/Dania_Ramirez
 
 miscellaneous
 -------------
