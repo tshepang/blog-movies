@@ -97,6 +97,7 @@ bizarre
 same one who made Precious_, which `one of the best movies in
 history`__. WTF happened there!
 
+__ http://movies.tshepang.net/top-movies
 
 'old' movies
 ------------
@@ -116,5 +117,3 @@ fall from glory
 .. _Precious: http://movies.tshepang.net/precious-2009
 .. _In Time: http://movies.tshepang.net/in-time-2011
 .. _The Iceman: http://movies.tshepang.net/the-iceman-2012
-
-__ http://movies.tshepang.net/top-movies
