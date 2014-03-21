@@ -19,6 +19,6 @@ boundaries, but there is also that thing called taste/sense:
    someone who deals with workings of the mind.
 
 It is like the makers wanted something profound, but lacked the writing
-talent, which itself is not bad... just okay. The ending is boring and
+talent. The ending is boring and
 the movie pointless, except insofar as to push the boundaries in
 blurring the distinction between porn and not-porn.
