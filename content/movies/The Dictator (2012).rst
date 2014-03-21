@@ -6,9 +6,9 @@ The Dictator (2012)
 
 
 
-With hilarius moments all over the place, much of which is unique,
+With hilarious moments all over the place, much of which is unique,
 fresh, and daring. The lead character, played by the brilliant comedian,
-Sacha Baron Cohen, reminds me very much of the Adfam Sandler's in the
+Sacha Baron Cohen, reminds me very much of the Adam Sandler's in the
 wonderful `You Don't Mess With the Zohan`_, only a lot better. The movie
 also has very good production design.
 
