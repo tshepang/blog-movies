@@ -44,11 +44,10 @@ miscellaneous
 -------------
 
 The most **important** movie is `The Thaw`_ due to its well-delivered
-story, which is related to the consequences of global warming. Runner-up
-is `Seven Psychopaths`_ due to its stance on homophobia and
-interracial relationships. There
-is a tie for the most **bizarre** movie: `Cloud Atlas`_ and
-MirrorMask_.
+story, which is related to the consequences of global
+warming. Runner-up is `Seven Psychopaths`_ due to its stance on
+homophobia and interracial relationships. There is a tie for the most
+**bizarre** movie: `Cloud Atlas`_ and MirrorMask_.
 
 The most **innovative** movie is the satirical `Goodbye Uncle Tom`_:
 it's shot like a documentary in which the makers travel to a
@@ -57,8 +56,7 @@ with humor... very daring.
 
 The title for **best 'old' movie experience** goes to Payback_. This a
 title for a movie I've seen before this year. A special mention should
-go to the `Director's Cut version`__, which I saw first time
-in 2013.
+go to the `Director's Cut version`__, which I saw first time in 2013.
 
 
 
