@@ -6,7 +6,7 @@ District 9 (2009)
 
 
 
-The documentary style has been employed elsewhere but there's nothing
+The documentary style has been employed elsewhere before, but there's nothing
 quite like *District 9* in all movie history. Its weird and wonderful
 story starts off with nice comic touches and transitions into a
 harrowing tale of human torture, and ends as some action-adventure of
