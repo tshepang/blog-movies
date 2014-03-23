@@ -9,7 +9,7 @@ Buffalo Soldiers (2001)
 My initial review:
 
     It's surprising that a movie as radical as Buffalo Soldiers could be
-    destributed at all since it's about the most effective anti-war
+    distributed at all since it's about the most effective anti-war
     movie I've seen in a long time. It's filled with fresh acting,
     though the movie's villain doesn't really convince while the lead
     character could have been portrayed by a better actor (Phoenix isn't
