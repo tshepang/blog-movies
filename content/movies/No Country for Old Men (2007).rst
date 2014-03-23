@@ -7,7 +7,7 @@ No Country for Old Men (2007)
 
 
 With tremendous suspense, superb performances, great cinematography as
-well as immersive production design, is easily the Coen Brother's best
+well as immersive production design, this is easily the Coen Brother's best
 ever. The movie's best scene is when the Josh Brolin character explores
 the scene of the murdered gangsters; the atmospherics are crying of
 perfection, and so is the execution of it all. Another thing of note is
