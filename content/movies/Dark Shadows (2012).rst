@@ -12,5 +12,5 @@ most interesting witch in movie history. Her cracked-skin nature is also
 something fresh (me have not seen such before), her sexuality amazing,
 her passive and quick-acting personality welcome (check for example how
 she does not waste time to get to meet her old lover), and her beauty so
-incredible that she can easily be forgiven for her great cruelty. I
-enjoyed the sex scene a lot, which was another surprise.
+incredible that she can easily be forgiven for her great cruelty.
+Another surprise is the sex scene, which I enjoyed a lot. Good humor there.
