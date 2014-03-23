@@ -170,6 +170,8 @@ The year's **most original story** is that of **The Idiots** (the
 subject matter of conmen is fairly popular yes, but in here is the added
 twist of the perpetrators not having any material gain out of it). The
 runner-up is `Dark Matter`_, followed by `Pathology`_.
+The **best story concept** can be seen in `Groundhog Day`_, where the
+lead character experiences the same day over and over again.
 
 I don't really pay much attention to this one, but I'll give the **best
 make-up** honor to `Pathology`_ for making corpses look so convincing.
@@ -266,3 +268,4 @@ For a complete list of the movies I reviewed for the year, visit the
 .. _Bill & Ted's Excellent Adventure: http://movies.tshepang.net/bill-teds-excellent-adventure-1989
 .. _2011-movies tag: http://movies.tshepang.net/tag/2011-movie
 .. _Transformers\: Dark of the Moon: http://movies.tshepang.net/transformers-dark-of-the-moon-2011
+.. _Groundhog Day: http://movies.tshepang.net/groundhog-day-1993

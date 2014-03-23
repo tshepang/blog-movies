@@ -83,6 +83,7 @@ story concept
    power, resulting in an altered experience of time, where a second
    could feel like a year (as an example)
 #. `Limitless`_ - a drug that enhances mental performance
+#. `Groundhog Day`_ - reliving the same day over and over again
 #. Dejavu - treatment of the concept of time travel
 #. Next - treatment of the concept of being able to see the future
 #. Lake House - treatment of the concept of time travel
@@ -177,3 +178,4 @@ most beautiful suicide scene
 .. _The Hurt Locker: http://movies.tshepang.net/recent-movies-2010-05-06
 .. _Irréversible: http://movies.tshepang.net/irreversible-2002
 .. _Children of the Corn: http://movies.tshepang.net/children-of-the-corn-2009
+.. _Groundhog Day: http://movies.tshepang.net/groundhog-day-1993
