@@ -77,15 +77,15 @@ eccentric
 story concept
 -------------
 
-1. Memento - a guy without short-term memory investigates a murder, in a
+#. Memento - a guy without short-term memory investigates a murder, in a
    story that is told backwards
-2. Inception - a technology that allows one to tap into unused brain
+#. Inception - a technology that allows one to tap into unused brain
    power, resulting in an altered experience of time, where a second
    could feel like a year (as an example)
-3. `Limitless`_ - a drug that enhances mental performance
-4. Dejavu - treatment of the concept of time travel
-5. Next - treatment of the concept of being able to see the future
-6. Lake House - treatment of the concept of time travel
+#. `Limitless`_ - a drug that enhances mental performance
+#. Dejavu - treatment of the concept of time travel
+#. Next - treatment of the concept of being able to see the future
+#. Lake House - treatment of the concept of time travel
 
 touching
 --------
