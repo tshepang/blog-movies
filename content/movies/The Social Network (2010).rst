@@ -6,7 +6,7 @@ The Social Network (2010)
 
 
 
-The *Social Network* is a fun ride, and is unlike anything done before
+A fun ride that is unlike anything done before
 it. Calling it a masterpiece would however be a lot more than it
 deserves. Sure it was made by the best director ever, it has the
 supercool Justin Timberlake, has a superb lead, and has quality acting,
