@@ -9,7 +9,7 @@ Seven Samurai (1954)
 For a movie made in the sixties, I found the camerawork impressive.
 Another feat is that the movie is entertaining for its entire running
 length of 3 hours. Sadly there is too much idiocy/retardation is some of the
-characters, including by the great Toshiro Mifune.
+characters, including that by the great Toshiro Mifune.
 I did however love the movie's most important scene,
 where his character reveals his actual ancestry.
 
