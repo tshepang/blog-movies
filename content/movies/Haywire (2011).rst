@@ -12,10 +12,7 @@ the first such scene that was evidence enough that this is not just
 another assassin movie. It also sets the tone of the rest of the movie,
 which is quite well-made, and full of suspense. It does however feel a
 bit short, while the leading lady's performance is not very satisfactory
-near the end. While having a female hero in this form is quite fresh, it
-has also been done before, and quite recently (see `Salt`_). Also, I
+near the end. Also, I
 would have been happier with a bigger budget, though am glad there
 wasn't a car chase scene, or at least not one at the ridiculous scale of
 so many action movies.
-
-.. _Salt: http://movies.tshepang.net/salt-2010
