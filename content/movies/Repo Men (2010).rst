@@ -14,5 +14,4 @@ and the lady that plays his wife even more so. The girlfriend is not
 interesting, sadly.
 
 As for the subject matter, it would have been nice if there was some
-explaination of how such cruelty came to be socially acceptable. How did
-it happen that death came in such an unquestioned manner?
+explaination of how such cruelty came to be socially acceptable.
