@@ -12,5 +12,4 @@ deserves. Sure it was made by the best director ever, it has the
 supercool Justin Timberlake, has a superb lead, and has quality acting,
 incredible camerawork, an amazing script/dialog, but that is just not
 enough. Perhaps it was just not gripping enough, or the story appealing
-enough. It ends decently, though not in any way one would expect, and
-maybe mere *decent* is the problem.
+enough. It ends decently, though not in any way one would expect.
