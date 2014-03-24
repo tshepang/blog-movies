@@ -6,6 +6,6 @@ Brothers (2009)
 
 
 
-Lots of emotion, but mostly bearable due to quality direction; Toby
-Maguire has never been this scary; the nurse girlfriend is gorgeous as
-fuck; the movie is pointless.
+Lots of emotion, but mostly bearable due to quality direction. Toby
+Maguire has never been this scary. The nurse girlfriend is gorgeous as
+fuck. The movie is pointless.
