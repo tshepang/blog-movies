@@ -6,7 +6,7 @@ Snow White and the Huntsman (2012)
 
 
 
-I went into this one with anticipation, only to be met with lots of
+I went into this one with high anticipation, only to be met with lots of
 careless direction, as if the thing was rushed. It is also the worst
 performance of Charlize Theron in memory, and the only one I found
 embarassing. However, the worst performance in the movie is that of the
