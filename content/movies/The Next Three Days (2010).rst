@@ -7,14 +7,13 @@ The Next Three Days (2010)
 
 
 Superb direction ensures that we are kept on edge of seat for much of
-the running length of the movie, and even the slow parts adds to the
+the running length of the movie, and even the slow parts add to the
 suspense. The lead detective is quite impressive, and I also enjoyed the
-portrayal of the father of protagonist, as well as the wife of
-protagonist, who also happens to be so damn gorgeous.
+portrayal of the father of protagonist, as well as the (damn gorgeous)
+wife of protagonist.
 
-The movie opens with wonderful dialog, and the rest of the movie more
+The movie opens with wonderful dialog, and the rest of it more
 than lives up to the high standards that scene sets.
 
 Special mention should go to the guy at the airport checkpoint. The
-performance is amazing, though shortlived. It is the best such role I
-have seen yet.
+performance is amazing, though shortlived.
