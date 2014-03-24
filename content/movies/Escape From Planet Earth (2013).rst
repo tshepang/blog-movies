@@ -13,9 +13,9 @@ Megamind__. I must not fault it too much for its direction, which is
 also typical of so many expensive 3D-animated movies, including the
 above-mentioned ones. Even the character design is not fresh, though I
 did like one character... the giant gal. She is also not an original
-concept (there was some movie whose name I forget, about a giant
-Frankenstein of a gal), but then again I'm a sucker for
+concept (see Eva in Igor__), but then again I'm a sucker for
 misfits like this.
 
 
 __ http://movies.tshepang.net/megamind-2010
+__ http://movies.tshepang.net/igor-2008
