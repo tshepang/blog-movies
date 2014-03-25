@@ -14,4 +14,5 @@ ever.
 There is nothing really new here, and the lead actor could be more
 interesting. Sadly, each of these oriental martial arts actors have Jet
 Li to match against, and that's a high standard of appeal. I am still
-giving this one high marks because I seriously enjoyed it.
+giving this one high marks because I seriously enjoyed it, me being a
+sucker for its brand of formula.
