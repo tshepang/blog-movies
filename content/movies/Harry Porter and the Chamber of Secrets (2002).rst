@@ -6,7 +6,7 @@ Harry Potter and the Chamber of Secrets (2002)
 
 
 
-Not as enchanting as `the first one`_ but scarier with far bigger
+Not as enchanting as `the first one`__ but scarier with far bigger
 effects, though none is spectacular, much of which is clumsy: the
 spiders, the snake, and the angry tree. More tiring than the first since
 it's more of the same thing. The new ugly slave-like character is
@@ -19,4 +19,4 @@ boys' adventures in the flying car. My previous favorite character from
 the first movie does not compare, and is a lot less interesting this
 time around.
 
-.. _the first one: http://movies.tshepang.net/harry-porter-and-the-sorcerers-stone-2001
+__ http://movies.tshepang.net/harry-porter-and-the-sorcerers-stone-2001
