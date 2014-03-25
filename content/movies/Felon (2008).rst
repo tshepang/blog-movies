@@ -9,5 +9,5 @@ Felon (2008)
 It's a strange one because it feels so pointless by the end of it,
 unless it's just another anti-prison movie, in which case it's pretty
 much effective... the brutality is incredible. It's also the first time
-I've ever seen Harrold Perrineau play villain, and he was not so
+I've ever seen Harrold Perrineau play villain, and he is not so
 convincing. The movie itself is very well-made, and the acting decent.
