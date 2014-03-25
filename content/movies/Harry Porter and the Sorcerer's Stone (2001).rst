@@ -16,5 +16,5 @@ Two things I enjoyed most:
    scary
 
 Most anything else is just standard, which is the sort of thing that
-made it mysterious to me why the book/movie series has such spectacular
+made it mysterious to me why the book/movie series has had such spectacular
 success.
