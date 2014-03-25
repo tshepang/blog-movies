@@ -1,4 +1,4 @@
-Harry Porter and the Sorcerer's Stone (2001)
+Harry Potter and the Sorcerer's Stone (2001)
 ============================================
 
 :date: 2012-08-25

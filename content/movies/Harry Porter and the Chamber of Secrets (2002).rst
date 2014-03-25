@@ -1,4 +1,4 @@
-Harry Porter and the Chamber of Secrets (2002)
+Harry Potter and the Chamber of Secrets (2002)
 ==============================================
 
 :date: 2012-09-02

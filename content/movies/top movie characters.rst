@@ -104,6 +104,6 @@ airport checkpoint officer
 .. _Clash of the Titans: http://movies.tshepang.net/clash-of-the-titans-2010
 .. _Sucker Punch: http://movies.tshepang.net/sucker-punch-2011
 .. _9: http://movies.tshepang.net/9-2009
-.. _Harry Porter and the Sorcerer's Stone: http://movies.tshepang.net/harry-porter-and-the-sorcerers-stone-2001
+.. _Harry Porter and the Sorcerer's Stone: http://movies.tshepang.net/harry-potter-and-the-sorcerers-stone-2001
 .. _`Afro Samurai: Resurrection`: http://movies.tshepang.net/afro-samurai-resurrection-2009
 .. _Pan's Labyrinth: http://movies.tshepang.net/pans-labyrinth-2006
