@@ -7,7 +7,7 @@ Harry Potter and the Deathly Hallows, Part 1
 
 
 The story of the Deathly Hallows makes for some of the best animation
-I've seen yet, though it runs for a few minutes. It's a fresh departure
+I've seen yet, though it runs for only a few minutes. It's a fresh departure
 from an otherwise dull and overlong experience. The movie is even a
 worse experience than `the immediate predecessor`_.
 
