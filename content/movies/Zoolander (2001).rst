@@ -7,7 +7,7 @@ Zoolander (2001)
 
 
 Ben Stiller gives `the most interesting performance of his career`_, and
-perhaps the only one I ever enjoyed, according to my unreliable memory.
+perhaps the only one I ever enjoyed.
 Sadly, he gives the only interesting performance in the movie. Luckily,
 the movie makes up for this with various hilarious moments, one favorite
 being the playing-with-fire scene.
