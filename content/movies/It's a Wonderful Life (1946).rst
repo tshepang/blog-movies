@@ -12,7 +12,7 @@ moments near the end.
 
 There's one especially gorgeous woman (the wife), and one especially
 desirable one (the seductive near-lover). The lead has his moments,
-though his character's self-importance is often annoying, and was
+though his character's self-importance is often annoying, though it was
 probably interesting to audiences of the time.
 
 My favorite performace is by the lady playing Miss "Could I have 1750?"
