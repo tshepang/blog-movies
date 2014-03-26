@@ -36,7 +36,7 @@ bad
   beauty.
 
 - The helicopter driver lady should have been excluded. She is just not
-  an intersting actor, and cheapens the movie further.
+  an interesting actor, and cheapens the movie further.
 
 --------------
 
