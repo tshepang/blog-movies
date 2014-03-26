@@ -8,7 +8,7 @@ A Streetcar Named Desire (1951)
 
 The direction is shitty and the performances unbearably-irritating, most
 especially the mentally-challended leading character (by Vivien Leigh).
-As if that's not enough, there's also a horrible asshole played Marlon
+As if that's not enough, there's also a horrible asshole played by Marlon
 Brando. The only believable character is that of the lady upstairs,
 though she isn't given much screen time.
 
