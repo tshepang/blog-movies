@@ -18,7 +18,7 @@ gets to break it apart. It's too common `a flaw in Hollywood movies`_,
 and it's sad to see it in a movie from a different market. The anger is
 totally unjustfified because the robot has that time done various good
 deeds, including saving a girl from being raped, saving a number of
-people from fire, as well a helping woman in difficult labour. All that
+people from fire, as well as helping a woman in difficult labour. All that
 is conveniently forgotten... it's just unberarable.
 
 .. _a flaw in Hollywood movies: http://movies.tshepang.net/unforgiving-characters-are-annoying
