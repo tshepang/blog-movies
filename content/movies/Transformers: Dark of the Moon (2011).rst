@@ -6,7 +6,7 @@ Transformers: Dark of the Moon (2011)
 
 
 
-I didn't see any improvement in visual effects over the previous movie.
+I didn't see any improvement in visual effects over `the previous movie`__.
 The story is shit too, but the gal excessively gorgeous, much more so
 than the previous overrated (and overrated) Megan Fox. Beyond
 money-making, there can't have been a reason this movie was made,
@@ -16,3 +16,6 @@ having the humans tougher than would be realisitc (check how much
 they're thrown around, only to stand and continue fighting). Very little
 of the humor is effective, my favorite being the part where the lead
 assaults own car.
+
+
+__ http://movies.tshepang.net/transformers-revenge-of-the-fallen-2009
