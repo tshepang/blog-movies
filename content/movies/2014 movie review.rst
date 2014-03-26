@@ -29,12 +29,15 @@ animation
 performances
 ------------
 
-**best male performance**: `Michael Shannon`_ in `The Iceman`_
+**best male performance**: `Michael Shannon`__ in `The Iceman`_
 followed by the same in `Premium Rush`_
 
-best female performance
+**best female performance**: `Susanne Lothar`__ in `Funny Games`_
 
 cast
+
+__ http://en.wikipedia.org/wiki/Michael_Shannon
+__ http://en.wikipedia.org/wiki/Susanne_Lothar
 
 
 characters
@@ -60,6 +63,8 @@ __ http://en.wikipedia.org/wiki/Dania_Ramirez
 
 miscellaneous
 -------------
+
+**direction**: `Funny Games`_
 
 script/dialogue
 
@@ -111,9 +116,9 @@ fall from glory
 .. _`The Hunger Games: Catching Fire`: http://movies.tshepang.net/the-hunger-games-catching-fire-2013
 .. _The Wolverine: http://movies.tshepang.net/the-wolverine-2013
 .. _`Thor: The Dark World`: http://movies.tshepang.net/thor-the-dark-world-2013
-.. _Michael Shannon: http://en.wikipedia.org/wiki/Michael_Shannon
 .. _Premium Rush: http://movies.tshepang.net/premium-rush-2012
 .. _The Butler: http://movies.tshepang.net/the-butler-2013
 .. _Precious: http://movies.tshepang.net/precious-2009
 .. _In Time: http://movies.tshepang.net/in-time-2011
 .. _The Iceman: http://movies.tshepang.net/the-iceman-2012
+.. _Funny Games: http://movies.tshepang.net/funny-games-1997
