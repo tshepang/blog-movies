@@ -9,7 +9,7 @@ The Bang-Bang Club (2010)
 Comments on articles tend to be bad, and if you are lucky, just decent.
 They are seldom outstanding though, as seen of `these ones`_ which are
 critical of the article they respond to. Basically what's happening is
-that the critic does offer a decent review, summrasising the story
+that the critic does offer a decent review, summarizing the story
 nicely, but then resorts to unjustified criticism. That is sad,
 especially because I found the movie quite good. Read them (the
 comments), for they are better reviews than mine.
@@ -23,7 +23,7 @@ I really appreciate about the movie:
    wasn't screwed up either (as it so often happens when foreigners set
    a movie here). The one complaint I have is that the white guys aren't
    convincing as South Africans, and there doesn't seem to be any real
-   effort to mimick local accents. I even thought that the real life
+   effort to mimic local accents. I even thought that the real life
    Club members were foreigners.
 
 -  I was amazed by the performance of one local actor, `Patrick Shai`_.
@@ -35,12 +35,12 @@ I really appreciate about the movie:
    small group of tribal killers, he also happens to have a soft side...
    literally a savior of one heroic guy. Watching him was a serious
    relief since I was concerned that these guys would be some sort of
-   faceless aggresors/victims. Sure about all of them were, but at least
+   faceless aggressors/victims. Sure about all of them were, but at least
    there was him, and one other guy saddened by the death of wife and
    child.
 
 This is an important movie, and it's sad that it hasn't achieved the
-populariy it deserves. I'm still not going to claim it's a masterpiece
+popularity it deserves. I'm still not going to claim it's a masterpiece
 because, other than that performance, I'm not sure I wanna give it a
 repeat viewing. It's not because it's unpleasant. It just feels that
 what kept me glued were moments that won't be so thrilling second time
