@@ -12,5 +12,11 @@ performances, my favorite of which is that of the lead. She's also
 damn beautiful, though nearly as much as the gal across the
 street... wow! The ending is a let-down... too unrealistic.
 
+I liked this bit in `another quality review`__, which will become
+relevant one you are done watching:
+
+   ...she's quickly blossoming into quite the amateur surgeon.
+
 
 __ http://skymovies.sky.com/excision/revie
+__ http://www.fearnet.com/news/review/sundance-2012-excision-review
