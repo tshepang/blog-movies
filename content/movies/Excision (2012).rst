@@ -10,7 +10,7 @@ promise than it delivers. The imagery is provocative, but not really
 shocking. The movie done and written quite well, complete with quality
 performances, my favorite of which is that of the lead. She's also
 damn beautiful, though nearly as much as the gal across the
-street... wow!
+street... wow! The ending is a let-down... too unrealistic.
 
 
 __ http://skymovies.sky.com/excision/revie
