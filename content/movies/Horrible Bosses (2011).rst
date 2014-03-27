@@ -6,7 +6,7 @@ Horrible Bosses (2011)
 
 
 
-There is no shortage hilarious moments, though none is as great as the
+There is no shortage of hilarious moments, though none is as great as the
 pregnancy one; Jamie Foxx does a nice bit performance; the character of
 Kevin Spacey is rather overdone.
 
