@@ -18,8 +18,7 @@ The director, who also directed the first movie, has worsened his
 obsession with beautiful people. There's a lot more of them here,
 although I did really like a senior representative of some weapons
 manufacturing company named Poseidon. She's presented with greater
-admiration than the lead. I find that strange, especially because of the
-fact that the lead was given such angelic treatment `previously`_.
+admiration than the lead.
 
 The action does not offer any real improvement over the previous movie,
 even though the budget is 3 times as large. It's also not as
