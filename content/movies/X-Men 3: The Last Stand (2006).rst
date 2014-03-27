@@ -14,5 +14,5 @@ uninteresting performances, all but from the super-fast lady, the
 Aaliyah (dead RnB artist) looklike, played by `Dania Ramirez`__.
 
 
-__ movies.tshepang.net/x-men-2-2003
+__ http://movies.tshepang.net/x-men-2-2003
 __ http://en.wikipedia.org/wiki/Dania_Ramirez
