@@ -1,9 +1,6 @@
 the unbearable Hollywood romantic comedy formula
 ================================================
 
-:date: 2012-05-23
-
-
 
 I don't mind formulas much, but I'm a little picky on which are
 acceptable. The one I particularly hate is that adopted by too many
@@ -13,7 +10,7 @@ romantic comedies:
 -  lover does not tell lover something important (shit's about to
    happen)
 -  lover finds out, and being more than a little sad, breaks up (I
-   really hate this part because it soils the oft-cheerful mood; I hate
+   really hate this part because it spoils the oft-cheerful mood; I hate it
    also because it feels so fucking artificial and unrealistic, and
    makes some character look all uptight, unreasonable and/or
    unforgiving)
