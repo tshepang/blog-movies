@@ -6,7 +6,7 @@ Appleseed Ex Machina (2007)
 
 
 
-The lead character from `the first movie`_ takes a backseat somewhat,
+The lead character from `the first movie`__ takes a backseat somewhat,
 making way for the cyborg friend and former lover, and to a lesser
 extent, the lover's clone, as well as to multiple other key characters.
 It's an interesting concept actually, and actually one I haven't seen
@@ -29,4 +29,4 @@ movie, but there's nothing really groundbreaking.
 physical look of Athena (basically the president of the city) so much?
 She's not even recognizable.
 
-.. _the first movie: http://movies.tshepang.net/appleseed-2004
+__ http://movies.tshepang.net/appleseed-2004
