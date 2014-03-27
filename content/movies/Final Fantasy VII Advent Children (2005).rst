@@ -17,8 +17,8 @@ even though the action really is good. Problem is that it's just too
 frantic, such that it's hard to notice what the fuck is going on. With
 that in mind, the second statement is no longer true.
 
-I found the movie unbearable, and I find it strange that I was able to
-bear it first time around. I found all the talk of life force or
+I found the movie unbearable, and I find it strange that I managed
+first time around. I found all the talk of life force or
 somesuch silly, I found the characters uninteresting, I found the
 obsession with children's innocence overdone, I found the obsession with
 beautiful boys and girls needless, I found the character design (worst
