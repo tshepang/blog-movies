@@ -16,8 +16,8 @@ That is still the case of course: there's just nothing new. Luckily it
 doesn't bore and has some edge-of-the-seat moments. But there's also a
 bad performance from Djimon Hounsou, and none of the rest are actually
 impressive/convincing. There is also a lame attempt to eclipse a
-*Braveheart*, which must have provided some inspiration, beyond the ones
-mentioned on the movie's `Wikipedia page`_.
+*Braveheart*, which must have provided some inspiration, beyond `the ones
+mentioned on the movie's Wikipedia page`__.
 
 The opening scene, which is meant to build suspense for the impending
 battle, as well as show the kind of respect given the lead character, is
@@ -29,4 +29,4 @@ The Oscars are embarassing to have honored the movie with Best Picture
 Oscar. They deserve to be ignored, for there surely must have been
 numerous superior movies that year.
 
-.. _Wikipedia page: http://en.wikipedia.org/wiki/Gladiator_(2000_film)#Influences
+__ http://en.wikipedia.org/wiki/Gladiator_(2000_film)#Influences
