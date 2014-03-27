@@ -1,4 +1,4 @@
-Harry Porter and the Prisoner of Azkaban (2004)
+Harry Potter and the Prisoner of Azkaban (2004)
 ===============================================
 
 :date: 2012-09-02

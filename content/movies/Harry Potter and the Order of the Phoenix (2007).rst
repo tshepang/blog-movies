@@ -12,5 +12,5 @@ effects. There are other good visual effect moments here and there.
 Even the Dementors_, which I so admired in the `3rd movie`_,
 have been given a facelift, though I prefer the original look.
 
-.. _3rd movie: http://movies.tshepang.net/harry-porter-and-the-prisoner-of-azkaban-2004
+.. _3rd movie: http://movies.tshepang.net/harry-potter-and-the-prisoner-of-azkaban-2004
 .. _Dementors: http://en.wikipedia.org/wiki/Dementors

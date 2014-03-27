@@ -65,7 +65,7 @@ monster
 #. Pale Man (`Pan's Labyrinth`_)
 #. The Missionary (`Silent Hill: Revelation`_)
 #. Nurses (`Silent Hill: Revelation`_)
-#. Dementors (`Harry Porter and the Prisoner of Azkaban`_)
+#. Dementors (`Harry Potter and the Prisoner of Azkaban`_)
 #. Half-headed demons (*Constantine*)
 #. The Kraken (`Clash of the Titans`_)
 #. Bug on the street (*Constantine*)
@@ -83,7 +83,7 @@ character design
 #. cyborg trio (`Afro Samurai: Resurrection`_)
 #. the humans (*A Corpse Bride*)
 #. Bug on the street (*Constantine*)
-#. chess pieces (`Harry Porter and the Sorcerer's Stone`_)
+#. chess pieces (`Harry Potter and the Sorcerer's Stone`_)
 
 
 airport checkpoint officer
@@ -98,12 +98,12 @@ airport checkpoint officer
 .. _Rango: http://movies.tshepang.net/rango-2011
 .. _The Next Three Days: http://movies.tshepang.net/the-next-three-days-2010
 .. _Silent Hill: http://movies.tshepang.net/silent-hill-2006
-.. _Harry Porter and the Prisoner of Azkaban:
-    http://movies.tshepang.net/harry-porter-and-the-prisoner-of-azkaban-2004
+.. _Harry Potter and the Prisoner of Azkaban:
+    http://movies.tshepang.net/harry-potter-and-the-prisoner-of-azkaban-2004
 .. _Silent Hill\: Revelation: http://movies.tshepang.net/silent-hill-revelation-2012
 .. _Clash of the Titans: http://movies.tshepang.net/clash-of-the-titans-2010
 .. _Sucker Punch: http://movies.tshepang.net/sucker-punch-2011
 .. _9: http://movies.tshepang.net/9-2009
-.. _Harry Porter and the Sorcerer's Stone: http://movies.tshepang.net/harry-potter-and-the-sorcerers-stone-2001
+.. _Harry Potter and the Sorcerer's Stone: http://movies.tshepang.net/harry-potter-and-the-sorcerers-stone-2001
 .. _`Afro Samurai: Resurrection`: http://movies.tshepang.net/afro-samurai-resurrection-2009
 .. _Pan's Labyrinth: http://movies.tshepang.net/pans-labyrinth-2006

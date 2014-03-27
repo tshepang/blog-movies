@@ -8,7 +8,7 @@ Harry Potter and the Sorcerer's Stone (2001)
 
 Two things I enjoyed most:
 
--  the performance of the guy playing step-father of Harry Porter; it
+-  the performance of the guy playing step-father of Harry Potter; it
    was however a recycled caricature
 -  the chess game, which had great character design and animation; it's
    a pity it was mixed with substandard editing, with shots repeatedly
