@@ -19,7 +19,7 @@ Look out for the scene on the roof where both the guys shine.
 
 *Last Action Hero* is annoying partly because it uses the same movie
 formula that it ridicules, though not as heavily as spoofs tend to. It's
-also annoying because, amidst he noise, it has 2 superb villains, the
+also annoying because, amidst the noise, it has 2 superb villains, the
 glass eye, and the child killer. I loved them back over a decade ago,
 and still love them now, so much that I wish their characters (extremely
 well done) could be exploited a little more, and in a better movie.
