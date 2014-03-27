@@ -10,7 +10,7 @@ In animation, I don't remember seeing a face of a female character as
 beautifully shot as the lead character here. We also get to have
 multiple such moments (she really is gorgeous!), which makes me suspect
 the director must have oogled over her. The one problem though is that
-she doesn't exactly look the part of a supremely skilled warrior. He
+she doesn't exactly look the part of a supremely skilled warrior. Her
 great strength is also left unexplained.
 
 There are 2 more characters that could have been better:
