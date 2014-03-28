@@ -11,7 +11,8 @@ figure as the people surrounding Adolf Hitler in this grim portrayal of
 his final hours. It goes beyond irrational, and into insane territory.
 
 Excellent movie by the way (acting, direction, writing). The portrayal
-of Hitler's moments of outrage are classic (one of which has been
-`parodied numerous times`_).
+of Hitler's moments of outrage are classic, one of which has been
+`parodied numerous times`__.
 
-.. _parodied numerous times: http://news.bbc.co.uk/2/hi/uk_news/magazine/8617454.stm
+
+__ http://news.bbc.co.uk/2/hi/uk_news/magazine/8617454.stm
