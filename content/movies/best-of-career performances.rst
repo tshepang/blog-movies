@@ -1,11 +1,10 @@
 best-of-career performances
 ===========================
 
-
-:date: 2014-03-08
 :tags: list
 
 
+- Brat Pitt (*Fight Club*); honorable mention (`The Counselor`_)
 - Carrie-Anne Moss (`Memento`_)
 - Clive Owen (Closer)
 - Colin Firth (`The King's Speech`_)
@@ -50,3 +49,4 @@ __ http://movies.tshepang.net/good-night-and-good-luck-2005
 .. _Contagion: http://movies.tshepang.net/contagion-2011
 .. _The Last King of Scotland: http://movies.tshepang.net/the-last-king-of-scotland-2006
 .. _Birth: http://movies.tshepang.net/birth-2004
+.. _The Counselor: http://movies.tshepang.net/the-counselor-2013
