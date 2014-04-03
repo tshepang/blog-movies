@@ -29,7 +29,7 @@ asshole
 tough gal
 ---------
 
-1. Anjelina Jolie (*Salt*)
+1. Anjelina Jolie (Salt_)
 2. Julianne Moore (*Next*)
 
 animated gals
@@ -107,3 +107,4 @@ airport checkpoint officer
 .. _Harry Potter and the Sorcerer's Stone: http://movies.tshepang.net/harry-potter-and-the-sorcerers-stone-2001
 .. _`Afro Samurai: Resurrection`: http://movies.tshepang.net/afro-samurai-resurrection-2009
 .. _Pan's Labyrinth: http://movies.tshepang.net/pans-labyrinth-2006
+.. _Salt: http://movies.tshepang.net/salt-2010
