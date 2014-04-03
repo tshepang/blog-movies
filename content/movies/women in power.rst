@@ -18,5 +18,5 @@ characters I celebrate, either due to skill or power:
 
 
 .. _Man of Steel: http://movies.tshepang.net/man-of-steel-2013
-.. _Law-Abiding Citizen: http://movies.tshepang.net/law-abiding-citizen-2009
+.. _Law Abiding Citizen: http://movies.tshepang.net/law-abiding-citizen-2009
 .. _Salt: http://movies.tshepang.net/salt-2010
