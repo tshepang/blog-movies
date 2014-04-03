@@ -6,7 +6,7 @@ Doubt (2008)
 
 
 
-Possessing some of the best cinematography and production design ever,
+Possessing some of the best works cinematography and production design ever,
 the movie also boasts some of the most intense dialogues I've yet seen
 yet, and an amazing performance from Philip Seymour Hoffman as a
 Catholic priest. His enemy is one of the most relentless characters in
