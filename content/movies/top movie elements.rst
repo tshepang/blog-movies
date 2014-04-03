@@ -13,9 +13,10 @@ direction
 cinematography
 --------------
 
-1. Fight Club
-2. Munich
-3. Se7en
+#. Fight Club
+#. Doubt_
+#. Munich
+#. Se7en
 
 editing
 -------
@@ -26,8 +27,9 @@ editing
 production design
 -----------------
 
-1. Fight Club
-2. Se7en; `J. Edgar`_
+#. Fight Club
+#. Se7en; `J. Edgar`_
+#. Doubt_
 
 make-up
 -------
@@ -179,3 +181,4 @@ most beautiful suicide scene
 .. _Irréversible: http://movies.tshepang.net/irreversible-2002
 .. _Children of the Corn: http://movies.tshepang.net/children-of-the-corn-2009
 .. _Groundhog Day: http://movies.tshepang.net/groundhog-day-1993
+.. _Doubt: http://movies.tshepang.net/doubt-2008

@@ -13,9 +13,9 @@ visuals
 **visual design**: `Upside Down`_, followed by `The Hunger Games:
 Catching Fire`_
 
-**production design**: `The Iceman`_
+**production design**: Doubt_, followed by `The Iceman`_
 
-**cinematography**: `The Iceman`_
+**cinematography**: Doubt_, followed by `The Iceman`_
 
 action sequence
 
@@ -124,3 +124,4 @@ fall from glory
 .. _The Iceman: http://movies.tshepang.net/the-iceman-2012
 .. _Funny Games: http://movies.tshepang.net/funny-games-1997
 .. _The Counselor: http://movies.tshepang.net/the-counselor-2013
+.. _Doubt: http://movies.tshepang.net/doubt-2008

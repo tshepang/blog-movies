@@ -24,6 +24,7 @@ best-of-career performances
 - Nicole Kidman (Birth_); also `favorite-of-career`_; honorable mention
   (`Rabbit Hole`_)
 - Penélope Cruz (`Vicky Cristina Barcelona`_)
+- Philip Seymour Hoffman (Doubt_)
 - Rosario Dawson (Seven Pounds)
 - Samuel L. Jackson (Pulp Fiction)
 - Sandra Oh (`Rabbit Hole`_)
@@ -50,3 +51,4 @@ __ http://movies.tshepang.net/good-night-and-good-luck-2005
 .. _The Last King of Scotland: http://movies.tshepang.net/the-last-king-of-scotland-2006
 .. _Birth: http://movies.tshepang.net/birth-2004
 .. _The Counselor: http://movies.tshepang.net/the-counselor-2013
+.. _Doubt: http://movies.tshepang.net/doubt-2008
