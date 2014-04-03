@@ -133,7 +133,7 @@ Make A Porno
 .. _Transformers 2: http://movies.tshepang.net/transformers-revenge-of-the-fallen-2009
 .. _Terminator Salvation: http://movies.tshepang.net/terminator-salvation-2009
 .. _Shoot 'Em Up: http://movies.tshepang.net/recent-movies-2009-03-06
-.. _Law-Abiding Citizen: http://movies.tshepang.net/law-abiding-citizen
+.. _Law-Abiding Citizen: http://movies.tshepang.net/law-abiding-citizen-2009
 .. _You Don't Mess With the Zohan: http://movies.tshepang.net/many-recent-movies-2009-02-27
 .. _Wall-E: http://movies.tshepang.net/many-recent-movies-2009-02-27
 .. _Sponge Bob: http://movies.tshepang.net/recent-movies-2009-10-23

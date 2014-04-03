@@ -10,10 +10,6 @@ where the lawyer's manipulation are portrayed by showing him as puppet
 master (the puppets being the murderer and the press), and the song
 accompanying that scene.
 
-A revisit of *Law Abiding Citizen* left a bitter taste in mouth, and
-none of the major performers helped. In fact, I was surprised by how bad
-Gerard Butler was. I must have been blinded by my love for him in *300*.
-
 There's gems here and there in the rather overrated *Annie Hall* (EG,
 when the protagonist speaks to strangers, and part of his character when
 he gets honest and straight-to-the-point). The movie however tends to
