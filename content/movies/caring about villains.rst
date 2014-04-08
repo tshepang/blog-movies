@@ -11,6 +11,8 @@ care about a cruel villain. Here's a few movies that has such
 villains:
 
 * The peackock in `Kung Fu Panda 2`__
+* Lead of pirates in `Captain Phillips`_
 
 
 __ http://movies.tshepang.net/kung-fu-panda-2-2011
+__ http://movies.tshepang.net/captain-phillips-2013
