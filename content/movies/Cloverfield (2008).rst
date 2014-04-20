@@ -8,13 +8,14 @@ Cloverfield (2008)
 `I once compared this movie with *I Am Legend*`__, and I then I had
 the following to say later that year:
 
-> A revisit of *Cloverfield* wasn't as much a let-down as that of `I Am
-Legend`__ and am even tempted that it's so far the year's greatest
-achievement in visual effects. I just want more of that fabulous
-monster, and hopefully in a really good sequel. Perhaps an equally good
-sequel would be another discovered tape, maybe with a bigger budget.
-Here's me salivating on what could be an extremely satisfying franchise.
-I just so much wish no one will fuck up the idea.
+   A revisit of *Cloverfield* wasn't as much a let-down as that of `I
+   Am Legend`__ and am even tempted that it's so far the year's
+   greatest achievement in visual effects. I just want more of that
+   fabulous monster, and hopefully in a really good sequel. Perhaps an
+   equally good sequel would be another discovered tape, maybe with a
+   bigger budget.  Here's me salivating on what could be an extremely
+   satisfying franchise.  I just so much wish no one will fuck up the
+   idea.
 
 All the above are still accurate, except I didn't enjoy the plot as
 much this (third) time around. The setup was okay, all but the romance
