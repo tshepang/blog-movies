@@ -5,7 +5,7 @@ Cloverfield (2008)
 :tags: good, 2008-movie
 
 
-`I once compared this movie with *I Am Legend*`__, and I then I had
+`I once compared this movie with I Am Legend`__, and I then I had
 the following to say later that year:
 
    A revisit of *Cloverfield* wasn't as much a let-down as that of `I
