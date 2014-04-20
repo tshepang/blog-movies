@@ -41,7 +41,7 @@ year's best dialogue can be found in `The Squid & the Whale`_.
 As for production design, nothing beat `No Country for Old Men`_, while
 *TMNT* is a runner-up, animated as it is. *No Country for Old Men* also
 got the year's best sound, followed by a tie between `30 Days of Night`_
-and *Cloverfield*. `The New World`_'s editing is the year's most
+and Cloverfield_. `The New World`_'s editing is the year's most
 accomplished.
 
 The best dancing can be found in `Step Up 2: The Streets`_, there's no
@@ -58,8 +58,8 @@ The year's best escape was the villain's in *Kung Fu Panda*, followed by
 that from the 'safe house' in *Children of Men*, which also happens to
 have the best battle scene. The best confrontation was that of the
 characters of Craig Bierko and Russel Crowe in a party scene in *The
-Cinderella Man*. The best end-credits sequence finds a tie between
-*Cloverfield*'s VHS-style and *The Mummy*'s which uses a concept copied
+Cinderella Man*. The best end-credits sequence can be seen in
+*The Mummy*, which uses a concept copied
 from *300*'s end-credits sequence.
 
 *The Condemned* had my favorite sexual interaction (very brief but
@@ -111,7 +111,7 @@ then Shirley Henderson as the emotionally-hurt girl in *interMission*.
 There were no characters as cute the young penguins in *Surf's Up*.
 
 My most **favorite creature** is the super-large monster in
-*Cloverfield*, followed by Pyramid Head in `Silent Hill`_.
+Cloverfield_, followed by Pyramid Head in `Silent Hill`_.
 2nd runner-up is the hyperrealistic mountain creatures in
 *The Mummy 3*. The best **character design** however goes to the
 villainous Maltazard in *Arthur & the Invisibles*, followed by the three
@@ -151,7 +151,7 @@ Beginning; Things We Lost in the Fire; Three Colours Red; Three Colours
 White; Torque; Trapped; Truth About Love, The; Unfaithful; War; We Are
 Marshall; Weather Man; Zoom
 
-.. _Cloverfield: http://movies.tshepang.net/recent-movies-2008-12-15
+.. _Cloverfield: http://movies.tshepang.net/cloverfield-2008
 .. _Taken: http://movies.tshepang.net/taken-2008
 .. _The Lake House: http://movies.tshepang.net/recent-movies-2008-02-25
 .. _Children of Men: http://movies.tshepang.net/recent-movies-2008-05-28

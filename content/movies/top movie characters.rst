@@ -60,7 +60,7 @@ creature
 monster
 -------
 
-#. Monster (*Cloverfield*)
+#. Monster (Cloverfield_)
 #. Pyramid Head (`Silent Hill`_ and `Silent Hill: Revelation`_)
 #. Pale Man (`Pan's Labyrinth`_)
 #. The Missionary (`Silent Hill: Revelation`_)
@@ -108,3 +108,4 @@ airport checkpoint officer
 .. _`Afro Samurai: Resurrection`: http://movies.tshepang.net/afro-samurai-resurrection-2009
 .. _Pan's Labyrinth: http://movies.tshepang.net/pans-labyrinth-2006
 .. _Salt: http://movies.tshepang.net/salt-2010
+.. _Cloverfield: http://movies.tshepang.net/cloverfield-2008

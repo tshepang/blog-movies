@@ -17,13 +17,3 @@ I was not going to mention *Mirrors*, but the ending alone makes it
 worth a look. Make-up (or whatever it is that achieved the imagery of
 the woman whose skin was melting) is top-class while the lady playing
 wife just sucks, much more than the unconvincing 'first' victim.
-
-A revisit of *Cloverfield* wasn't as much a let-down as that of `I Am
-Legend`_ and am even tempted that it's so far the year's greatest
-achievement in visual effects. I just want more of that fabulous
-monster, and hopefully in a really good sequel. Perhaps an equally good
-sequel would be another discovered tape, maybe with a bigger budget.
-Here's me salivating on what could be an extremely satisfying franchise.
-I just so much wish no one will fuck up the idea.
-
-.. _I Am Legend: http://movies.tshepang.net/revisiting-i-am-legend
