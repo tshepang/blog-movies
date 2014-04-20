@@ -25,6 +25,11 @@ around two more people on his quest onto a heavily-compromised
 building, up dozens of stairs, all to find a gal heavily injured, yet
 managing to run around for several minutes on end... makes me sad :(
 
+----
+
+I enjoyed `this review`__.
+
 
 __ http://movies.tshepang.net/cloverfield-vs-i-am-legend
 __ http://movies.tshepang.net/revisiting-i-am-legend
+__ http://origin.mercurynews.com/entertainment/ci_8006739
