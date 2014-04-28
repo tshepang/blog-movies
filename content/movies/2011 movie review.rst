@@ -137,7 +137,7 @@ The category of **most important movie** exists in order to recognize
 movies that deliver certain ideas/messages I find extremely important;
 The harmful effects of making abortion illegal are portrayed in
 a very powerful way in `4 Months, 3 Weeks and 2 Days`_, and that easily
-makes the movie the winner. There's a tie between the 2 runners-ups:
+makes the movie the winner. There's a tie between the 2 runner-ups:
 
 - `Fair Game`_ (harmful suppression of truth by powerful government officials)
 - `Contagion`_ (a reminder of how fragile our existence is,

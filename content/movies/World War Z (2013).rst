@@ -8,10 +8,7 @@ World War Z (2013)
 
 The family-focus thing is boring, and so is the overly-heroic antics
 of the not-so-interesting lead. The story also feels incomplete, and
-I've seen superior treatment of `the subject matter`__.
+I've seen superior treatment of the subject matter (of pandemics)
 
 On a more positive note, I have never seen zombies so vicious. Also,
 the movie is not boring.
-
-
-__ http://movies.tshepang.net/pandemic

@@ -9,8 +9,8 @@ A very edgy take on existential risk,
 this time the villain being a parasite,
 which is a fresh break from the usual global war or virus.
 Watching it, I thought of Contagion__ (virus),
-an overall superior movie, which was on a far grander scale (and budget);
-but this one is more unsettling given it's various horror movie elements,
+an overall superior movie, which was on a far grander scale (and budget).
+But this one is more unsettling given it's various horror movie elements,
 except handled with far greater skill than horror movies normally get.
 
 All performances are of at least decent quality,
