@@ -8,6 +8,7 @@ favorite-of-career performances
 -  Brad Pitt (Fight Club); honorable mention (Snatch)
 -  Dennis Hopper (`Apocalypse Now`_)
 -  Eamonn Walker (`Lord of War`_)
+-  Gwyneth Paltrow (Contagion_)
 -  Jet Li (Fist of Legend)
 -  Kerry Washington (I Think I Love My Wife)
 -  Kris Kristofferson (`Payback`_)
@@ -32,3 +33,4 @@ related: `best-of-career performances`_
 .. _Payback: http://movies.tshepang.net/payback-1999
 .. _Lord of War: http://movies.tshepang.net/lord-of-war-2005
 .. _Apocalypse Now: http://movies.tshepang.net/apocalypse-now-1979
+.. _Contagion: http://movies.tshepang.net/contagion-2011
