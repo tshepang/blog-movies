@@ -13,6 +13,7 @@ best-of-career performances
 - Forest Whitaker (`The Last King of Scotland`_)
 - Geoffrey Rush (`The King's Speech`_)
 - Guy Pearce (`Memento`_)
+- Hugh Jackman (Prisoners_)
 - John Carroll Lynch (Zodiac)
 - John Malkovich (Changeling_)
 - Jon Voigt (`The Rainmaker`_)
@@ -52,3 +53,4 @@ __ http://movies.tshepang.net/good-night-and-good-luck-2005
 .. _Birth: http://movies.tshepang.net/birth-2004
 .. _The Counselor: http://movies.tshepang.net/the-counselor-2013
 .. _Doubt: http://movies.tshepang.net/doubt-2008
+.. _Prisoners: http://movies.tshepang.net/prisoners-2013
