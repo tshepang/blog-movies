@@ -30,8 +30,9 @@ performances
 ------------
 
 **best male performance**: `Michael Shannon`__ in `The Iceman`_
-followed by the same in `Premium Rush`_. In third place is Brad Pitt
-in `The Counselor`_.
+followed by Anothony Hopkins in `Red 2`_. In third place is Michael
+Shannon (again) in `Premium Rush`_, and fourth place is Brad Pitt in
+`The Counselor`_.
 
 **best female performance**: `Susanne Lothar`__ in `Funny Games`_
 
@@ -125,3 +126,4 @@ fall from glory
 .. _Funny Games: http://movies.tshepang.net/funny-games-1997
 .. _The Counselor: http://movies.tshepang.net/the-counselor-2013
 .. _Doubt: http://movies.tshepang.net/doubt-2008
+.. _Red 2: http://movies.tshepang.net/red-2-2013
