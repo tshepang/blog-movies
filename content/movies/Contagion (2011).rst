@@ -7,10 +7,11 @@ Contagion (2011)
 
 
 A very well-made, rather convincing/realistic (the fresh dialog
-contributes well to that), well-acted movie (Laurence Fishburne is a joy
-to watch, and so is Gwyneth Paltrow). One favorite scene is when husband (Matt Damon) is told of
-passing away of wife while in hospital. The reaction is quite sad, and
-perhaps represents the best such scene I've ever seen.
+contributes well to that), well-acted movie (Laurence Fishburne is a
+joy to watch, and so is Gwyneth Paltrow). One favorite scene is when
+husband (Matt Damon) is told of passing away of wife while in
+hospital. The reaction is quite sad, and perhaps represents the best
+such scene I've ever seen.
 
 The movie is quite gloomy, and makes me impatient when we are actually
 going to finally manage to be fully immune to disease
