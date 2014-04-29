@@ -8,7 +8,7 @@ top movie characters
 favorite
 --------
 
--  Liam Neeson's professor Kinsey (`Kinsey`_)
+- professor Kinsey by Liam Neeson (`Kinsey`_)
 
 perfect gentleman
 -----------------
