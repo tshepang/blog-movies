@@ -24,7 +24,7 @@ levels impossible with live action.
 
 **best movie of the year** - *City of God*
 
-Top-notch filmmaking skill deserving of a masterpiece; same goes for
+Top-notch film-making skill deserving of a masterpiece; same goes for
 camerawork and editing. All this makes for an exhilarating ride through
 the unbelievably violent streets of Mexico City's slums. It's the kind
 of movie which reminds me of a *Pulp Fiction* while remaining totally
@@ -44,7 +44,7 @@ sequels of *The Matrix*.
 **spectacle of the year** - *The Island*
 
 Great visuals and an
-intriguing storyline help make this the year's greatest spectacle. The
+intriguing story-line help make this the year's greatest spectacle. The
 runner-up happens to be *King Kong* for nobody has captured them
 ritualistic humans so perfectly as Peter Jackson did here nor did anyone
 ever commit such superb visual effects to screen. That's some explosive
