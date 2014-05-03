@@ -27,7 +27,7 @@ levels impossible with live action.
 Top-notch film-making skill deserving of a masterpiece; same goes for
 camerawork and editing. All this makes for an exhilarating ride through
 the unbelievably violent streets of Mexico City's slums. It's the kind
-of movie which reminds me of a *Pulp Fiction* while remaining totally
+of movie which reminds me of a *Pulp Fiction* while remaining very
 different, except for a seeming fact that both directors relish in the
 violence.
 
