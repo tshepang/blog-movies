@@ -16,6 +16,7 @@ should have been excluded. Anyways, much of what one sees in here is
 simply stuff of dreams, e.g.: we have a man catching a speeding bullet
 with great ease, a very unsuspecting man at that, and dressed in pyjamas
 and the cheapest of sandals, a man who soon meets his match...
+beautiful, right?
 
 The **runner-up**, the surreal `The Triplets of Belleville`_, portrays
 rich human emotion (boredom and pain in this case), perhaps reaching
