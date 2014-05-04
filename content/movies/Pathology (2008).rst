@@ -23,7 +23,16 @@ quite good too, and the make-up is even better.
 **bad**:
 
 The story is quite silly, and rather pointless. The lead transforms
-(participates in the game) way too quick to convince. The ending feels
-rushed.
+(participates in the game) way too quick to convince. There is also
+too much (raunchy) sex, most of which is needless. The great jealousy
+the villains portray is unconvincing, and so is their bullying. Also,
+the ending feels rushed, as if there wasn't much material to work
+with.
+
+----
+
+I enjoyed reading `this review`__.
+
 
 __ http://en.wikipedia.org/wiki/John_de_Lancie
+__ http://variety.com/2008/film/reviews/pathology-1200535058
