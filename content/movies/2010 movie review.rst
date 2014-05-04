@@ -177,7 +177,7 @@ WTF!
 
 100 Girls; Accidental Husband, The; Agora; Alien Hunter; Annie Hall;
 Armored; Asterix at the Olympic Games; Blood and Chocolate; Canadian
-Bacon; Centurion; Code, The; Confessions of A Shopaholic; Coraline;
+Bacon; Centurion; Code, The; Coraline;
 Crank; Dirty Dancing; Dog Day Afternoon; DragonBall Evolution;
 Elsewhere; Final, The; First Sunday; Freedom Writers; From Paris With
 Love; Ghosts of Girlfriends Past; Green Zone, The; Hangover, The; Hot
