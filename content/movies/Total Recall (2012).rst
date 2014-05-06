@@ -18,12 +18,12 @@ nearly unbearable towards the end.
 
 Some nice technology ideas I have not seen before:
 
--  necklace that allows one to change appearance; by the way, the guy
-   the protagonist turns into gives a nice performance
--  transport that goes through center of the planet straight to the other
-   side
--  small video cameras that attach themselves to surfaces, shot through
-   a gun
+-  Necklace that allows one to change appearance; by the way, the guy
+   the protagonist turns into gives a nice performance.
+-  Transport that goes through center of the planet straight to the other
+   side.
+-  Small video cameras that attach themselves to surfaces, shot through
+   a gun.
 
 And some I have seen:
 
