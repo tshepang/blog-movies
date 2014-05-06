@@ -8,4 +8,4 @@ Idiocracy (2006)
 
 It started pretty well, with nice humor, but the idiocy of a future
 human civilization just went too far, and being a passive comedy is not
-anough of an excuse for lazy writing.
+enough of an excuse for lazy writing.
