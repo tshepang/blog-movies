@@ -6,7 +6,7 @@ Total Recall (2012)
 
 
 
-The movie is so different from the first same-titled such that it cannot
+The movie is so different from the first same-titled one from 1990 such that it cannot
 really be called a remake. It is not quite as interesting, and so are the lead
 actors (there is no Schwarzenegger or Sharon
 Stone), does not take place in Mars (sadly) and is a straight-forward
@@ -20,7 +20,7 @@ Some nice technology ideas I have not seen before:
 
 -  necklace that allows one to change appearance; by the way, the guy
    the protagonist turns into gives a nice performance
--  transport the goes through center of the planet straight to the other
+-  transport that goes through center of the planet straight to the other
    side
 -  small video cameras that attach themselves to surfaces, shot through
    a gun
