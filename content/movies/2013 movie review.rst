@@ -22,10 +22,10 @@ performances
 ------------
 
 My **favorite performance** is that of Tom Towles playing Otis in
-`Henry: Portrait of a Serial Killer`_, but the **best male
-performance** is by `Chiwetel Ejiofor`_ as an instructor in
-Redbelt_. The **best female performance** is by Charlotte Rampling in
-Cleanskin_.
+`Henry: Portrait of a Serial Killer`_, followed by the hypnotized lady
+in `Now You See Me`_. The **best male performance** is by `Chiwetel
+Ejiofor`_ as an instructor in Redbelt_, while the **best female
+performance** is by Charlotte Rampling in Cleanskin_.
 
 
 characters
@@ -74,5 +74,6 @@ go to the `Director's Cut version`__, which I saw first time in 2013.
 .. _MirrorMask: http://movies.tshepang.net/mirrormask-2005
 .. _Goodbye Uncle Tom: http://movies.tshepang.net/goodbye-uncle-tom-1971
 .. _Seven Psychopaths: http://movies.tshepang.net/seven-psychopaths-2012
+.. _Now You See Me: http://movies.tshepang.net/now-you-see-me-2013
 __ http://movies.tshepang.net/2012-movie-review
 __ http://movies.tshepang.net/payback-straight-up-2006
