@@ -47,7 +47,9 @@ characters
 
 character development
 
-favorite character
+My **favorite character** is the charming China Doll in *Oz the Great and
+Powerful*; it's about as cute and lovable as the newborn baby in *Men
+In Black*.
 
 villain
 
