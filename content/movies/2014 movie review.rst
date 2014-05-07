@@ -78,7 +78,8 @@ narration
 
 sound
 
-**concept**: `Upside Down`_, followed by `In Time`_
+`Upside Down`_ has the best **story concept**. In second place is `In Time`_,
+followed by `The Adjustment Bureau`_.
 
 most important
 
@@ -129,3 +130,4 @@ fall from glory
 .. _The Counselor: http://movies.tshepang.net/the-counselor-2013
 .. _Doubt: http://movies.tshepang.net/doubt-2008
 .. _Red 2: http://movies.tshepang.net/red-2-2013
+.. _The Adjustment Bureau: http://movies.tshepang.net/the-adjustment-bureau-2011
