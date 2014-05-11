@@ -10,7 +10,7 @@ It would be dishonest of me to claim that my recent experience of
 felt more as an academic exercise, the kind that movie students would be
 'forced' to consume, in order to make notes on various elements (and
 there are many notable ones), a cold experience if you ask me (think
-*Citizen Kane*, *Casablanca*, *Singin' in the Rain*, *2001: A Space
+`Citizen Kane`__, *Casablanca*, *Singin' in the Rain*, *2001: A Space
 Odyssey*, ...). This is not to say it was as unpleasant as those
 overrated movies, but I would also be dishonest to claim that I found it
 anywhere as exciting as an *Iron Man* or a *Smokin' Aces* (both of which
@@ -70,7 +70,8 @@ one that can really absorb you, allowing you to drown in its 'reality',
 but I was left wanting regardless. Perhaps I was just hungry for a far
 richer and complex world offered by a number of superb movies I have
 been drowning in the last fews years. `The good things I once praised it
-for`_ still stand though.
+for`__ still stand though.
 
 
-.. _The good things I once praised it for: http://movies.tshepang.net/pivotal-moments-in-se7en
+__ http://movies.tshepang.net/citizen-kane-1941
+__ http://movies.tshepang.net/pivotal-moments-in-se7en
