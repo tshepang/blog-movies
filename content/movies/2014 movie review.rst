@@ -29,7 +29,9 @@ animation
 performances
 ------------
 
-**best male performance**: `Michael Shannon`__ in `The Iceman`_
+My **favorite performance** is by Laurence R. Harvey as the disgusting
+(and evil) security guard in `The Human Centipede 2`__.
+However, the **best male performance** is by `Michael Shannon`__ in `The Iceman`_
 followed by Anothony Hopkins in `Red 2`_. In third place is Michael
 Shannon (again) in `Premium Rush`_, and fourth place is Brad Pitt in
 `The Counselor`_.
@@ -38,6 +40,7 @@ Shannon (again) in `Premium Rush`_, and fourth place is Brad Pitt in
 
 cast
 
+__ http://www.imdb.com/name/nm4030776
 __ http://en.wikipedia.org/wiki/Michael_Shannon
 __ http://en.wikipedia.org/wiki/Susanne_Lothar
 
@@ -131,3 +134,4 @@ fall from glory
 .. _Doubt: http://movies.tshepang.net/doubt-2008
 .. _Red 2: http://movies.tshepang.net/red-2-2013
 .. _The Adjustment Bureau: http://movies.tshepang.net/the-adjustment-bureau-2011
+.. _The Human Centipeded 2: http://movies.tshepang.net/the-human-centipede-2011
