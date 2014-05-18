@@ -32,7 +32,9 @@ were just lazily-developed, making them unconvincing:
 
 I though it was quite daring to include the pregnant woman among the
 victims. Worse still, her giving birth like that. Wow! Talk of pushing
-boundaries.
+boundaries. Also, the movie may not be as fresh as its predecessor,
+but it's a lot better (direction, cinematography, acting), and more
+interesting.
 
 
 __ http://www.imdb.com/name/nm4030776
