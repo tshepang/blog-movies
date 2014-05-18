@@ -29,7 +29,7 @@ animation
 performances
 ------------
 
-My **favorite performance** is by Laurence R. Harvey as the disgusting
+My **favorite performance** is by `Laurence R. Harvey`__ as the disgusting
 (and evil) security guard in `The Human Centipede 2`__.
 However, the **best male performance** is by `Michael Shannon`__ in `The Iceman`_
 followed by Anothony Hopkins in `Red 2`_. In third place is Michael
