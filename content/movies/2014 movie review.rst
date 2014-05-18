@@ -30,7 +30,7 @@ performances
 ------------
 
 My **favorite performance** is by `Laurence R. Harvey`__ as the disgusting
-(and evil) security guard in `The Human Centipede 2`__.
+(and evil) security guard in `The Human Centipede 2`_.
 However, the **best male performance** is by `Michael Shannon`__ in `The Iceman`_
 followed by Anothony Hopkins in `Red 2`_. In third place is Michael
 Shannon (again) in `Premium Rush`_, and fourth place is Brad Pitt in
