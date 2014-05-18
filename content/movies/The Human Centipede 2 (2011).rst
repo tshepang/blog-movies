@@ -12,7 +12,7 @@ lead character as repulsive as possible, a character lucky enough to
 get a wonderful performance by `Laurence R. Harvey`__ (his first
 movie). Interestingly, this character cannot be blamed for the harms
 he inflicts on others, given he's mentally disturbed, complete with a
-rather unhappy toddler-hood. It's a pity two of the other characters
+rather unhappy toddler-hood. It's a pity three of the other characters
 were just lazily-developed, making them unconvincing:
 
 * Mommy was a cheap copy of the one in Precious__. The story went too
