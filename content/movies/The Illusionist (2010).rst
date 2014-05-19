@@ -7,9 +7,9 @@ The Illusionist (2010)
 
 
 It starts impressively well (the backstage, complete with the bony lady)
-but son devolves into a drag that doesn't really go anywhere. The
+but soon devolves into a drag that doesn't really go anywhere. The
 direction is good, and the lead character superbly-developed. It's just
-not a match for the director's earlier masterful `Triples of
-Belleville`_.
+not a match for the director's earlier masterful `Triplets of
+Belleville`__.
 
-.. _Triples of Belleville: http://movies.tshepang.net/the-triplets-of-belleville-2003
+__ http://movies.tshepang.net/the-triplets-of-belleville-2003
