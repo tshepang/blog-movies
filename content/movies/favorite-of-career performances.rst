@@ -9,7 +9,6 @@ favorite-of-career performances
 -  Dennis Hopper (`Apocalypse Now`_)
 -  Eamonn Walker (`Lord of War`_)
 -  Gwyneth Paltrow (Contagion_)
--  Jet Li (Fist of Legend)
 -  Kerry Washington (I Think I Love My Wife)
 -  Kris Kristofferson (`Payback`_)
 -  Mark Margolis (`Pi`_)
