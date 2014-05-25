@@ -22,11 +22,13 @@ performances
 ------------
 
 My **favorite performance** is that of Tom Towles playing Otis in
-`Henry: Portrait of a Serial Killer`_, followed by the hypnotized lady
-in `Now You See Me`_. The **best male performance** is by `Chiwetel
+`Henry: Portrait of a Serial Killer`_. Runner-up is the hypnotized lady
+in `Now You See Me`_, followed by `Micharl Parks`__ in `Django Unchained`_.
+The **best male performance** is by `Chiwetel
 Ejiofor`_ as an instructor in Redbelt_, while the **best female
 performance** is by Charlotte Rampling in Cleanskin_.
 
+__ http://en.wikipedia.org/wiki/Michael_Parks
 
 characters
 ----------
@@ -75,5 +77,6 @@ go to the `Director's Cut version`__, which I saw first time in 2013.
 .. _Goodbye Uncle Tom: http://movies.tshepang.net/goodbye-uncle-tom-1971
 .. _Seven Psychopaths: http://movies.tshepang.net/seven-psychopaths-2012
 .. _Now You See Me: http://movies.tshepang.net/now-you-see-me-2013
+.. _Django Unchained: http://movies.tshepang.net/django-unchained-2012
 __ http://movies.tshepang.net/2012-movie-review
 __ http://movies.tshepang.net/payback-straight-up-2006
