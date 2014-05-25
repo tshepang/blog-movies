@@ -2,7 +2,7 @@ Fist of Legend (1994)
 =====================
 
 :date: 2014-05-24
-:tags: decent
+:tags: good
 
 
 
