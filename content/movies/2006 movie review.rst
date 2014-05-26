@@ -33,8 +33,8 @@ size, not to mention breath-taking effects.
 performance of the year
 -----------------------
 
-Crispin Glover shines in a bizarre performance in the surreal *Dead
-Man*. Another favorite of mine is the almost comic one of James Caan in
+Crispin Glover shines in a bizarre performance in the surreal `Dead
+Man`_. Another favorite of mine is the almost comic one of James Caan in
 `Dogville`_, however the year's favorite is easily Eamonn Walker's
 dictator in `Lord of War`_, a great highlight of an already brilliant
 movie. I found the character portrayal of Tia Dalma, the witch in *Dead
@@ -122,7 +122,7 @@ my liking.
 strangest movie
 ---------------
 
-This honor goes to the weird *Dead Man* which has some very memorable
+This honor goes to the weird `Dead Man`_ which has some very memorable
 scenes; It also has the honor of being totally respected by
 master-critic, Jonathan Rosenbaum.
 
@@ -190,3 +190,4 @@ direction, but got beaten by *Eurotrip* as worst movie.
 .. _Pi: http://movies.tshepang.net/pi-1997
 .. _Lord of War: http://movies.tshepang.net/lord-of-war-2005
 .. _2005: http://movies.tshepang.net/2005-movie-review
+.. _Dead Man: http://movies.tshepang.net/dead-man-1995
