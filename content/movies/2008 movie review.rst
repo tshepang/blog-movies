@@ -141,7 +141,7 @@ Hellboy 2; Highlander - The Search for Vengeance; Hit Man; Hitch;
 Hitcher, The; Horton Hears A Who; Hostel 2; House of Sand & Fog; Human
 Stain, The; In Good Company; Jerusalema; Jumper; Kaena: The Prophecy;
 Kika; Kingdom of Heaven; Lords of Dogtown; Love & Basketball; Machinist,
-The; Magnificent Seven, The; Mars Attacks!; Mirrors; Morvern Callar;
+The; Magnificent Seven, The; Mirrors; Morvern Callar;
 National Treasure; Norbit; One Last Thing; One Missed Call; Open Season;
 Prestige, The; Pulse; Possession; Queen, The; Resident Evil: Extinction;
 Rambo 4; Runaway Jury; Running Scared; Rush Hour 3; Save the Last Dance;
