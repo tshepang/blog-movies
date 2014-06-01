@@ -9,7 +9,7 @@ The Warrior's Way (2010)
 There is extreme brutality and violence, in this super-exciting fusion
 of guns and swords. It's rare to successfully mix Oriental and Western
 fantasy. I don't remember live-action fantasy martial arts so
-impressively-executed (the ones that come close are *Kung Fu Hustle* and
+impressively-executed (the ones that come close are `Kung Fu Hustle`__ and
 *House Of Flying Daggers*). The costume design is amazing, for both West
 and East. The final battle is exhilarating. Shit, I wish I had words to
 describe it. Did you check the ninjas? The sound?
@@ -55,3 +55,4 @@ the guy playing head of the ninjas.
 
 .. _a quality review: http://www.screendaily.com/reviews/the-warriors-way/5021277.article
 .. _Case of The Matrix Reloaded: http://movies.tshepang.net/the-case-of-the-matrix-reloaded
+__ http://movies.tshepang.net/kung-fu-hustle--2004

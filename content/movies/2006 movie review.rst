@@ -11,8 +11,8 @@ movie of the year
 
 *Pirates of the Caribbean: Dead Man's Chest* for its visual splendour
 and excitement. The runner-up in this category is `Shaolin Soccer`_,
-which is made by the same guy who made 2005's movie of the year, *Kung
-Fu Hustle*.
+which is made by the same guy who made 2005's movie of the year, `Kung
+Fu Hustle`_.
 
 best movie
 ----------
@@ -191,3 +191,4 @@ direction, but got beaten by *Eurotrip* as worst movie.
 .. _Lord of War: http://movies.tshepang.net/lord-of-war-2005
 .. _2005: http://movies.tshepang.net/2005-movie-review
 .. _Dead Man: http://movies.tshepang.net/dead-man-1995
+.. _Kung Fu Hustle: http://movies.tshepang.net/kung-fu-hustle--2004

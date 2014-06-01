@@ -18,5 +18,8 @@ number of families get to witness such beauty and introspect selves,
 3:10 To Yuma was lesser than I expected while Jason Statham is the least
 of the qualities of the beautifully-shot and exciting The Bank Job. At
 the same time, there's way too much wizardry and dodgy martial atristry
-in the disorganised mess that is Swordsman, and I discovered Kung Fu
-Hustle's elastic master in there and he didn't help at all.
+in the disorganised mess that is Swordsman, and I discovered the
+elastic master from `Kung Fu Hustle`__ in there, and he didn't help at all.
+
+
+__ http://movies.tshepang.net/kung-fu-hustle--2004

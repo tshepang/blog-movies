@@ -6,18 +6,7 @@
 
 
 
-**movie of the year** - *Kung Fu Hustle*
-
-Not the best, but it's certainly the most memorable and definitely the
-most entertaining. I couldn't get enough of it since I've done numerous
-repeats of my favorite scenes. It's a showcase of tremendous (though
-underutilized) talent but there's also many scenes and characters which
-should have been excluded. Anyways, much of what one sees in here is
-simply stuff of dreams, e.g.: we have a man catching a speeding bullet
-with great ease, a very unsuspecting man at that, and dressed in pyjamas
-and the cheapest of sandals, a man who soon meets his match...
-beautiful, right?
-
+The highly entertaining `Kung Fu Hustle`_ is **movie of the year**.
 The **runner-up**, the surreal `The Triplets of Belleville`_, portrays
 rich human emotion (boredom and pain in this case), perhaps reaching
 levels impossible with live action.
@@ -60,3 +49,4 @@ wonderful and fresh script.
 
 .. _The Triplets of Belleville: http://movies.tshepang.net/the-triplets-of-belleville-2003
 .. _The Life of David Gale: http://movies.tshepang.net/the-life-of-david-gale-2003
+.. _Kung Fu Hustle: http://movies.tshepang.net/kung-fu-hustle--2004
