@@ -115,8 +115,8 @@ very unloving fellows.
 miscellaneous
 -------------
 
-`Munich`_ ties with *Cars* as regards the best sound and the
-runner-up is *Fearless* for its battles. There's a tie between *The
+`Munich`_ ties with *Cars* as regards the best sound.
+There's a tie between *The
 Number 23* and *Lucky Number Slevin* (presentation of textual info and
 the slick murders) as the best opening credits sequence. The runner-up
 is *The Kingdom*, while the best closing credits is by *300*, with its
@@ -129,9 +129,8 @@ treatment I've ever seen of time-travel, though the movie itself sucks
 much. 2nd runner-up happens to be *Solaris*, whose concept is
 reminiscent of that of *Sphere* and therefore not so fresh. *Solaris* is
 also runner-up for most surreal, winner by far being the unbearably
-weird *The Fountain*. `The Last King of Scotland`_ had the best music
-while `Apocalypto`_ had the best costume design. *Fearless*' battle on
-the elevated platform was the best fight while *Five Fingers* had the
+weird *The Fountain*. `The Last King of Scotland`_ had the best music,
+`Apocalypto`_ had the best costume design, and *Five Fingers* had the
 best twist. The most overrated movie turns out to be *Vertigo*, which
 frequently appears in many elevated lists of the all-time greatest
 movies. Instead of a landmark, I saw a badly-acted old-time thriller,
