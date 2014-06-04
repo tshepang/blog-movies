@@ -1,7 +1,6 @@
 2009 movie review
 =================
 
-:date: 2013-09-25
 :tags: year-movie-review
 
 
@@ -23,7 +22,8 @@ best movie
 The year's best movie is `Baise-moi`_, whose unflinching and unsettling
 violence has the raw intensity of `Bamboozled`_'s climax and the
 harshness of *Natural Born Killers*, without the humor. It's runner-up
-is `District 9`_.
+is `District 9`_, followed by `Inglourious Basterds`_, Tarantino's
+best movie yet.
 
 performances
 ------------
@@ -37,6 +37,7 @@ There was quite a number of superb male performances, the best being
 Daniel-Day Lewis' near-flawless performances as oil miner in `There
 Will Be Blood`_. Here's the runner-ups:
 
+#. Christoph Waltz as Nazi officer in `Inglourious Basterds`_
 #. John Malkovich as activist in Changeling_
 #. Jack Nicholson as grumpy tycoon in *Bucket List*
 #. Woody Harrelson as blind man in `Seven Pounds`_
@@ -104,8 +105,8 @@ others:
 
 Angels & Demons; Awake; Babylon A.D.; Bee Movie; Day the Earth Stood
 Still, The; Duplicity; Eagle Eye; Fan Boys; Frailty; Gran Torino;
-Happening, The; Ice Age; In the Realm of the Senses; Inglourious
-Basterds; International, The; Karol - A Man Who Became Pope;
+Happening, The; Ice Age; In the Realm of the Senses;
+International, The; Karol - A Man Who Became Pope;
 Leatherheads; Marie Antoinette; Max & Mona; Nashville; Notorious;
 Obsessed; Once Upon A Time in America; Once Upon A Time In The West;
 Orphanage, The; Pride; Promise, The; Psycho; Push; Ran; Saw V; Speed
@@ -143,4 +144,5 @@ Make A Porno
 .. _Yellow Earth: http://movies.tshepang.net/yellow-earth-1984
 .. _The World: http://movies.tshepang.net/more-of-jia
 .. _Rock 'n Rolla: http://movies.tshepang.net/recent-movies-2009-03-06
+.. _Inglourious Basterds: http://movies.tshepang.net/inglourious-basterds-2009
 .. _these: http://movies.tshepang.net/tag/2009-movie/
