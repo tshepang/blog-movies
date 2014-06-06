@@ -11,7 +11,7 @@ first review (2007)
 
 After watching this spectacle, the greatest so far this year, I kept
 wondering which has superior visual effects if compared to `Pirates of
-the Caribbean 3`_. It wins in terms of spectacle due to the far larger
+the Caribbean 3`__. It wins in terms of spectacle due to the far larger
 activity going on all over the screen and it's really unbelieavable how
 seemingly no cash was spared, and it's only since King Kong (2005) have
 I been so overwhelmed by sheer size. Interestingly, I can't single out a
@@ -21,7 +21,7 @@ battle, the city battle, the transformers).
 The lead performer is quite impressive and so is the mother, who
 provides among the movie's finest comic moments.
 
-Luckily the movie isn't pretentious (say the ridiculous `Spiderman 3`_)
+Luckily the movie isn't pretentious (say the ridiculous `Spider-Man 3`__)
 about its seriousness and is therefore presented as mere crowd-pleaser,
 and what a crowd-pleaser it is! This fact allows one to enjoy it pretty
 well, disregarding plot-holes and other deficiencies.
@@ -46,5 +46,5 @@ Anyways, the entire concept is god-damn silly, but then *The Matrix*
 managed to get away with its own silly concept (machines 'farming' human
 energy; WTF) by being better elsewhere.
 
-.. _Pirates of the Caribbean 3: http://movies.tshepang.net/pirates-of-the-caribbean-3
-.. _Spiderman 3: http://movies.tshepang.net/spider-man-3-2007
+__ http://movies.tshepang.net/pirates-of-the-caribbean-3
+__ http://movies.tshepang.net/spider-man-3-2007
