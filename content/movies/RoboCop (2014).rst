@@ -14,7 +14,9 @@ chosen for the roles of wife and partner, and it would have been nice
 had this partner been given a meatier role. Better still, it should
 have been a woman, in honor of the 1987 movie. Or better still, get
 rid of the partner. There's enough other things to keeping things
-interesting.
+interesting. I also wish someone else was chosen in place of the
+uninteresting Gary Oldman, the same person who made the Nolan Batman
+trilogy less bearable than it needed to be.
 
 The crime-fighting part was rather rushed, and the story not very
 solid. I enjoyed watching Samuel L. Jackson play a commentator, and
