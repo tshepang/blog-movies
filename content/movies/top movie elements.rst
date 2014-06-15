@@ -86,7 +86,6 @@ story concept
    could feel like a year (as an example)
 #. `Limitless`_ - a drug that enhances mental performance
 #. `Groundhog Day`_ - reliving the same day over and over again
-#. Dejavu - treatment of the concept of time travel
 #. Next - treatment of the concept of being able to see the future
 #. Lake House - treatment of the concept of time travel
 

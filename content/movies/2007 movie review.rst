@@ -122,11 +122,9 @@ the slick murders) as the best opening credits sequence. The runner-up
 is *The Kingdom*, while the best closing credits is by *300*, with its
 nice mix of 2D and 3D imagery. *Next* wins both most romantic scene (the
 definition of beauty) and most painful scene (wheelchair explosion) even
-though both their impact was painfully reduced on a revisit, while the
-movie is runner-up as best concept (seeing the future in a mere 2
-minutes), the winner in that category being *Dejavu*, which is the best
-treatment I've ever seen of time-travel, though the movie itself sucks
-much. 2nd runner-up happens to be *Solaris*, whose concept is
+though both their impact was painfully reduced on a revisit. The
+movie also offers best concept (seeing the future in a mere 2
+minutes). Runner-up happens to be *Solaris*, whose concept is
 reminiscent of that of *Sphere* and therefore not so fresh. *Solaris* is
 also runner-up for most surreal, winner by far being the unbearably
 weird *The Fountain*. `The Last King of Scotland`_ had the best music,
