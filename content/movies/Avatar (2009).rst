@@ -32,8 +32,7 @@ bad
 
 - The general feel of the alien world feels too artificial (there's
   too many bright-colored plants and animals). The creature design is
-  not satisfactory; it's a failed attempt at impressing is with
-  beauty.
+  not satisfactory.
 
 - The helicopter driver lady should have been excluded. She is just not
   an interesting actor, and cheapens the movie further.
