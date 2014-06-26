@@ -130,7 +130,7 @@ Make A Porno
 .. _Still Life: http://movies.tshepang.net/recent-movies-2009-09-30
 .. _Avatar: http://movies.tshepang.net/avatar-2009
 .. _Small Soldiers: http://movies.tshepang.net/small-soldiers-1998
-.. _2012: http://movies.tshepang.net/recent-movies-2009-12-05
+.. _2012: http://movies.tshepang.net/2012-2009
 .. _Transformers 2: http://movies.tshepang.net/transformers-revenge-of-the-fallen-2009
 .. _Terminator Salvation: http://movies.tshepang.net/terminator-salvation-2009
 .. _Shoot 'Em Up: http://movies.tshepang.net/recent-movies-2009-03-06
