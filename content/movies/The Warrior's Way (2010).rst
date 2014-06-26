@@ -55,4 +55,4 @@ the guy playing head of the ninjas.
 
 .. _a quality review: http://www.screendaily.com/reviews/the-warriors-way/5021277.article
 .. _Case of The Matrix Reloaded: http://movies.tshepang.net/the-case-of-the-matrix-reloaded
-__ http://movies.tshepang.net/kung-fu-hustle--2004
+__ http://movies.tshepang.net/kung-fu-hustle-2004
