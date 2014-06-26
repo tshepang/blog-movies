@@ -191,4 +191,4 @@ direction, but got beaten by *Eurotrip* as worst movie.
 .. _Lord of War: http://movies.tshepang.net/lord-of-war-2005
 .. _2005: http://movies.tshepang.net/2005-movie-review
 .. _Dead Man: http://movies.tshepang.net/dead-man-1995
-.. _Kung Fu Hustle: http://movies.tshepang.net/kung-fu-hustle--2004
+.. _Kung Fu Hustle: http://movies.tshepang.net/kung-fu-hustle-2004
