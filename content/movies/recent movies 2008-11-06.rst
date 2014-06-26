@@ -22,4 +22,4 @@ in the disorganised mess that is Swordsman, and I discovered the
 elastic master from `Kung Fu Hustle`__ in there, and he didn't help at all.
 
 
-__ http://movies.tshepang.net/kung-fu-hustle--2004
+__ http://movies.tshepang.net/kung-fu-hustle-2004
