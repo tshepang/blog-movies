@@ -1,7 +1,7 @@
 Cloudy With A Chance Of Meatballs (2009)
 ========================================
 
-:date: 2012-05-06
+:date: 2014-07-06
 :tags: very-good, 2012-movie
 
 
@@ -16,19 +16,30 @@ like the moment where they attempt to attack him when something goes
 wrong with his food-making machine. It's fine when they are shallow and
 stupid, but it annoys me a little when the writers makes them that
 `unappreciative`_. One other not-too-kool thing is when these writers
-push the boundaries of fantasy a little too far when the former town
-icon wears a body of a chicken, and suddenly possessing supreme martial
-arts skills. Really now! Oh, the mayor was just too annoying, given some
+push the boundaries of fantasy way too far when the food surrounding
+the machine gain awareness, attacking the heroes to trying to shut the
+machine down. That was just needless; the movie was already more than
+good enough. Also, the mayor was just too annoying, given some
 villainy that's left unexplained.
 
 Okay, back to the good stuff:
 
--  The character design is amazing and so is the animation.
--  The lead characters is recycled, but still exciting enough.
--  The concept is great, and exploited well enough (even though it runs
-   out of steam about halfway during the movie's running length).
--  The food design is great. It reminds me of *Ratatouille*, and even
-   rivals it. The most amazing of them all is the ice cream.
+- The character design is amazing and so is the animation.
 
-.. _Megamind: http://movies.tshepang.net/megamind-2010
-.. _unappreciative: http://movies.tshepang.net/unforgiving-characters-are-annoying
+- I enjoyed the character of the police officer, and the love he
+  showed for his son was touching.
+
+- The lead character is recycled, but still exciting enough.
+
+- The concept is great, and exploited well enough, even though it runs
+  out of steam about halfway through.
+
+- The food design is great. It reminds me of *Ratatouille*, and even
+  rivals it. The most amazing of them all is the ice cream.
+
+- The jelly castle was a setting for the most enchanting moment,
+  making me wish fantasy was real.
+
+
+__ http://movies.tshepang.net/megamind-2010
+__ http://movies.tshepang.net/unforgiving-characters-are-annoying
