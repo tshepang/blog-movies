@@ -15,8 +15,8 @@ America, making him fun to watch. I would have done with the flying
 guy, who happens to be overly skillful, like he was some super-human,
 which he's not. Same applies to the Black Widow character. The story
 is okay but does not rise above the feeling that it attempts nothing
-other than keep the franchise going. There's lots of shortcuts, and no
-depth.
+other than keep the franchise going. There's lots of shortcuts, and
+not much depth.
 
 
 __ http://movies.tshepang.net/captain-america-the-first-avenger-2011
