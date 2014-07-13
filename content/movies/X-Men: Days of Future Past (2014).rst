@@ -12,7 +12,7 @@ travel part wasn't done bad and Wolverine not uninteresting. The
 Sentinels are fearsome and the power of Magneto ridiculous, much like
 he had in `X-Men 3: The Last Stand`__.
 
----
+----
 
 I see this received better reviews than any of the movies in the
 franchise, but I think the `X-Men 2`__ was better, and no other.
