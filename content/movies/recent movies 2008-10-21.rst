@@ -14,7 +14,7 @@ A good candidate for the ultimate 'girl power' movie is *The Descent*,
 even though I don't see the point of its subplot of a woman losing her
 family; And the creatures look like those from *I Am Legend*.
 Incidentally Rodriguez also got a kick-ass, gun-'carrying' gal in a
-beautifully crafted but non-sensical `Planet Terror`_.
+beautifully crafted but nonsensical `Planet Terror`_.
 
 *Wild Hogs* is a fine movie with a fresh storyline (though *City
 Slickers* had a similar concept), but it appears its creators didn't
