@@ -82,7 +82,7 @@ narration
 sound
 
 `Upside Down`_ has the best **story concept**. In second place is `In Time`_,
-followed by `The Adjustment Bureau`_.
+in third place is `The Adjustment Bureau`_, and lastly Her_.
 
 most important
 
@@ -135,3 +135,4 @@ fall from glory
 .. _Red 2: http://movies.tshepang.net/red-2-2013
 .. _The Adjustment Bureau: http://movies.tshepang.net/the-adjustment-bureau-2011
 .. _The Human Centipede 2: http://movies.tshepang.net/the-human-centipede-2011
+.. _Her: http://movies.tshepang.net/her-2013
