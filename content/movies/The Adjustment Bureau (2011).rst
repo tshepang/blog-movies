@@ -7,7 +7,7 @@ The Adjustment Bureau (2011)
 
 
 A well-made and unusual sci-fi about some humanoid super-beings that
-run the world. These beings remain unexplained, and they attempt to
+run the world. They remain unexplained, and they attempt to
 get the Matt Damon character (good job) to be American president. Part
 of achieving that is getting him away from his favorite gal, and
 although they give something of a flimsy excuse, it makes the plot
