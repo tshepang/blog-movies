@@ -19,5 +19,5 @@ meditative, and much of mutterings (prayers and thoughts) of the
 characters unintelligible, like I'm supposed to fill in the blanks. I
 also don't know what the point of the entire exercise is, though I
 liked the fact that the strict father wasn't presented in a shallow
-manner... he had sweet moments, and even apologied for the his shittty
+manner... he had sweet moments, and even apologized for his shitty
 behavior.
