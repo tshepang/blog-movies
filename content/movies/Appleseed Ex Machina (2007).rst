@@ -22,7 +22,7 @@ admiration than the lead.
 
 The action does not offer any real improvement over the previous movie,
 even though the budget is 3 times as large. It's also not as
-interesting. The animation is of more consistent quality the first
+interesting. The animation is of more consistent quality than the first
 movie, but there's nothing really groundbreaking.
 
 **sidenote**: Why the fuck did they have to drastically change the
