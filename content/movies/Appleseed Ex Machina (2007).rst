@@ -9,7 +9,7 @@ Appleseed Ex Machina (2007)
 The lead character from `the first movie`__ takes a backseat somewhat,
 making way for the cyborg friend and former lover, and to a lesser
 extent, the lover's clone, as well as to multiple other key characters.
-It's an interesting concept actually, and actually one I haven't seen
+It's an interesting concept actually, and I haven't seen it
 explored before: that the clone looks and acts so much like the former
 lover presents a challenge, and the conflict is apparent, but not
 overdone.
