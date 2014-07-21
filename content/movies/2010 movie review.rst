@@ -19,8 +19,7 @@ The best **cinematography** can be seen in `An Education`_, followed by
 `The Social Network`_. The best **visual effects** can be seen in
 `Inception`_, and the best **production design** can be seen in *Death
 At A Funeral*... the interior of that home is wonderful. The best
-**editing** can be seen in `The Kite Runner`_, and the best
-**animation** in *How To Train A Dragon*. The best **opening credits
+**editing** can be seen in `The Kite Runner`_. The best **opening credits
 sequence** is in *Up in the Air*, followed by *An Education*.
 
 miscellaneous
