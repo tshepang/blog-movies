@@ -210,7 +210,7 @@ Karate Kid; Skin
 .. _`Afro Samurai: Resurrection`: http://movies.tshepang.net/afro-samurai-resurrection-2009
 .. _The Hurt Locker: http://movies.tshepang.net/recent-movies-2010-05-06
 .. _Smokin' Aces: http://movies.tshepang.net/smokin-aces-2006
-.. _Se7en: http://movies.tshepang.net/revisiting-se7en
+.. _Se7en: http://movies.tshepang.net/se7en-1995
 .. _Malcolm X: http://movies.tshepang.net/recent-movies-2010-11-19
 .. _Human Nature: http://movies.tshepang.net/many-many-recent-movies
 .. _Shane: http://movies.tshepang.net/many-many-recent-movies
