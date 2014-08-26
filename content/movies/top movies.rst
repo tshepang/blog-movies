@@ -9,7 +9,6 @@ masterpieces
 1. Fight Club
 2. Children of Men
 3. `Requiem for A Dream`_
-4. Se7en
 5. `Precious`_
 
 near-masterpieces:
