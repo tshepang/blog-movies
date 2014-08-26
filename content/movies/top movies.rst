@@ -6,10 +6,10 @@ top movies
 masterpieces
 ------------
 
-1. Fight Club
-2. Children of Men
-3. `Requiem for A Dream`_
-5. `Precious`_
+#. Fight Club
+#. Children of Men
+#. `Requiem for A Dream`_
+#. `Precious`_
 
 near-masterpieces:
 ------------------
