@@ -1,0 +1,23 @@
+13 Sins
+=======
+
+:date: 2014-09-16
+:tags: 2014-movie, very-good
+
+
+
+A brilliant concept, clearly inspired by *The Game* thriller and *Saw*
+series of horror movies. I am a fan of Ron Perlman, so long as he's
+not given shit roles like in `Pacific Rim`__. He does great work here,
+him and `Rutina Wesley`__. The 'happy' ending thing is also
+stupid. The voice acting of the evil guy on the phone is wonderful,
+and so is his script. What a pleasure!
+
+Story concepts this good seldom have great conclusions, and this one
+is no exception. The twist is just not needed at all (it's too much of
+a stretch, both the father and brother thing). It would have also been
+nice to have more of a reveal of the villains.
+
+
+__ http://movies.tshepang.net/pacific-rim-2013
+__ http://en.wikipedia.org/wiki/Rutina_Wesley
