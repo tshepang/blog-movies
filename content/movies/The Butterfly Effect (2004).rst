@@ -14,7 +14,7 @@ concept, that I wanted more and more of it. It's done quite well,
 but none of the stories are given enough treatment,
 resulting in the movie feeling too short.
 
-The 7-year old boy gives one the best child performances I've seen yet,
+The 7-year old boy gives one of the best child performances I've seen yet,
 but the movie's best is that by the fat friend in college,
 while my most favorite was the religious guy who sharing a cell with the
 lead character.
