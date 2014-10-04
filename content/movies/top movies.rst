@@ -7,13 +7,13 @@ masterpieces
 ------------
 
 #. Fight Club
-#. Children of Men
 #. `Requiem for A Dream`_
 #. `Precious`_
 
 near-masterpieces:
 ------------------
 
+-  `Children of Men`_
 -  `Smokin' Aces`_
 -  `Bamboozled`_
 -  `Being John Malkovich`_
@@ -23,3 +23,4 @@ near-masterpieces:
 .. _Smokin' Aces: http://movies.tshepang.net/smokin-aces-2006
 .. _Bamboozled: http://movies.tshepang.net/bamboozled-2000
 .. _Being John Malkovich: http://movies.tshepang.net/being-john-malkovich-1999
+.. _Children of Men: http://movies.tshepang.net/children-of-men-2006

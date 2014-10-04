@@ -6,9 +6,9 @@ top movie elements
 direction
 ---------
 
-1. Fight Club
-2. Se7en
-3. `Requiem for a Dream`_
+#. Fight Club
+#. `Requiem for a Dream`_
+#. `Children of Men`_
 
 cinematography
 --------------
@@ -181,3 +181,4 @@ most beautiful suicide scene
 .. _Children of the Corn: http://movies.tshepang.net/children-of-the-corn-2009
 .. _Groundhog Day: http://movies.tshepang.net/groundhog-day-1993
 .. _Doubt: http://movies.tshepang.net/doubt-2008
+.. _Children of Men: http://movies.tshepang.net/children-of-men-2006

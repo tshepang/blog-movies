@@ -55,7 +55,7 @@ misc small things
 -----------------
 
 The year's best escape was the villain's in *Kung Fu Panda*, followed by
-that from the 'safe house' in *Children of Men*, which also happens to
+that from the 'safe house' in `Children of Men`_, which also happens to
 have the best battle scene. The best confrontation was that of the
 characters of Craig Bierko and Russel Crowe in a party scene in *The
 Cinderella Man*. The best end-credits sequence can be seen in
@@ -84,7 +84,7 @@ Ger Ryan (2nd runner-up) really touched me as a loving mother in
 *interMission* followed by Ellen Barkin (3rd runner-up) in *Someone Like
 You*. That Ger Ryan also ties with Ellen Page's appearance in the
 horrifying *Hard Candy* as my favorite female performance. They are
-followed by Clare-Hope Ashitey's key role in *Children of Men* and then
+followed by Clare-Hope Ashitey's key role in `Children of Men`_ and then
 a tie (2nd runner-up) between Katie Holmes' thief in *Mad Money* and
 Q'Orianka Kilcher's Pocahontas in `The New World`_. The best bit-female
 performance is Alexandra Silber's book lover in *Room 1408* which is the
@@ -154,7 +154,7 @@ Marshall; Weather Man; Zoom
 .. _Cloverfield: http://movies.tshepang.net/cloverfield-2008
 .. _Taken: http://movies.tshepang.net/taken-2008
 .. _The Lake House: http://movies.tshepang.net/recent-movies-2008-02-25
-.. _Children of Men: http://movies.tshepang.net/recent-movies-2008-05-28
+.. _Children of Men: http://movies.tshepang.net/children-of-men-2006
 .. _No Country for Old Men: http://movies.tshepang.net/no-country-for-old-men-2007
 .. _Hairspray: http://movies.tshepang.net/recent-movies-2008-05-19
 .. _Kinsey: http://movies.tshepang.net/kinsey-2004
