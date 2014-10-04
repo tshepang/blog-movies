@@ -13,8 +13,7 @@ best performance
 best child performance
 ----------------------
 
-1. Miles Teller as accidental killer (`Rabbit Hole`_)
-2. `Dillon Freasier`_ as adopted son (`There Will Be Blood`_)
+* `Dillon Freasier`_ as adopted son (`There Will Be Blood`_)
 
 favorite
 --------
