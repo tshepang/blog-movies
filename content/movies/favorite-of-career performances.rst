@@ -4,6 +4,7 @@ favorite-of-career performances
 :tags: list
 
 
+-  Antonio Banderas (`The Expendables 3`_)
 -  Ben Stiller (`Zoolander`_)
 -  Brad Pitt (Fight Club); honorable mention (Snatch)
 -  Dennis Hopper (`Apocalypse Now`_)
@@ -33,3 +34,4 @@ related: `best-of-career performances`_
 .. _Lord of War: http://movies.tshepang.net/lord-of-war-2005
 .. _Apocalypse Now: http://movies.tshepang.net/apocalypse-now-1979
 .. _Contagion: http://movies.tshepang.net/contagion-2011
+.. _The Expendables 3: http://movies.tshepang.net/the-expendables-3
