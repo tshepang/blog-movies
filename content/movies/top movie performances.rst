@@ -13,7 +13,8 @@ best performance
 best child performance
 ----------------------
 
-* `Dillon Freasier`_ as adopted son (`There Will Be Blood`_)
+* `Dillon Freasier`_ as the adopted son (`There Will Be Blood`_)
+* `Dakota Goyo`_ as the son in (`Real Steel`_)
 
 favorite
 --------
@@ -55,3 +56,5 @@ witch
 .. _The Next Three Days: http://movies.tshepang.net/the-next-three-days-2010
 .. _Payback: http://movies.tshepang.net/payback-1999
 .. _The Dark Knight: http://movies.tshepang.net/the-dark-knight-2008
+.. _Real Steel: http://movies.tshepang.net/real-steel-2011
+.. _Dakota Goyo:  http://en.wikipedia.org/wiki/Dakota_Goyo
