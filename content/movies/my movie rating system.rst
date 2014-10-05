@@ -7,7 +7,7 @@ my movie rating system
 Here is what I mean by the rating tags:
 
 * A **landmark** is any movie I would give 11/10;
-  so far I don't have any, closest being *Fight Club*.
+  so far I don't have any, closest being `Fight Club`__.
 
 * A **masterpiece** is any movie I would give 10/10.
 
@@ -24,3 +24,4 @@ Here is what I mean by the rating tags:
   * 3/10 **substandard**
   * 2/10 **near-trash**
 
+__ http://movies.tshepang.net/fight-club-1999

@@ -11,7 +11,7 @@ felt after the first viewing:
 
     ... happens to possess much sophistication (direction and dialogue)
     with some shocking imagery, including one which must have inspired
-    Fight Club (a sort of obscenity which is surprising for a 60's
+    `Fight Club`_ (a sort of obscenity which is surprising for a 60's
     movie). The movie also feels fresh, feeling like a modern
     psychological drama/thriller, and therefore not as tiring and
     awkward as those of its age, perhaps testimony of its director,
@@ -23,3 +23,4 @@ pointless. I must go find out what the fuss is all about.
 
 
 .. _The Case of 'The Matrix Reloaded': http://movies.tshepang.net/the-case-of-the-matrix-reloaded
+.. _Fight Club: http://movies.tshepang.net/fight-club-1999

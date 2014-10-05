@@ -6,14 +6,14 @@ top movie elements
 direction
 ---------
 
-#. Fight Club
+#. `Fight Club`_
 #. `Requiem for a Dream`_
 #. `Children of Men`_
 
 cinematography
 --------------
 
-#. Fight Club
+#. `Fight Club`_
 #. Doubt_
 #. Munich
 #. Se7en
@@ -22,12 +22,12 @@ editing
 -------
 
 1. `Requiem for a Dream`_
-2. Fight Club
+2. `Fight Club`_
 
 production design
 -----------------
 
-#. Fight Club
+#. `Fight Club`_
 #. Se7en; `J. Edgar`_
 #. Doubt_
 
@@ -49,7 +49,7 @@ score
 sound
 -----
 
-1. Fight Club
+1. `Fight Club`_
 2. The Ring
 
 visual design
@@ -182,3 +182,4 @@ most beautiful suicide scene
 .. _Groundhog Day: http://movies.tshepang.net/groundhog-day-1993
 .. _Doubt: http://movies.tshepang.net/doubt-2008
 .. _Children of Men: http://movies.tshepang.net/children-of-men-2006
+.. _Fight Club: http://movies.tshepang.net/fight-club-1999

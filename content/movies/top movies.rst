@@ -6,7 +6,7 @@ top movies
 masterpieces
 ------------
 
-#. Fight Club
+#. `Fight Club`_
 #. `Requiem for A Dream`_
 #. `Precious`_
 
@@ -24,3 +24,4 @@ near-masterpieces:
 .. _Bamboozled: http://movies.tshepang.net/bamboozled-2000
 .. _Being John Malkovich: http://movies.tshepang.net/being-john-malkovich-1999
 .. _Children of Men: http://movies.tshepang.net/children-of-men-2006
+.. _Fight Club: http://movies.tshepang.net/fight-club-1999

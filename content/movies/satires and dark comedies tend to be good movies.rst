@@ -10,7 +10,7 @@ Many satires tend to be (dark) comedies, and that's why I made one
 list instead of two. Following is a list of very-good__ (or better)
 movies that fit the description:
 
-#. Fight Club
+#. `Fight Club`__
 #. `Requiem for A Dream`__
 #. Bamboozled
 #. `Being John Malkovich`__
@@ -20,6 +20,7 @@ movies that fit the description:
 
 
 __ http://movies.tshepang.net/my-movie-rating-system
+__ http://movies.tshepang.net/fight-club-1999
 __ http://movies.tshepang.net/being-john-malkovich-1999
 __ http://movies.tshepang.net/dr-strangelove-1964
 __ http://movies.tshepang.net/lord-of-war-2005

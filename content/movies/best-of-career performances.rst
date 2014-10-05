@@ -4,7 +4,7 @@ best-of-career performances
 :tags: list
 
 
-- Brat Pitt (*Fight Club*); honorable mention (`The Counselor`_)
+- Brat Pitt (`Fight Club`_); honorable mention (`The Counselor`_)
 - Carrie-Anne Moss (`Memento`_)
 - Clive Owen (Closer)
 - Colin Firth (`The King's Speech`_)
@@ -56,3 +56,4 @@ __ http://movies.tshepang.net/good-night-and-good-luck-2005
 .. _Doubt: http://movies.tshepang.net/doubt-2008
 .. _Prisoners: http://movies.tshepang.net/prisoners-2013
 .. _The Warlords: http://movies.tshepang.net/the-warlords-2007
+.. _Fight Club: http://movies.tshepang.net/fight-club-1999

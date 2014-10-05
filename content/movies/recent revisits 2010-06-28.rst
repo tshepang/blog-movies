@@ -8,7 +8,7 @@ recent revisits 2010-06-28
 *Amores Perros* is very rich, but also very disturbing and full of pain:
 car accident, dog-fighting, trapped dog.
 
-*American Psycho* is a bit similar to *Fight Club*: it's about a
+*American Psycho* is a bit similar to `Fight Club`_: it's about a
 financially sound guy who finds no meaning to life, and eventually goes
 insane. The one difference is it's far less accomplished and feels as
 purposeless as it's protagonist, but is entertaining enough to be worth
@@ -27,3 +27,4 @@ time`_ wasn't fit for a revisit.
 
 .. _John Carroll Lynch: http://en.wikipedia.org/wiki/John_Carroll_Lynch
 .. _performance I honored last time: http://movies.tshepang.net/zodiac-and-david-fincher
+.. _Fight Club: http://movies.tshepang.net/fight-club-1999

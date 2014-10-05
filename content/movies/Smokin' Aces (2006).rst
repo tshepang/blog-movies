@@ -20,4 +20,7 @@ Some of what caused this celebration:
 -  mafia telephone conversation
 -  the murderous neo-nazi trio
 
-Like *Fight Club* before it, the movie is packed too much of goodness.
+Like `Fight Club`__ before it, the movie is packed too much of goodness.
+
+
+__ http://movies.tshepang.net/fight-club-1999
