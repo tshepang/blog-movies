@@ -7,7 +7,7 @@ direction
 ---------
 
 #. `Fight Club`_
-#. Se7en
+#. Se7en_
 #. `Requiem for a Dream`_
 #. `Children of Men`_
 
@@ -17,7 +17,7 @@ cinematography
 #. `Fight Club`_
 #. Doubt_
 #. Munich
-#. Se7en
+#. Se7en_
 
 editing
 -------
@@ -29,7 +29,7 @@ production design
 -----------------
 
 #. `Fight Club`_
-#. Se7en; `J. Edgar`_
+#. Se7en_; `J. Edgar`_
 #. Doubt_
 
 make-up
@@ -156,7 +156,7 @@ dvd design
 ----------
 
 1. `Requiem for A Dream`_
-2. Se7en
+2. Se7en_
 
 most beautiful suicide scene
 ----------------------------
@@ -184,3 +184,4 @@ most beautiful suicide scene
 .. _Doubt: http://movies.tshepang.net/doubt-2008
 .. _Children of Men: http://movies.tshepang.net/children-of-men-2006
 .. _Fight Club: http://movies.tshepang.net/fight-club-1999
+.. _Se7en: http://movies.tshepang.net/se7en-1995
