@@ -6,7 +6,7 @@ favorite-of-career performances
 
 -  Antonio Banderas (`The Expendables 3`_)
 -  Ben Stiller (`Zoolander`_)
--  Brad Pitt (Fight Club); honorable mention (Snatch)
+-  Brad Pitt (Snatch)
 -  Dennis Hopper (`Apocalypse Now`_)
 -  Eamonn Walker (`Lord of War`_)
 -  Gwyneth Paltrow (Contagion_)
