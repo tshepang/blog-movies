@@ -7,6 +7,7 @@ direction
 ---------
 
 #. `Fight Club`_
+#. Se7en
 #. `Requiem for a Dream`_
 #. `Children of Men`_
 
