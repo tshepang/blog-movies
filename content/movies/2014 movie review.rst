@@ -36,7 +36,8 @@ followed by Anothony Hopkins in `Red 2`_. In third place is Michael
 Shannon (again) in `Premium Rush`_, and fourth place is Brad Pitt in
 `The Counselor`_.
 
-**best female performance**: `Susanne Lothar`__ in `Funny Games`_
+The **best female performance** was given by `Susanne Lothar`__ in
+`Funny Games`_, followed by `Julia Louis-Dreyfus`__ in `Enough Said`_.
 
 cast
 
@@ -48,7 +49,7 @@ __ http://en.wikipedia.org/wiki/Susanne_Lothar
 characters
 ----------
 
-character development
+In terms of **character development**, nothing beats `Enough Said`_.
 
 My **favorite character** is the charming China Doll in *Oz the Great and
 Powerful*; it's about as cute and lovable as the newborn baby in *Men
@@ -73,7 +74,7 @@ miscellaneous
 
 **direction**: `Funny Games`_
 
-script/dialogue
+The best **script/dialogue** can be found in `Enough Said`_.
 
 innovative
 
@@ -142,3 +143,4 @@ fall from glory
 .. _The Human Centipede 2: http://movies.tshepang.net/the-human-centipede-2011
 .. _Her: http://movies.tshepang.net/her-2013
 .. _13 Sins: http://movies.tshepang.net/13-sins-2014
+.. _Enough Said: http://movies.tshepang.net/enough-said-2013
