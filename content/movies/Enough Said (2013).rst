@@ -6,9 +6,9 @@ Enough Said (2013)
 
 
 
-The lead gives an amazing and charming performance, while also feels
-believable. James Gandolfino is impressive too, and also
-believable. The direction and editing are wonderful, all so smooth and
+The lead gives an amazing and charming performance. James Gandolfino
+is impressive too, and they are both very believable.
+The direction and editing are wonderful, all so smooth and
 out of the way, focusing very much on the characters. It's all blessed
 with an amazing script, a rather unusual story (fresh), quality humor,
 and one of the best on-a-date moments in movie memory.
