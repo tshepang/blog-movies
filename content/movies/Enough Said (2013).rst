@@ -14,7 +14,7 @@ with an amazing script, a rather unusual story (fresh), quality humor,
 and one of the best on-a-date moments in movie memory.
 
 The issue with it is that the second half doesn't feel as solid as the
-first, and the whole thing doesn't look like it has good re-watch
+first, and the whole thing doesn't feel like it has good re-watch
 value. It feels more like (a really good) TV series, something like
 *Girls*.
 
