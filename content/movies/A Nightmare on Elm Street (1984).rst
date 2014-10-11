@@ -6,7 +6,7 @@ A Nightmare on Elm Street (1984)
 
 
 
-One more reason I should probably stop paying attention to the opinions
+This movie is one more reason I should probably stop paying attention to the opinions
 of critics who get aggregated on Rotten Tomatoes. Most of those who
 reviewed the movie actually felt `it was decent`_. One even went as far
 as thinking the performances were any good. What the fuck! I will be
