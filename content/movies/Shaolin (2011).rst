@@ -6,8 +6,8 @@ Shaolin (2011)
 
 
 
-An embarrassingly bad, recycled shit, which would have one fooled early
-on (decent camerawork and atmosphere). Sadly, soon enough we see some
+Embarrassingly bad, recycled shit, which would have one fooled early
+on, due to decent camerawork and atmosphere. Sadly, soon enough we see some
 bad acting and dramatisations. Not even the martial arts rescue it. The
 brutality is laughable.
 
