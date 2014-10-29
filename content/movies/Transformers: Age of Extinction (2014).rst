@@ -13,7 +13,7 @@ high bar. In keeping to tradition, the movie is also noisy and has
 overly-frantic action (WTF's going on), and has way too much of it. It
 also has a shallow story-line and none of the characters are very
 interesting. Luckily there is no `Tyrese Gibson`__ and `Josh
-Duhamel`__ to help spoil things,; sadly there is no (over-acting)
+Duhamel`__ to help spoil things; sadly there is no (over-acting)
 `Shia LaBeouf`__. There is also no mention of why these primary human
 characters were so drastically changed... sad.
 
