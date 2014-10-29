@@ -12,10 +12,9 @@ that's because `the first movie in the series`__ set a ridiculously
 high bar. In keeping to tradition, the movie is also noisy and has
 overly-frantic action (WTF's going on), and has way too much of it. It
 also has a shallow story-line and none of the characters are very
-interesting. Luckily there is no `Tyrese Gibson`__ and `Josh
-Duhamel`__ to help spoil things; sadly there is no (over-acting)
-`Shia LaBeouf`__. There is also no mention of why these primary human
-characters were so drastically changed... sad.
+interesting. Luckily, there is no `Tyrese Gibson`__ and `Josh
+Duhamel`__ to help spoil things. There is also no mention of why these
+primary human characters were so drastically changed... sad.
 
 The movie is entertaining throughout, despite running for over 150
 minutes. The evil Transformers were scarily-violent, as they always
@@ -27,4 +26,3 @@ __ http://movies.tshepang.net/transformers-dark-of-the-moon-2011
 __ http://movies.tshepang.net/transformers-2007
 __ http://en.wikipedia.org/wiki/Tyrese_Gibson
 __ http://en.wikipedia.org/wiki/Josh_Duhamel
-__ http://en.wikipedia.org/wiki/Shia_LaBeouf
