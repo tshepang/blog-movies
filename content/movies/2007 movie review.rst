@@ -96,8 +96,8 @@ visual effects showcase, and should have tied with the runner-up,
 *Pirates of the Caribbean - At World's End*, had it not been so
 exciting. That runner-up would have won had it come up with something
 more interesting than the stormy battle. *300* easily wins the year's
-best imagery for being greatly stylized. *The Number 23* takes second
-spot due to its gorgeous fantasy-like scenes. The most horrific
+best imagery/visual design, and *The Number 23* takes second
+spot due to its gorgeous fantasy-like scenes. The most horrific/shocking
 imagery emanates from `The Last King of Scotland`_, a scene that
 showcases the aftermath of the cheating wife.
 
