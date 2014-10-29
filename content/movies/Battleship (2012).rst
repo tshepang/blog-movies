@@ -23,7 +23,7 @@ The most surprising thing about the movie is the appearance of the
 leg-less guy, some ugly big guy who gives a wonderful performance, the
 most interesting in the movie. It's surprising because I've never seen
 the guy before, and that a crippled character would be given such a key
-role. Sure there was `Dr. Strangelove`_, but that was a comedy.
+role. Sure there was `Dr. Strangelove`__, but that was a comedy.
 
 It was sad when the movie ended, both because it was too short, and
 because there was no explanation on what the aliens wanted. What made
@@ -31,4 +31,5 @@ this even sadder is fact that they appeared not wholly evil,
 making them more interesting. I even thought that, later in the movie, there
 would be something like *stop fighting us; we come in peace*.
 
-.. _Dr. Strangelove: http://movies.tshepang.net/dr-strangelove-1964
+
+__ http://movies.tshepang.net/dr-strangelove-1964
