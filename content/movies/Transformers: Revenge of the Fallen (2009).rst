@@ -10,7 +10,7 @@ first review (2009)
 -------------------
 
 Of course the 2nd *Transformers* movie is going to have superior visual
-effects to its `predecessor`_ but nothing more groundbreaking. You
+effects to its `predecessor`__ but nothing more groundbreaking. You
 oughta love the destruction of the aircraft carrier though. And the same
 complaint I had with the first one is that there's way too much going on
 as regards the action such that I can't keep up.
@@ -33,4 +33,5 @@ especially annoyed by the impossible survival our heroes have, and worse
 still, none of the members of the military are any interesting. It's
 nearly unbearable and just too noisy. It's as bad as the first.
 
-.. _predecessor: http://movies.tshepang.net/transformers-2007
+
+__ http://movies.tshepang.net/transformers-2007
