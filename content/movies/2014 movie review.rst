@@ -19,7 +19,8 @@ Catching Fire`_
 
 action sequence
 
-**visual effects (overall)**: `Thor: The Dark World`_
+The best **visual effects (overall)** are in `Thor: The Dark World`_,
+followed by `Transformers: Age of Extinction`_.
 
 visual effects (specifics)
 
@@ -145,3 +146,4 @@ fall from glory
 .. _Her: http://movies.tshepang.net/her-2013
 .. _13 Sins: http://movies.tshepang.net/13-sins-2014
 .. _Enough Said: http://movies.tshepang.net/enough-said-2013
+.. _`Transformers: Age of Extinction`: http://movies.tshepang.net/transformers-age-of-extinction-2014
