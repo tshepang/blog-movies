@@ -15,10 +15,10 @@ oughta love the destruction of the aircraft carrier though. And the same
 complaint I had with the first one is that there's way too much going on
 as regards the action such that I can't keep up.
 
-It appears I wasn't the only one who loved the human hero's parents as
-evidenced by their far greater screen presence, and they don't misstep
-here too. But they don't help advance the story, which is non-existent
-anyways.
+It appears I wasn't the only one who loved the human hero's parents in
+the first movie, as evidenced by their far greater screen presence
+here, and they don't misstep here too. But they don't help advance the
+story, which is pretty much non-existent anyways.
 
 I don't remember anything believable, and at the end of it ya feel like
 *what a waste!*, but then the entire concept of the Transformers is
