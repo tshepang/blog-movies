@@ -5,18 +5,18 @@ top visual effects
 
 Being fresh, eye-popping, and immersive helps:
 
-1. King Kong
-2. 2012
-3. `The Avengers`_
-4. The Lord of the Rings: The Return of the King (tie) The Matrix
+#. King Kong
+#. 2012
+#. `The Avengers`_
+#. The Lord of the Rings: The Return of the King (tie) The Matrix
    Reloaded
-5. Pirates of the Caribbean: Dead Man's Chest
-6. `Avatar`_
-7. `Battleship`_
-8. `Thor: The Dark World`__
-8. `Transformers`_ (tie) `Transformers: Revenge of the Fallen`_ (tie)
+#. Pirates of the Caribbean: Dead Man's Chest
+#. `Avatar`_
+#. `Battleship`_
+#. `Thor: The Dark World`__
+#. `Transformers`_ (tie) `Transformers: Revenge of the Fallen`_ (tie)
    `Transformers: Dark of the Moon`_ (tie) `Transformers: Age of Extinction`__
-9. Independence Day
+#. Independence Day
 
 .. _The Avengers: http://movies.tshepang.net/the-avengers-2012
 .. _Avatar: http://movies.tshepang.net/avatar-2009
