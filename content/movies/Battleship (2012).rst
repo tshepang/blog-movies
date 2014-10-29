@@ -17,9 +17,7 @@ Real nice visual effects, some of the best I've seen yet:
    amazing; it's not at the level of a Davey Jones or a Kong though
 
 The movie isn't as big and loud as the *Transformers* movie series, but
-the concept is a lot less silly, and the story a lot less annoying. The
-dreamy concept of military of various countries actually working
-together in a very close fashion in peacetime.
+the concept is a lot less silly, and the story a lot less annoying.
 
 The most surprising thing about the movie is the appearance of the
 leg-less guy, some ugly big guy who gives a wonderful performance, the
