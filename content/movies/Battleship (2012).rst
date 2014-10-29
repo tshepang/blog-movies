@@ -27,8 +27,8 @@ role. Sure there was `Dr. Strangelove`_, but that was a comedy.
 
 It was sad when the movie ended, both because it was too short, and
 because there was no explanation on what the aliens wanted. What made
-this even sadders is fact that they appeared not wholly evil, so that
-made them interesting. I even thought that, later in the movie, there
+this even sadder is fact that they appeared not wholly evil,
+making them more interesting. I even thought that, later in the movie, there
 would be something like *stop fighting us; we come in peace*.
 
 .. _Dr. Strangelove: http://movies.tshepang.net/dr-strangelove-1964
