@@ -14,10 +14,10 @@ Being fresh, eye-popping, and immersive helps:
 #. Avatar__
 #. Battleship__
 #. `Thor: The Dark World`__
-#. `Transformers`__;
-   `Transformers: Revenge of the Fallen`__;
-   `Transformers: Dark of the Moon`__;
-   `Transformers: Age of Extinction`__
+#. - `Transformers`__ |
+   - `Transformers: Revenge of the Fallen`__ |
+   - `Transformers: Dark of the Moon`__ |
+   - `Transformers: Age of Extinction`__ |
 #. Independence Day
 
 
