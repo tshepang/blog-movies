@@ -6,18 +6,27 @@ top visual effects
 Being fresh, eye-popping, and immersive helps:
 
 #. King Kong
+
 #. 2012
+
 #. `The Avengers`__
+
 #. - The Lord of the Rings: The Return of the King
    - The Matrix
+
 #. Pirates of the Caribbean: Dead Man's Chest
+
 #. Avatar__
+
 #. Battleship__
+
 #. `Thor: The Dark World`__
+
 #. - `Transformers`__
    - `Transformers: Revenge of the Fallen`__
    - `Transformers: Dark of the Moon`__
    - `Transformers: Age of Extinction`__
+
 #. Independence Day
 
 
