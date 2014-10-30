@@ -8,8 +8,8 @@ Being fresh, eye-popping, and immersive helps:
 #. King Kong
 #. 2012
 #. `The Avengers`__
-#. The Lord of the Rings: The Return of the King (tie) The Matrix
-   Reloaded
+#. - The Lord of the Rings: The Return of the King
+   - The Matrix
 #. Pirates of the Caribbean: Dead Man's Chest
 #. Avatar__
 #. Battleship__
