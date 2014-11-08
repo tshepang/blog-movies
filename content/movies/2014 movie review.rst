@@ -20,7 +20,8 @@ Catching Fire`_
 action sequence
 
 The best **visual effects (overall)** are in `Thor: The Dark World`_,
-followed by `Transformers: Age of Extinction`_.
+followed by `Transformers: Age of Extinction`_, then `Edge of
+Tomorrow`_.
 
 visual effects (specifics)
 
@@ -104,7 +105,7 @@ overrated
 
 original story
 
-spectacle
+There was no greater **spectacle** than `Edge of Tomorrow`_.
 
 painful
 
@@ -147,3 +148,4 @@ fall from glory
 .. _13 Sins: http://movies.tshepang.net/13-sins-2014
 .. _Enough Said: http://movies.tshepang.net/enough-said-2013
 .. _`Transformers: Age of Extinction`: http://movies.tshepang.net/transformers-age-of-extinction-2014
+.. _`Edge of Tomorrow`: http://movies.tshepang.net/edge-of-tomorrow-2014
