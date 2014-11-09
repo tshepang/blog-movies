@@ -34,12 +34,14 @@ performances
 My **favorite performance** is by `Laurence R. Harvey`__ as the disgusting
 (and evil) security guard in `The Human Centipede 2`_.
 However, the **best male performance** is by `Michael Shannon`__ in `The Iceman`_
-followed by Anothony Hopkins in `Red 2`_. In third place is Michael
-Shannon (again) in `Premium Rush`_, and fourth place is Brad Pitt in
+followed by Anothony Hopkins in `Red 2`_. In third place is Geoffrey
+Rush in `The Book Thief`_, followed by Michael Shannon (repeat appearance)
+ in `Premium Rush`_. Fifth place is taken by Brad Pitt in
 `The Counselor`_.
 
 The **best female performance** was given by `Susanne Lothar`__ in
 `Funny Games`_, followed by `Julia Louis-Dreyfus`__ in `Enough Said`_.
+In third place is Emily Watson in `The Book Thief`_.
 
 cast
 
