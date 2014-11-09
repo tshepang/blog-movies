@@ -8,7 +8,8 @@ top movie characters
 favorite
 --------
 
-- professor Kinsey by Liam Neeson (`Kinsey`_)
+#. Kinsey by Liam Neeson (`Kinsey`_)
+#. Hans by Geoffrey Rush (`The Book Thief`_)
 
 perfect gentleman
 -----------------
@@ -109,3 +110,4 @@ airport checkpoint officer
 .. _Pan's Labyrinth: http://movies.tshepang.net/pans-labyrinth-2006
 .. _Salt: http://movies.tshepang.net/salt-2010
 .. _Cloverfield: http://movies.tshepang.net/cloverfield-2008
+.. _The Book Thief: http://movies.tshepang.net/the-book-thief-2013
