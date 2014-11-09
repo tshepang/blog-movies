@@ -54,9 +54,10 @@ characters
 
 In terms of **character development**, nothing beats `Enough Said`_.
 
-My **favorite character** is the charming China Doll in *Oz the Great and
-Powerful*; it's about as cute and lovable as the newborn baby in *Men
-In Black*.
+My **favorite character** is the adoptive father in `The Book Thief`_,
+played by Geoffrey Rush, who is as loving as any character I've seen
+in movies. He's followed by the charming China Doll in *Oz the Great
+and Powerful*, which is about as cute and lovable as characters get.
 
 villain
 
@@ -151,3 +152,4 @@ fall from glory
 .. _`Transformers: Age of Extinction`: http://movies.tshepang.net/transformers-age-of-extinction-2014
 .. _`Edge of Tomorrow`: http://movies.tshepang.net/edge-of-tomorrow-2014
 .. _`The Purge: Anarchy`: http://movies.tshepang.net/the-purge-anarchy-2014
+.. _The Book Thief: http://movies.tshepang.net/the-book-thief-2013
