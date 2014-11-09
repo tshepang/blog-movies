@@ -91,6 +91,7 @@ The following have the best **story concept**:
 #. `In Time`_
 #. `The Adjustment Bureau`_
 #. `Her`_
+#. `The Purge: Anarchy`_
 #. `13 Sins`_
 
 most important
@@ -149,3 +150,4 @@ fall from glory
 .. _Enough Said: http://movies.tshepang.net/enough-said-2013
 .. _`Transformers: Age of Extinction`: http://movies.tshepang.net/transformers-age-of-extinction-2014
 .. _`Edge of Tomorrow`: http://movies.tshepang.net/edge-of-tomorrow-2014
+.. _`The Purge: Anarchy`: http://movies.tshepang.net/the-purge-anarchy-2014
