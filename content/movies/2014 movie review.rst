@@ -60,12 +60,17 @@ My **favorite character** is the adoptive father in `The Book Thief`_,
 played by Geoffrey Rush, who is as loving as any character I've seen
 in movies. He's followed by the charming China Doll in *Oz the Great
 and Powerful*, which is about as cute and lovable as characters get.
+In third place is Valka,
+the mother of the lead character in `How To Train Your Dragon 2`_.
 
 villain
 
 **desirable gal** `Dania Ramirez`__ in `Premium Rush`_
 
-**character design**: giant samurai robot in `The Wolverine`_
+There was no better **character design** than the giant samurai robot
+in `The Wolverine`_.
+In second place is the Alpha dragon from `How To Train Your Dragon 2`_.
+
 
 perfect gentleman
 
@@ -155,3 +160,4 @@ fall from glory
 .. _`Edge of Tomorrow`: http://movies.tshepang.net/edge-of-tomorrow-2014
 .. _`The Purge: Anarchy`: http://movies.tshepang.net/the-purge-anarchy-2014
 .. _The Book Thief: http://movies.tshepang.net/the-book-thief-2013
+.. _How To Train Your Dragon 2: http://movies.tshepang.net/how-to-train-your-dragon-2-2014
