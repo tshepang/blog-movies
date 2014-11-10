@@ -36,7 +36,7 @@ My **favorite performance** is by `Laurence R. Harvey`__ as the disgusting
 However, the **best male performance** is by `Michael Shannon`__ in `The Iceman`_
 followed by Anothony Hopkins in `Red 2`_. In third place is Geoffrey
 Rush in `The Book Thief`_, followed by Michael Shannon (repeat appearance)
- in `Premium Rush`_. Fifth place is taken by Brad Pitt in
+in `Premium Rush`_. Fifth place is taken by Brad Pitt in
 `The Counselor`_.
 
 The **best female performance** was given by `Susanne Lothar`__ in
