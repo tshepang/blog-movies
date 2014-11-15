@@ -33,11 +33,14 @@ performances
 
 My **favorite performance** is by `Laurence R. Harvey`__ as the disgusting
 (and evil) security guard in `The Human Centipede 2`_.
-However, the **best male performance** is by `Michael Shannon`__ in `The Iceman`_
-followed by Anothony Hopkins in `Red 2`_. In third place is Geoffrey
-Rush in `The Book Thief`_, followed by Michael Shannon (repeat appearance)
-in `Premium Rush`_. Fifth place is taken by Brad Pitt in
-`The Counselor`_.
+However, here are the **best male performances**:
+
+#. `Michael Shannon`__ in `The Iceman`_
+#. Anthony Hopkins in `Red 2`_
+#. `Tom Wilkinson`__ in `Good People`_
+#. Geoffrey Rush in `The Book Thief`_
+#. Michael Shannon (repeat appearance) in `Premium Rush`_
+#. Brad Pitt in `The Counselor`_
 
 The **best female performance** was given by `Susanne Lothar`__ in
 `Funny Games`_, followed by `Julia Louis-Dreyfus`__ in `Enough Said`_.
@@ -47,6 +50,7 @@ cast
 
 __ http://www.imdb.com/name/nm4030776
 __ http://en.wikipedia.org/wiki/Michael_Shannon
+__ http://en.wikipedia.org/wiki/Tom_Wilkinson
 __ http://en.wikipedia.org/wiki/Susanne_Lothar
 __ http://en.wikipedia.org/wiki/Julia_Louis-Dreyfus
 
@@ -161,3 +165,4 @@ fall from glory
 .. _`The Purge: Anarchy`: http://movies.tshepang.net/the-purge-anarchy-2014
 .. _The Book Thief: http://movies.tshepang.net/the-book-thief-2013
 .. _How To Train Your Dragon 2: http://movies.tshepang.net/how-to-train-your-dragon-2-2014
+.. _Good People: http://movies.tshepang.net/good-people-2014
