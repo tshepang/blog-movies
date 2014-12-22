@@ -6,7 +6,7 @@ Being John Malkovich (1999)
 
 
 
-`Another great dark comedy`_, this is a superbly fresh and entertaining
+`Another great dark comedy`__, this is a superbly fresh and entertaining
 exploration into what would it be like to experience being another human
 being. It also got wonderful performances:
 
@@ -20,4 +20,5 @@ The movie could do with better camerawork and visual effects, maybe even
 set design, but one can almost ignore those shortcomings since it's
 well-written and directed.
 
-.. _Another great dark comedy: http://movies.tshepang.net/satires-and-dark-comedies-tend-to-be-good-movies
+
+__ http://movies.tshepang.net/satires-and-dark-comedies-tend-to-be-good-movies
