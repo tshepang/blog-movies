@@ -2,7 +2,7 @@ Priest (2011)
 =============
 
 :date: 2011-09-20
-:tags: 2011-movie, near-trash
+:tags: 2011-movie, bad
 
 
 

@@ -2,7 +2,7 @@ Identity (2003)
 ===============
 
 :date: 2011-04-23
-:tags: 2011-movie, near-trash
+:tags: 2011-movie, bad
 
 
 

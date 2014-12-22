@@ -2,7 +2,7 @@ Abduction (2011)
 ================
 
 :date: 2011-12-27
-:tags: 2011-movie, near-trash
+:tags: 2011-movie, bad
 
 
 

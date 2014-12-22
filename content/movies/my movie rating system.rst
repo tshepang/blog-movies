@@ -18,7 +18,7 @@ Here is what I mean by the rating tags:
   * 5/10 `decent`__
   * 4/10 `average`__
   * 3/10 `substandard`__
-  * 2/10 `near-trash`__
+  * 2/10 `bad`__
 
 __ http://movies.tshepang.net/fight-club-1999
 __ http://movies.tshepang.net/tag/masterpiece
@@ -28,4 +28,4 @@ __ http://movies.tshepang.net/tag/good
 __ http://movies.tshepang.net/tag/decent
 __ http://movies.tshepang.net/tag/average
 __ http://movies.tshepang.net/tag/substandard
-__ http://movies.tshepang.net/tag/near-trash
+__ http://movies.tshepang.net/tag/bad

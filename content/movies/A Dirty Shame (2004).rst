@@ -2,7 +2,7 @@ A Dirty Shame (2004)
 ====================
 
 :date: 2012-01-11
-:tags: 2012-movie, near-trash
+:tags: 2012-movie, bad
 
 
 

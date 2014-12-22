@@ -2,7 +2,7 @@ Hell Ride (2008)
 ================
 
 :date: 2011-03-06
-:tags: 2011-movie, near-trash
+:tags: 2011-movie, bad
 
 
 

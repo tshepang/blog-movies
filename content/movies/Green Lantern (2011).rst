@@ -2,7 +2,7 @@ Green Lantern (2011)
 ====================
 
 :date: 2011-11-08
-:tags: 2011-movie, near-trash
+:tags: 2011-movie, bad
 
 
 

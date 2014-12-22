@@ -2,7 +2,7 @@ Insidious (2011)
 ================
 
 :date: 2011-08-07
-:tags: 2011-movie, near-trash
+:tags: 2011-movie, bad
 
 
 

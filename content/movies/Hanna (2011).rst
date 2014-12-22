@@ -2,8 +2,7 @@ Hanna (2011)
 ============
 
 :date: 2011-12-21
-:tags: 2011-movie, near-trash
-
+:tags: 2011-movie, bad
 
 
 A pathetic attempt at a nuanced, quietly stylistic assassin movie, which

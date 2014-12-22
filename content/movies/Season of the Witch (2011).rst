@@ -2,7 +2,7 @@ Season of the Witch (2011)
 ==========================
 
 :date: 2011-10-25
-:tags: 2011-movie, near-trash
+:tags: 2011-movie, bad
 
 
 

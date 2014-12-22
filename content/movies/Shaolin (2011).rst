@@ -2,7 +2,7 @@ Shaolin (2011)
 ==============
 
 :date: 2011-05-10
-:tags: 2011-movie, near-trash
+:tags: 2011-movie, bad
 
 
 

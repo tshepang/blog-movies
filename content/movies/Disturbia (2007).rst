@@ -2,7 +2,7 @@ Disturbia (2007)
 ================
 
 :date: 2011-02-13
-:tags: 2011-movie, near-trash
+:tags: 2011-movie, bad
 
 
 

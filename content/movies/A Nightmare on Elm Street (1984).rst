@@ -2,7 +2,7 @@ A Nightmare on Elm Street (1984)
 ================================
 
 :date: 2012-12-09
-:tags: 2012-movie, near-trash
+:tags: 2012-movie, bad
 
 
 
