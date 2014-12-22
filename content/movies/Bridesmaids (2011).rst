@@ -2,7 +2,7 @@ Bridesmaids (2011)
 ==================
 
 :date: 2011-08-01
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

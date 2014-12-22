@@ -2,7 +2,7 @@ The Thirteenth Floor (1999)
 ===========================
 
 :date: 2013-03-25
-:tags: very-good
+:tags: good
 
 
 The movie is well-made, and has an exciting twist.

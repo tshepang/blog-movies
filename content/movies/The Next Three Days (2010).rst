@@ -2,7 +2,7 @@ The Next Three Days (2010)
 ==========================
 
 :date: 2012-10-21
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

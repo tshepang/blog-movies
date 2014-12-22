@@ -2,7 +2,7 @@ Sleepy Hollow (1999)
 ====================
 
 :date: 2011-03-05
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

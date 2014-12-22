@@ -2,7 +2,7 @@ Monty Python's Life of Brian (1979)
 ===================================
 
 :date: 2011-08-21
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

@@ -2,7 +2,7 @@ Get Him to the Greek (2010)
 ===========================
 
 :date: 2011-06-26
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

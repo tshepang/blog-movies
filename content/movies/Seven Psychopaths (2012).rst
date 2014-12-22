@@ -2,7 +2,7 @@ Seven Psychopaths (2012)
 ========================
 
 :date: 2013-02-23
-:tags: very-good, 2013-movie
+:tags: good, 2013-movie
 
 
 

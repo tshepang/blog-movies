@@ -2,7 +2,7 @@ Captain America: The Winter Soldier (2014)
 ==========================================
 
 :date: 2014-07-13
-:tags: 2014-movie, very-good
+:tags: 2014-movie, good
 
 
 

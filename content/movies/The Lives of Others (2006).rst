@@ -2,7 +2,7 @@ The Lives of Others (2006)
 ==========================
 
 :date: 2011-07-09
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

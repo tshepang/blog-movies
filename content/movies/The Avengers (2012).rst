@@ -2,7 +2,7 @@ The Avengers (2012)
 ===================
 
 :date: 2012-12-10
-:tags: very-good, 2012-movie
+:tags: good, 2012-movie
 
 
 

@@ -2,7 +2,7 @@ The War Zone (1999)
 ===================
 
 :date: 2012-06-17
-:tags: very-good
+:tags: good
 
 
 

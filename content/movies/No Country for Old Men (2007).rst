@@ -2,7 +2,7 @@ No Country for Old Men (2007)
 =============================
 
 :date: 2012-12-01
-:tags: 2008-movie, very-good
+:tags: 2008-movie, good
 
 
 

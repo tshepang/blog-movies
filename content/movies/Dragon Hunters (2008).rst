@@ -2,7 +2,7 @@ Dragon Hunters (2008)
 =====================
 
 :date: 2011-12-09
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

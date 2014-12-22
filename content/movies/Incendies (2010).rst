@@ -2,7 +2,7 @@ Incendies (2010)
 ================
 
 :date: 2014-04-26
-:tags: very-good, 2014-movie
+:tags: good, 2014-movie
 
 
 

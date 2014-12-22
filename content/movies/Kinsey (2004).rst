@@ -2,7 +2,7 @@ Kinsey (2004)
 =============
 
 :date: 2010-02-24
-:tags: 2008-movie, very-good
+:tags: 2008-movie, good
 
 
 

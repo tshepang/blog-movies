@@ -2,7 +2,7 @@ Let the Right One In (2008)
 ===========================
 
 :date: 2011-04-25
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

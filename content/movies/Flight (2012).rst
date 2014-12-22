@@ -2,7 +2,7 @@ Flight (2012)
 =============
 
 :date: 2014-05-09
-:tags: 2014-movie, very-good
+:tags: 2014-movie, good
 
 
 

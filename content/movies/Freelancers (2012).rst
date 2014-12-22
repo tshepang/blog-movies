@@ -2,7 +2,7 @@ Freelancers (2012)
 ==================
 
 :date: 2013-04-19
-:tags: 2013-movie, very-good
+:tags: 2013-movie, good
 
 
 My brother trashed this one, so I watched anticipating the badness,

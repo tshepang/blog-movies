@@ -2,7 +2,7 @@ The Lincoln Lawyer (2011)
 =========================
 
 :date: 2014-05-11
-:tags: 2012-movie, very-good
+:tags: 2012-movie, good
 
 
 2012-10-21 review:

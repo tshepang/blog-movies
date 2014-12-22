@@ -2,7 +2,7 @@ Cleanskin (2012)
 ================
 
 :date: 2013-04-20
-:tags: 2013-movie, very-good
+:tags: 2013-movie, good
 
 
 This would have been excellent had it not dwelled so much on the

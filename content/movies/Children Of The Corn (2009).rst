@@ -2,7 +2,7 @@ Children Of The Corn (2009)
 ===========================
 
 :date: 2011-02-13
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

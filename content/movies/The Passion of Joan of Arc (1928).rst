@@ -2,7 +2,7 @@ The Passion of Joan of Arc (1928)
 =================================
 
 :date: 2014-02-23
-:tags: 2014-movie, very-good
+:tags: 2014-movie, good
 
 
 

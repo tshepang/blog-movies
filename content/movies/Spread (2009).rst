@@ -2,7 +2,7 @@ Spread (2009)
 =============
 
 :date: 2012-11-10
-:tags: very-good, 2010-movie
+:tags: good, 2010-movie
 
 
 

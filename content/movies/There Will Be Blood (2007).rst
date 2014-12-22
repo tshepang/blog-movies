@@ -2,7 +2,7 @@ There Will Be Blood (2007)
 ==========================
 
 :date: 2012-11-22
-:tags: very-good, 2009-movie
+:tags: good, 2009-movie
 
 
 

@@ -2,7 +2,7 @@ Warrior (2011)
 ==============
 
 :date: 2013-09-14
-:tags: 2013-movie, very-good
+:tags: 2013-movie, good
 
 
 The two toughest guys, the brother and the Russian guy, are scary as

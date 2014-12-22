@@ -2,7 +2,7 @@ Spirited Away (2001)
 ====================
 
 :date: 2012-01-01
-:tags: very-good
+:tags: good
 
 
 

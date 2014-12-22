@@ -2,7 +2,7 @@ Bill & Ted's Excellent Adventure (1989)
 =======================================
 
 :date: 2011-02-04
-:tags: very-good
+:tags: good
 
 
 

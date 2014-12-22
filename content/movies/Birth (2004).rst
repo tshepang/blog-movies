@@ -2,7 +2,7 @@ Birth (2004)
 ============
 
 :date: 2012-01-11
-:tags: 2012-movie, very-good
+:tags: 2012-movie, good
 
 
 

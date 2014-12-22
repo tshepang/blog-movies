@@ -2,7 +2,7 @@ Gravity (2013)
 ==============
 
 :date: 2014-01-20
-:tags: 2014-movie, very-good
+:tags: 2014-movie, good
 
 
 

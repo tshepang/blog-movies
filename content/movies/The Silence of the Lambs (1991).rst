@@ -2,7 +2,7 @@ The Silence of the Lambs (1991)
 ===============================
 
 :date: 2011-11-22
-:tags: very-good
+:tags: good
 
 
 

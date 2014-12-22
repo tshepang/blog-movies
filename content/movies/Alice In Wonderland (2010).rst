@@ -2,7 +2,7 @@ Alice In Wonderland (2010)
 ==========================
 
 :date: 2011-12-30
-:tags: 2010-movie, very-good
+:tags: 2010-movie, good
 
 
 

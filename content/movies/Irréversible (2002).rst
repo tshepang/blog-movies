@@ -2,7 +2,7 @@ Irréversible (2002)
 ===================
 
 :date: 2011-12-14
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

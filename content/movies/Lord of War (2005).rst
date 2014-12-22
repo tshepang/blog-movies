@@ -2,7 +2,7 @@ Lord of War (2005)
 ==================
 
 :date: 2013-03-24
-:tags: very-good, 2006-movie
+:tags: good, 2006-movie
 
 
 Scathing, well-made satire; excellent and exciting during its first half,

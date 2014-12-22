@@ -2,7 +2,7 @@ Ip Man (2008)
 =============
 
 :date: 2012-08-27
-:tags: 2012-movie, very-good
+:tags: 2012-movie, good
 
 
 

@@ -2,7 +2,7 @@ Please Give (2009)
 ==================
 
 :date: 2012-08-09
-:tags: 2012-movie, very-good
+:tags: 2012-movie, good
 
 
 

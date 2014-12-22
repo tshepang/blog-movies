@@ -2,7 +2,7 @@ Enough Said (2013)
 ==================
 
 :date: 2014-10-09
-:tags: 2014-movie, very-good
+:tags: 2014-movie, good
 
 
 

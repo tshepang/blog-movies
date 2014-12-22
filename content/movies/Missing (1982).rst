@@ -2,7 +2,7 @@ Missing (1982)
 ==============
 
 :date: 2012-06-07
-:tags: 2012-movie, very-good
+:tags: 2012-movie, good
 
 
 

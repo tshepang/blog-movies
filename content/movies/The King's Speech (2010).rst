@@ -2,7 +2,7 @@ The King's Speech (2010)
 ========================
 
 :date: 2011-03-06
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

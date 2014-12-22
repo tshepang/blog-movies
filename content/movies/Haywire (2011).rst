@@ -2,7 +2,7 @@ Haywire (2011)
 ==============
 
 :date: 2012-10-22
-:tags: very-good, 2012-movie
+:tags: good, 2012-movie
 
 
 

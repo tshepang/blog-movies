@@ -2,7 +2,7 @@ The Counselor (2013)
 ====================
 
 :date: 2014-03-29
-:tags: 2014-movie, very-good
+:tags: 2014-movie, good
 
 
 

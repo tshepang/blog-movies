@@ -2,7 +2,7 @@ The Bang-Bang Club (2010)
 =========================
 
 :date: 2012-05-24
-:tags: 2012-movie, very-good
+:tags: 2012-movie, good
 
 
 

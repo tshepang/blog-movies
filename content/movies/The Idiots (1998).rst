@@ -2,7 +2,7 @@ The Idiots (1998)
 =================
 
 :date: 2011-04-23
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

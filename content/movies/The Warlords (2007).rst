@@ -2,7 +2,7 @@ The Warlords (2007)
 ===================
 
 :date: 2011-12-30
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

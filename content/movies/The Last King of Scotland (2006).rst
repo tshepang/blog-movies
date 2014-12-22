@@ -2,7 +2,7 @@ The Last King of Scotland (2006)
 ================================
 
 :date: 2014-03-08
-:tags: 2007-movie, very-good
+:tags: 2007-movie, good
 
 
 

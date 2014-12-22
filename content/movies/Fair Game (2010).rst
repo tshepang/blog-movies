@@ -2,7 +2,7 @@ Fair Game (2010)
 ================
 
 :date: 2011-11-10
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

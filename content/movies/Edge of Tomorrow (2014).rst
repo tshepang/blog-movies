@@ -2,7 +2,7 @@ Edge of Tomorrow (2014)
 =======================
 
 :date: 2014-11-09
-:tags: very-good, 2014-movie
+:tags: good, 2014-movie
 
 
 

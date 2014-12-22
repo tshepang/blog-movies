@@ -2,7 +2,7 @@ Perfume (2006)
 ==============
 
 :date: 2012-04-21
-:tags: very-good, 2006-movie
+:tags: good, 2006-movie
 
 
 

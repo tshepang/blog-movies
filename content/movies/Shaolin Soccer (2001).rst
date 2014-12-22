@@ -2,7 +2,7 @@ Shaolin Soccer (2001)
 =====================
 
 :date: 2011-08-07
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

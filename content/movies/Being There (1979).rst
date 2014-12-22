@@ -2,7 +2,7 @@ Being There (1979)
 ==================
 
 :date: 2013-09-22
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 1st review:

@@ -2,7 +2,7 @@ Munich (2005)
 =============
 
 :date: 2011-02-16
-:tags: 2007-movie, very-good
+:tags: 2007-movie, good
 
 
 

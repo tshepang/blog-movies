@@ -2,7 +2,7 @@ Henry: Portrait of a Serial Killer
 ==================================
 
 :date: 2013-05-26
-:tags: 2013-movie, very-good
+:tags: 2013-movie, good
 
 
 

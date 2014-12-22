@@ -2,7 +2,7 @@ Doubt (2008)
 ============
 
 :date: 2014-04-03
-:tags: 2014-movie, very-good
+:tags: 2014-movie, good
 
 
 

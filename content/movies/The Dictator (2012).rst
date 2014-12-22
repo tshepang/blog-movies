@@ -2,7 +2,7 @@ The Dictator (2012)
 ===================
 
 :date: 2012-12-25
-:tags: 2012-movie, very-good
+:tags: 2012-movie, good
 
 
 

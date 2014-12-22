@@ -2,7 +2,7 @@ Black Death (2010)
 ==================
 
 :date: 2012-05-06
-:tags: 2012-movie, very-good
+:tags: 2012-movie, good
 
 
 

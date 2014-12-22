@@ -2,7 +2,7 @@ Contagion (2011)
 ================
 
 :date: 2014-04-28
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

@@ -2,7 +2,7 @@ The Kids Are All Right (2010)
 =============================
 
 :date: 2012-07-29
-:tags: 2012-movie, very-good
+:tags: 2012-movie, good
 
 
 

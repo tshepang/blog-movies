@@ -2,7 +2,7 @@ The Thaw (2009)
 ===============
 
 :date: 2013-04-20
-:tags: very-good, 2013-movie
+:tags: good, 2013-movie
 
 
 A very edgy take on existential risk,

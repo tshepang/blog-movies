@@ -2,7 +2,7 @@ Dogville (2003)
 ===============
 
 :date: 2012-01-01
-:tags: 2006-movie, very-good
+:tags: 2006-movie, good
 
 
 

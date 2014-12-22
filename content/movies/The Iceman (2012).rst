@@ -2,7 +2,7 @@ The Iceman (2012)
 =================
 
 :date: 2014-03-20
-:tags: very-good, 2014-movie
+:tags: good, 2014-movie
 
 
 

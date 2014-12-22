@@ -28,4 +28,4 @@ Sadly, not one movie from that year went beyong the `very good`__
 
 __ http://movies.tshepang.net/se7en-1995
 __ http://movies.tshepang.net/tag/excellent
-__ http://movies.tshepang.net/tag/very-good
+__ http://movies.tshepang.net/tag/good

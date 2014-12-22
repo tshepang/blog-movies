@@ -2,7 +2,7 @@ The Iron Lady (2011)
 ====================
 
 :date: 2012-05-05
-:tags: very-good, 2012-movie
+:tags: good, 2012-movie
 
 
 

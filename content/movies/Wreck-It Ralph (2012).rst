@@ -2,7 +2,7 @@ Wreck-It Ralph (2012)
 =====================
 
 :date: 2014-12-22
-:tags: very-good, 2014-movie
+:tags: good, 2014-movie
 
 
 

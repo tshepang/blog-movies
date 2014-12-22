@@ -2,7 +2,7 @@ A Prophet (2009)
 ================
 
 :date: 2011-04-25
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

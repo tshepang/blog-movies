@@ -2,7 +2,7 @@ Memento (2000)
 ==============
 
 :date: 2012-12-02
-:tags: very-good, 2010-movie
+:tags: good, 2010-movie
 
 
 

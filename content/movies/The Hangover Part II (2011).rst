@@ -2,7 +2,7 @@ The Hangover Part II (2011)
 ===========================
 
 :date: 2012-05-19
-:tags: 2012-movie, very-good
+:tags: 2012-movie, good
 
 
 

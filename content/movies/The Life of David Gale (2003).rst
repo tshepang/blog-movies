@@ -2,7 +2,7 @@ The Life of David Gale (2003)
 =============================
 
 :date: 2011-12-14
-:tags: 2005-movie, very-good
+:tags: 2005-movie, good
 
 
 

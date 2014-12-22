@@ -2,7 +2,7 @@
 ===================
 
 :date: 2011-05-10
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

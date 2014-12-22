@@ -2,7 +2,7 @@ The Triplets of Belleville (2003)
 =================================
 
 :date: 2014-05-19
-:tags: very-good, 2005-movie
+:tags: good, 2005-movie
 
 
 

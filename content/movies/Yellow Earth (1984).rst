@@ -2,7 +2,7 @@ Yellow Earth (1984)
 ===================
 
 :date: 2012-12-26
-:tags: very-good, 2009-movie
+:tags: good, 2009-movie
 
 
 

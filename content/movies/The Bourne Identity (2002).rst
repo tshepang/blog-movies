@@ -2,7 +2,7 @@ The Bourne Identity (2002)
 ==========================
 
 :date: 2011-12-29
-:tags: very-good, 2008-movie
+:tags: good, 2008-movie
 
 
 

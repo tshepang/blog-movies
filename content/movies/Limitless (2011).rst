@@ -2,7 +2,7 @@ Limitless (2011)
 ================
 
 :date: 2014-05-11
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

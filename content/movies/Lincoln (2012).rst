@@ -2,7 +2,7 @@ Lincoln (2012)
 ==============
 
 :date: 2013-09-08
-:tags: 2013-movie, very-good
+:tags: 2013-movie, good
 
 
 

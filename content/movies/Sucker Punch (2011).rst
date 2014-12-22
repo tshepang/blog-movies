@@ -2,7 +2,7 @@ Sucker Punch (2011)
 ===================
 
 :date: 2012-12-17
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

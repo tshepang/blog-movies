@@ -2,7 +2,7 @@ Shooter (2007)
 ==============
 
 :date: 2012-01-15
-:tags: 2008-movie, very-good
+:tags: 2008-movie, good
 
 
 

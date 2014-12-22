@@ -2,7 +2,7 @@ The Social Network (2010)
 =========================
 
 :date: 2012-11-05
-:tags: 2010-movie, very-good
+:tags: 2010-movie, good
 
 
 

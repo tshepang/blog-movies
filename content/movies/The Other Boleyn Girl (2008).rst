@@ -2,7 +2,7 @@ The Other Boleyn Girl (2008)
 ============================
 
 :date: 2011-07-16
-:tags: 2011-movie, very-good
+:tags: 2011-movie, good
 
 
 

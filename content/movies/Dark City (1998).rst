@@ -2,7 +2,7 @@ Dark City (1998)
 ================
 
 :date: 2013-03-23
-:tags: very-good
+:tags: good
 
 
 Innovative story concept, excellent elements (direction, cinematography,
