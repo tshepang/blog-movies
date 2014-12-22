@@ -9,14 +9,10 @@ masterpieces
 #. `Fight Club`_
 #. `Requiem for A Dream`_
 #. `Precious`_
-
-near-masterpieces:
-------------------
-
--  `Children of Men`_
--  `Smokin' Aces`_
--  `Bamboozled`_
--  `Being John Malkovich`_
+#. `Children of Men`_
+#. `Smokin' Aces`_
+#. `Bamboozled`_
+#. `Being John Malkovich`_
 
 .. _Requiem for A Dream: http://movies.tshepang.net/requiem-for-a-dream-2000
 .. _Precious: http://movies.tshepang.net/precious-2009

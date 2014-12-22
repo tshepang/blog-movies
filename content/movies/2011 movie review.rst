@@ -150,7 +150,7 @@ and the runner-up is `Shrek Forever After`_,
 which sadly couldn't survive a revisit.
 
 The **worst revisit** was `Shrek Forever After`_. I deemed it a
-near-masterpiece on first viewing, but it seemed a different (and worse)
+masterpiece on first viewing, but it seemed a different (and worse)
 movie on a revisit. Not that it was trash. It was just not very good.
 The runner-up is `The Warrior's Way`_.
 

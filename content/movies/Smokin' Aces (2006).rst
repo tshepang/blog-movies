@@ -2,7 +2,7 @@ Smokin' Aces (2006)
 ===================
 
 :date: 2010-08-04
-:tags: near-masterpiece
+:tags: masterpiece
 
 
 

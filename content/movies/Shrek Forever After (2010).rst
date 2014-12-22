@@ -31,7 +31,7 @@ I liked:
 **update**:
 
 Movie revisits can be real strange. The first time I watched this one, I
-deemed it a near-masterpiece, but a revisit proved it not much better
+deemed it a masterpiece, but a revisit proved it not much better
 than the others in the *Shrek* franchise. It makes me wonder... maybe my
 mood was different. It's not as bad as the worst in the series (*Shrek
 3*), but it doesn't seem as good as the 2nd (*Shrek 2*).

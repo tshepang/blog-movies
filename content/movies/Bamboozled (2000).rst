@@ -2,7 +2,7 @@ Bamboozled (2000)
 =================
 
 :date: 2010-12-31
-:tags: near-masterpiece
+:tags: masterpiece
 
 
 

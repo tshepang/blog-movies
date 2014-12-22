@@ -151,7 +151,7 @@ This section is meant to give a chance to movies I have watched before
 this year to appear in this review, for one reason or another.
 
 Of those, the **best experience** was offered by `Smokin' Aces`_, which
-has now been elevated to a [near-masterpiece][]. Runner-up is *Reservoir
+has now been elevated to a masterpiece. Runner-up is *Reservoir
 Dogs*, which remains fresh and exciting after all these years... a rare
 quality for a movie indeed.
 

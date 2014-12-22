@@ -6,16 +6,12 @@ my movie rating system
 
 Here is what I mean by the rating tags:
 
-* A **landmark** is any movie I would give 11/10;
+* A **landmark** is any movie I would give 10/10;
   so far I don't have any, closest being `Fight Club`__.
 
-* A **masterpiece** is any movie I would give 10/10.
+* Following is the rest:
 
-* This goes on from **near-masterpiece** (9/10),
-  all the way down to **trash** (1/10),
-  which also doesn't exist yet;
-  the rest:
-
+  * 9/10 **masterpiece**
   * 8/10 **excellent**
   * 7/10 **very good**
   * 6/10 **good**

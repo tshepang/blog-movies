@@ -133,7 +133,7 @@ This section is meant to give a chance to movies I have watched before
 this year to appear in this review, for one reason or another.
 
 Of those, the **best experience** was offered by `Being John
-Malkovich`_, which has now been elevated to a `near-masterpiece`_.
+Malkovich`_, which has now been elevated to a `masterpiece`_.
 Runner-up is `Taken`_, which remains as intense and exciting as ever.
 
 The **fall from glory** award goes to:
@@ -143,7 +143,7 @@ The **fall from glory** award goes to:
    like something I would write if I were to try.
 
 -  `Perfume`_: It is sad that I used to consider this a
-   near-masterpiece. It remains good, just nowhere near the top.
+   masterpiece. It remains good, just nowhere near the top.
 
 
 .. _last year: http://movies.tshepang.net/2011-movie-review
@@ -181,7 +181,7 @@ The **fall from glory** award goes to:
 .. _Zombieland: http://movies.tshepang.net/zombieland-2009
 .. _A Nightmare on Elm Street: http://movies.tshepang.net/a-nightmare-on-elm-street-1984
 .. _Being John Malkovich: http://movies.tshepang.net/being-john-malkovich-1999
-.. _near-masterpiece: http://movies.tshepang.net/tag/near-masterpiece
+.. _masterpiece: http://movies.tshepang.net/tag/masterpiece
 .. _Taken: http://movies.tshepang.net/taken-2008
 .. _Vicky Cristina Barcelona: http://movies.tshepang.net/vicky-cristina-barcelona-2008
 .. _Perfume: http://movies.tshepang.net/perfume-2006
