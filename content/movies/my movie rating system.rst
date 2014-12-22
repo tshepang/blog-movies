@@ -6,24 +6,16 @@ my movie rating system
 
 Here is what I mean by the rating tags:
 
-* A **landmark** is any movie I would give 10/10;
-  so far I don't have any, closest being `Fight Club`__.
+  * 7/7 `masterpiece`__
+  * 6/7 `excellent`__
+  * 5/7 `good`__
+  * 4/7 `decent`__
+  * 3/7 `average`__
+  * 2/7 `substandard`__
+  * 1/7 `bad`__
 
-* Following is the rest:
-
-  * 9/10 `masterpiece`__
-  * 8/10 `excellent`__
-  * 7/10 `very good`__
-  * 6/10 `good`__
-  * 5/10 `decent`__
-  * 4/10 `average`__
-  * 3/10 `substandard`__
-  * 2/10 `bad`__
-
-__ http://movies.tshepang.net/fight-club-1999
 __ http://movies.tshepang.net/tag/masterpiece
 __ http://movies.tshepang.net/tag/excellent
-__ http://movies.tshepang.net/tag/very-good
 __ http://movies.tshepang.net/tag/good
 __ http://movies.tshepang.net/tag/decent
 __ http://movies.tshepang.net/tag/average
