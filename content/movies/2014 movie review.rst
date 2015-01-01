@@ -4,13 +4,8 @@
 This year was rather sad: I didn't see any fresh movie (movies I saw
 first time) above **good** rating (5/7). That is, there wasn't
 anything at the excellent level (6/7), never mind a masterpiece
-(7/7). This means it was even worse than 2013__ (which itself was
-worse than 2012__). That also means nothing stood out enough to be
+(7/7). That also means nothing stood out enough to be
 labeled **best movie of the year**.
-
-__ http://movies.tshepang.net/2013-movie-review
-__ http://movies.tshepang.net/2012-movie-review
-
 Regardless, there was still much to celebrate. Let's see.
 
 visuals
