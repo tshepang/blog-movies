@@ -1,31 +1,27 @@
 2014 movie review
 =================
 
-:public: false
-
-
-best movie
+This year was rather sad: I didn't see any fresh movie (movies I saw
+first time) above **good** rating (5/7). That is, there wasn't
+anything at the excellent level (6/7), never mind a masterpiece
+(7/7). That also means nothing stood out enough to be labeled **best
+movie of the year**. That, however, doesn't mean there wasn't much to
+celebrate. Let's see.
 
 
 visuals
 -------
 
-**visual design**: `Upside Down`_, followed by `The Hunger Games:
-Catching Fire`_
+The best **production design** is in Doubt_, followed by `The Iceman`_.
 
-**production design**: Doubt_, followed by `The Iceman`_
+The best **visual design** is in `Upside Down`_, followed by
+`The Hunger Games: Catching Fire`_.
 
-**cinematography**: Doubt_, followed by `The Iceman`_
+The best **cinematography** is in Doubt_, also followed by `The Iceman`_.
 
-action sequence
-
-The best **visual effects (overall)** are in `Thor: The Dark World`_,
-followed by `Transformers: Age of Extinction`_, then `Edge of
-Tomorrow`_.
-
-visual effects (specifics)
-
-animation
+The best **visual effects** are in `Thor: The Dark World`_,
+followed by `Transformers: Age of Extinction`_,
+then `Edge of Tomorrow`_.
 
 
 performances
@@ -46,8 +42,6 @@ The **best female performance** was given by `Susanne Lothar`__ in
 `Funny Games`_, followed by `Julia Louis-Dreyfus`__ in `Enough Said`_.
 In third place is Emily Watson in `The Book Thief`_.
 
-cast
-
 __ http://www.imdb.com/name/nm4030776
 __ http://en.wikipedia.org/wiki/Michael_Shannon
 __ http://en.wikipedia.org/wiki/Tom_Wilkinson
@@ -58,44 +52,30 @@ __ http://en.wikipedia.org/wiki/Julia_Louis-Dreyfus
 characters
 ----------
 
-In terms of **character development**, nothing beats `Enough Said`_.
-
 My **favorite character** is the adoptive father in `The Book Thief`_,
-played by Geoffrey Rush, who is as loving as any character I've seen
-in movies. He's followed by the charming China Doll in *Oz the Great
+played by Geoffrey Rush.
+He's followed by the charming China Doll in *Oz the Great
 and Powerful*, which is about as cute and lovable as characters get.
 In third place is Valka,
 the mother of the lead character in `How To Train Your Dragon 2`_.
 
-villain
-
-**desirable gal** `Dania Ramirez`__ in `Premium Rush`_
+The most **desirable gal** is `Dania Ramirez`__ in `Premium Rush`_
 
 There was no better **character design** than the giant samurai robot
 in `The Wolverine`_.
 In second place is the Alpha dragon from `How To Train Your Dragon 2`_.
 
-
-perfect gentleman
-
-comic
-
-voice talent
+In terms of **character development**, nothing beats `Enough Said`_.
 
 __ http://en.wikipedia.org/wiki/Dania_Ramirez
+
 
 miscellaneous
 -------------
 
-**direction**: `Funny Games`_
-
-The best **script/dialogue** can be found in `Enough Said`_.
-
-innovative
-
-narration
-
-sound
+There was no **direction** better than `Funny Games`_, the best
+**script/dialogue** can be found in `Enough Said`_, and There was no
+greater **spectacle** than `Edge of Tomorrow`_.
 
 The following have the best **story concept**:
 
@@ -106,40 +86,12 @@ The following have the best **story concept**:
 #. `The Purge: Anarchy`_
 #. `13 Sins`_
 
-most important
-
-first-time viewing experience
-
-worst revisit
-
-make-up
-
-overrated
-
-original story
-
-There was no greater **spectacle** than `Edge of Tomorrow`_.
-
-painful
-
-funny
-
-enchanting
-
-bizarre
-
-**wtf**: the guy who directed a very unimpressive `The Butler`_ is the
-same one who made Precious_, which `one of the best movies in
-history`__. WTF happened there!
+The **WTF** of the year: the guy who directed a very unimpressive `The
+Butler`_ is the same one who made Precious_, which `one of the best
+movies in history`__. Really, WTF happened there!
 
 __ http://movies.tshepang.net/top-movies
 
-'old' movies
-------------
-
-viewing experience
-
-fall from glory
 
 
 .. _Upside Down: http://movies.tshepang.net/upside-down-2012
