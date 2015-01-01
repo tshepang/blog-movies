@@ -2,12 +2,16 @@
 =================
 
 
+:date: 2014-05-25
+
+
 Not such a great year at the movies, even worse than `last year`__,
 though I think I also watched a lot less movies. Luckily there's two
 excellent ones, the best being `In Bruges`_. It also boasts the year's
 best **direction**, **cinematography**, and **script/dialog**. The
 other excellent movie is Redbelt_.
 
+__ http://movies.tshepang.net/2012-movie-review
 
 visuals
 -------
@@ -23,7 +27,7 @@ performances
 
 My **favorite performance** is that of Tom Towles playing Otis in
 `Henry: Portrait of a Serial Killer`_. Runner-up is the hypnotized lady
-in `Now You See Me`_, followed by `Micharl Parks`__ in `Django Unchained`_.
+in `Now You See Me`_, followed by `Michael Parks`__ in `Django Unchained`_.
 The **best male performance** is by `Chiwetel
 Ejiofor`_ as an instructor in Redbelt_, while the **best female
 performance** is by Charlotte Rampling in Cleanskin_.
@@ -60,6 +64,7 @@ The title for **best 'old' movie experience** goes to Payback_. This a
 title for a movie I've seen before this year. A special mention should
 go to the `Director's Cut version`__, which I saw first time in 2013.
 
+__ http://movies.tshepang.net/payback-straight-up-2006
 
 
 .. _Payback: http://movies.tshepang.net/payback-1999
@@ -78,5 +83,3 @@ go to the `Director's Cut version`__, which I saw first time in 2013.
 .. _Seven Psychopaths: http://movies.tshepang.net/seven-psychopaths-2012
 .. _Now You See Me: http://movies.tshepang.net/now-you-see-me-2013
 .. _Django Unchained: http://movies.tshepang.net/django-unchained-2012
-__ http://movies.tshepang.net/2012-movie-review
-__ http://movies.tshepang.net/payback-straight-up-2006
