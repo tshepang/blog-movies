@@ -107,7 +107,7 @@ __ http://movies.tshepang.net/top-movies
 .. _Doubt: http://movies.tshepang.net/doubt-2008
 .. _Red 2: http://movies.tshepang.net/red-2-2013
 .. _The Adjustment Bureau: http://movies.tshepang.net/the-adjustment-bureau-2011
-.. _The Human Centipede 2: http://movies.tshepang.net/the-human-centipede-2011
+.. _The Human Centipede 2: http://movies.tshepang.net/the-human-centipede-2-2011
 .. _Her: http://movies.tshepang.net/her-2013
 .. _13 Sins: http://movies.tshepang.net/13-sins-2014
 .. _Enough Said: http://movies.tshepang.net/enough-said-2013
