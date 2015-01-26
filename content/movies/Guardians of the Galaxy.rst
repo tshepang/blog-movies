@@ -12,8 +12,7 @@ the heavily-tattooed brute (amazing make-up), the very desirable servant of the
 Collector, and Michael Rooker (playing the leader of the bandits).
 My favorite character design is the lead villain,
 though I with the mud on the face was explained.
-I also wish his was a more convincing... there wasn't proper
-motivation for this evil acts.
+I also wish he was a more convincing villain.
 
 The whole thing is a lot more wacky than I expected, and does not fit
 its epic name. It has lots of humor, and is very entertaining,
