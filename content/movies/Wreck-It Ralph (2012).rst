@@ -7,7 +7,7 @@ Wreck-It Ralph (2012)
 
 
 A highly-enjoyable fantasy about a bad-guy video game character
-character who yearns for some loving. His acting on this desire,
+who yearns for some loving. His acting on this desire,
 however, messes things up since he was designed to be villain. Along
 the way, he meets a delightful character in a form of computer glitch,
 an outcast that he reluctantly befriends.
