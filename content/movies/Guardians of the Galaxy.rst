@@ -9,7 +9,7 @@ Guardians of the Galaxy
 The most interesting performance was that by Chris Pratt, who plays the lead.
 I also enjoyed watching the tree-like humanoid,
 the heavily-tattooed brute (amazing make-up), the very desirable servant of the
-Collector, and the leader of the bandits, Michael Rooker.
+Collector, and Michael Rooker (playing the leader of the bandits).
 My favorite character design is the lead villain,
 though I with the mud on the face was explained.
 I also wish his was a more convincing... there wasn't proper
