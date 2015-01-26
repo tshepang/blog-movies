@@ -14,7 +14,7 @@ My favorite character design is the lead villain,
 though I with the mud on the face was explained.
 I also wish he was a more convincing villain.
 
-The whole thing is a lot more wacky than I expected, and does not fit
+The whole thing is a lot more wacky than I expected, and does not suit
 its epic name. It has lots of humor, and is very entertaining,
 but I wish it was less of a passive movie. It also doesn't offer
 anything new, and the visual effects are merely decent... nothing
