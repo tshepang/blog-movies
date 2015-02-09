@@ -71,6 +71,7 @@ hand-to-hand combat
 -  `Haywire`_
 -  `The Bourne Legacy`_
 -  `The Bourne Supremacy`_ (tie) `The Bourne Ultimatum`_
+-  `Non-Stop`_
 
 eccentric
 ---------
@@ -185,3 +186,4 @@ most beautiful suicide scene
 .. _Children of Men: http://movies.tshepang.net/children-of-men-2006
 .. _Fight Club: http://movies.tshepang.net/fight-club-1999
 .. _Se7en: http://movies.tshepang.net/se7en-1995
+.. _Non-Stop: http://movies.tshepang.net/non-stop
