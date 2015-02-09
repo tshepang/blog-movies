@@ -65,8 +65,8 @@ painful
 -  `Requiem for A Dream`_ (what the four characters at the end endure)
 -  21 Grams (the subject matter)
 
-hand-to-hand combat (non-martial arts movie)
---------------------------------------------
+hand-to-hand combat
+-------------------
 
 -  `Haywire`_
 -  `The Bourne Legacy`_
