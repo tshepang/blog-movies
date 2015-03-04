@@ -8,7 +8,7 @@ Sherlock Holmes: A Game of Shadows
 
 Robert Downey Jr. is a lot of fun to watch and so is Stephen Fry, who
 plays the most interesting character in the movie. I also enjoyed
-`Jared Harris`__, whose villain character is offers superb rivalry
+`Jared Harris`__, whose villain character offers superb rivalry
 with that of the lead. It's my most favorite of his performances
 (though I wish his character didn't sing). Also, I have never seen
 `Kelly Reilly`__ this desirable. The visual effects are at time
