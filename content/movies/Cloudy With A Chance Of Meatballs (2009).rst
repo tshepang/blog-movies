@@ -14,7 +14,7 @@ includes the beloved hero getting a little too cocky. There's also some
 annoying moments where the town inhabitants treat this hero unfairly,
 like the moment where they attempt to attack him when something goes
 wrong with his food-making machine. It's fine when they are shallow and
-stupid, but it annoys me a little when the writers makes them that
+stupid, but it gets unbearable when the writers makes them so
 `unappreciative`__. One other not-too-kool thing is when these writers
 push the boundaries of fantasy way too far when the food surrounding
 the machine gain awareness, attacking the heroes to trying to shut the
