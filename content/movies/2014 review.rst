@@ -7,7 +7,8 @@
 
 
 The best **action** can be found in the fight scenes of `Non-Stop`_.
-My **favorite character** is the inflated robot in `Big Hero 6`_.
+The best **animation** is in `Big Hero 6`_,
+a movie that also has my **favorite character**, the inflatable robot.
 
 
 .. _Non-Stop: http://movies.tshepang.net/non-stop
