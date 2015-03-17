@@ -1,7 +1,6 @@
 2011 review
 ===========
 
-:date: 2015-03-05
 :tags: year-review, 2011
 
 

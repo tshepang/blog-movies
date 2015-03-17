@@ -1,7 +1,6 @@
 2014 review
 ===========
 
-:date: 2015-02-09
 :tags: year-review, 2014
 
 
