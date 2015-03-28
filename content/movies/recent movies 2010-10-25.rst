@@ -30,7 +30,7 @@ desirable gal's artwork (and her too of course).
 
 Not only is it's blatant religiosity disgusting, not to mention an
 unsatisfactory lead performance, but *The Book of Eli* is also like a
-cheap imitation of an *I Am Legend*.
+cheap imitation of an `I Am Legend`__.
 
 The one thing I heard about the legend of *Robin Hood* is that he stole
 from the rich in the interests of the poor, and the movie turns out to
@@ -42,3 +42,4 @@ know it. WTF! Other than for financial gain, why the fuck did they make
 it?
 
 .. _the first time: http://movies.tshepang.net/recent-movies-2010-05-06
+__ http://movies.tshepang.net/i-am-legend

@@ -15,9 +15,12 @@ Urban`_) and their poses (they are vampire killers) are very telling.
 Worse still, we have `Cam Gigandet`_ as the sidekick. The story is so
 unexciting, the climax is rushed and the post-apocalyptic world is
 recycled and unexplained. The only bright spot I can remember is the
-vampires themselves even though the design isn't original, for we've
-seen something similar in *I Am Legend* and *The Descent*.
+vampires themselves, even though the design isn't original;
+it is similar to that of the monsters in `I Am Legend`__ and *The Descent*.
+
 
 .. _Paul Bettany: http://en.wikipedia.org/wiki/Paul_Bettany
 .. _Karl Urban: http://en.wikipedia.org/wiki/Karl_Urban
 .. _Cam Gigandet: http://en.wikipedia.org/wiki/Cam_Gigandet
+
+__ http://movies.tshepang.net/i-am-legend

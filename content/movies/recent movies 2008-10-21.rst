@@ -12,7 +12,7 @@ beautiful women too.
 
 A good candidate for the ultimate 'girl power' movie is *The Descent*,
 even though I don't see the point of its subplot of a woman losing her
-family; And the creatures look like those from *I Am Legend*.
+family; And the creatures look like those from `I Am Legend`__.
 Incidentally Rodriguez also got a kick-ass, gun-'carrying' gal in a
 beautifully crafted but nonsensical `Planet Terror`_.
 
@@ -34,3 +34,4 @@ director and he here crafts a movie of gorgeous sets and camerawork
 armed with a fresh and original storyline, albeit depressing.
 
 .. _Planet Terror: http://movies.tshepang.net/planet-terror-2007
+__ http://movies.tshepang.net/i-am-legend
