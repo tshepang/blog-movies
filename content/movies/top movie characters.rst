@@ -45,7 +45,7 @@ cute
 nerd
 ----
 
--  Jason Schwartzman's in *Shopgirl*
+- Jason Schwartzman (*Shopgirl*)
 
 creature
 --------
