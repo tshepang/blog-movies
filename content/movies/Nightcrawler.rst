@@ -21,7 +21,7 @@ don't blame him for his criminal behavior.
 Rene Russo also gives a great performance, and so does the lady
 portraying the detective, Michael Hyatt. The latter is very imposing,
 and pretty much towers above everyone in her (few and short-lived)
-scenes. `Tough portrayal`__ there.
+scenes. `Great toughness portrayal`__ there.
 
 
 __ http://movies.tshepang.net/prisoners-2013
