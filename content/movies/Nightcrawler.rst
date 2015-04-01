@@ -7,7 +7,7 @@ Nightcrawler
 
 
 The movie is overall well-made and got a story that feels fresh, and
-one that's seldom told: people taking videos footage of gruesome
+one that's seldom told: people taking video footage of gruesome
 events. The scene that culminates in a police car chase is intense and
 feels realistic; great direction and camerawork.
 
