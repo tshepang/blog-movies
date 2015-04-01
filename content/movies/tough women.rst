@@ -10,11 +10,11 @@ characters are developed and/or performed well, I always celebrate.
 
 Here goes:
 
-* Viola Davies as the mayor (`Law Abiding Citizen`_)
-* Angelina Jolie as the assassin (Salt_)
-* Antje Traue as second-in-command of Zod (`Man of Steel`_)
-* Julianne Moore as FBI agent (*Next*)
-* Michael Hyatt as detective (Nightcrawler_)
+#. Viola Davies as the mayor (`Law Abiding Citizen`_)
+#. Angelina Jolie as the assassin (Salt_)
+#. Antje Traue as second-in-command of Zod (`Man of Steel`_)
+#. Julianne Moore as FBI agent (*Next*)
+#. Michael Hyatt as detective (Nightcrawler_)
 
 
 .. _Man of Steel: http://movies.tshepang.net/man-of-steel-2013
