@@ -79,7 +79,7 @@ Runner-up is the cast of `An Education`_, followed by that of *Calendar
 Girls*.
 
 The best **cast of children** can be found in *Spud*, while the most
-**heroic character** is that of Anjelina Jolie's secret agent in
+**heroic character** is that of Angelina Jolie's secret agent in
 `Salt`_.
 
 The year's best **villain** is that played by Mo'Nique in `Precious`_.

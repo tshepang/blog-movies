@@ -77,7 +77,7 @@ characters
 
 The best villain is Josh Brolin's dirty cop found in *American Ganster*
 for its unflinching acts of corruption. My favorite character is Gerard
-Butler's Spartan king in *300* while the most exotic is the Anjelina
+Butler's Spartan king in *300* while the most exotic is the Angelina
 Jolie's demon in `Beowulf`_. The most desirable gal is Rosamund Pike in
 *Fracture* while Vera Farmica of *The Departed*, Ana Claudia Talancon'
 in *El Crimen del Padro Amaro*, and Kerry Washington in `The Last King

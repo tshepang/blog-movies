@@ -29,7 +29,7 @@ asshole
 tough gal
 ---------
 
-1. Anjelina Jolie (Salt_)
+1. Angelina Jolie (Salt_)
 2. Julianne Moore (*Next*)
 
 animated gals

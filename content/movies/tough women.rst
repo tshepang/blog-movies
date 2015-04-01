@@ -11,9 +11,9 @@ characters are developed and/or performed well, I always celebrate.
 Here goes:
 
 * Viola Davies as the mayor (`Law Abiding Citizen`_)
-* Anjelina Jolie as the assassin (Salt_)
+* Angelina Jolie as the assassin (Salt_)
 * Antje Traue as second-in-command of Zod (`Man of Steel`_)
-* Jolianne Moore as FBI agent (*Next*)
+* Julianne Moore as FBI agent (*Next*)
 * Michael Hyatt as detective (Nightcrawler_)
 
 
