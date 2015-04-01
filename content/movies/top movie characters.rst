@@ -52,7 +52,7 @@ creature
 
 #. Davey Jones (*Pirates of the Caribbean: Dead Man's Chest*)
 #. Kong (*King Kong*)
-#. Na'vi (`Avatar`_)
+#. Na'vi species (`Avatar`_)
 
 monster
 -------
