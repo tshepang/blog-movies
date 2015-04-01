@@ -14,6 +14,7 @@ best-of-career performances
 - Geoffrey Rush (`The King's Speech`_)
 - Guy Pearce (`Memento`_)
 - Hugh Jackman (Prisoners_)
+- Jake Gyllenhaal (Nightcrawler_)
 - Jet Li (`The Warlords`_)
 - John Carroll Lynch (Zodiac)
 - John Malkovich (Changeling_)
@@ -57,3 +58,4 @@ __ http://movies.tshepang.net/good-night-and-good-luck-2005
 .. _Prisoners: http://movies.tshepang.net/prisoners-2013
 .. _The Warlords: http://movies.tshepang.net/the-warlords-2007
 .. _Fight Club: http://movies.tshepang.net/fight-club-1999
+.. _Nightcrawler: http://movies.tshepang.net/nightcrawler

@@ -1,7 +1,6 @@
 women in control
 ================
 
-:date: 2014-04-03
 :tags: list
 
 
@@ -15,8 +14,10 @@ characters I celebrate, either due to skill or power:
 * Anjelina Jolie as the assassin (Salt_)
 * Antje Traue as second-in-command of Zod (`Man of Steel`_)
 * Jolianne Moore as FBI agent (*Next*)
+* Michael Hyatt as detective (Nightcrawler_)
 
 
 .. _Man of Steel: http://movies.tshepang.net/man-of-steel-2013
 .. _Law Abiding Citizen: http://movies.tshepang.net/law-abiding-citizen-2009
 .. _Salt: http://movies.tshepang.net/salt-2010
+.. _Nightcrawler: http://movies.tshepang.net/nightcrawler
