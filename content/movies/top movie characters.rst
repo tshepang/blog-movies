@@ -83,17 +83,10 @@ character design
 #. chess pieces (`Harry Potter and the Sorcerer's Stone`_)
 
 
-airport checkpoint officer
---------------------------
-
--  the humorless guy at airport checkpoint (`The Next Three Days`_)
-
-
 .. _Kinsey: http://movies.tshepang.net/kinsey-2004
 .. _A Streetcar Named Desire: http://movies.tshepang.net/a-streetcar-named-desire-1951
 .. _Avatar: http://movies.tshepang.net/avatar-2009
 .. _Rango: http://movies.tshepang.net/rango-2011
-.. _The Next Three Days: http://movies.tshepang.net/the-next-three-days-2010
 .. _Silent Hill: http://movies.tshepang.net/silent-hill-2006
 .. _Harry Potter and the Prisoner of Azkaban:
     http://movies.tshepang.net/harry-potter-and-the-prisoner-of-azkaban-2004
