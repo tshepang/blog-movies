@@ -1,14 +1,14 @@
-women in control
-================
+tough women
+===========
 
 :tags: list
 
 
 
-This might make me sexist in the eyes of some, singling out women like
-this, but I often find it kool seeing women in control. Maybe that's
-because it's such a rare sight. Anyways, following is a list of female
-characters I celebrate, either due to skill or power:
+It's such a rare sight seeing tough gals in movies. When such
+characters are developed and/or performed well, I always celebrate.
+
+Here goes:
 
 * Viola Davies as the mayor (`Law Abiding Citizen`_)
 * Anjelina Jolie as the assassin (Salt_)
