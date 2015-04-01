@@ -78,7 +78,7 @@ character design
 #. lead villain (9_)
 #. Half-headed demons (*Constantine*)
 #. cyborg trio (`Afro Samurai: Resurrection`_)
-#. the humans (*A Corpse Bride*)
+#. living humans beings (*A Corpse Bride*)
 #. Bug on the street (*Constantine*)
 #. chess pieces (`Harry Potter and the Sorcerer's Stone`_)
 
