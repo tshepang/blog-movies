@@ -26,11 +26,8 @@ asshole
 1. Ben Kingsley (*Sexy Beast*)
 2. Marlon Brandon (`A Streetcar Named Desire`_)
 
-tough gal
----------
-
-1. Angelina Jolie (Salt_)
-2. Julianne Moore (*Next*)
+`tough women <http://movies.tshepang.net/tough-women>`_
+-------------------------------------------------------
 
 animated gals
 -------------
