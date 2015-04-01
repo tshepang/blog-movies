@@ -12,7 +12,7 @@ events. The scene that culminates in a police car chase is intense and
 feels realistic; great direction and camerawork.
 
 Jake Gyllenhaal, the lead of the quality cast, is a highly skilled
-actor (see Prisoners__ and Zodia__), but I haven't seen him this
+actor (see Prisoners__ and Zodiac__), but I haven't seen him this
 good. His character is very unusual and scary, and pretty much a
 supreme asshole you wish didn't exist. His life is shit (he's lonely,
 out of money, and seems to have some mental problem), so I almost
