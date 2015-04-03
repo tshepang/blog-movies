@@ -54,6 +54,11 @@ creature
 #. Kong (*King Kong*)
 #. Na'vi species (`Avatar`_)
 
+dragon
+------
+
+- `The Hobbit: The Battle of the Five Armies`_
+
 monster
 -------
 
@@ -100,3 +105,4 @@ character design
 .. _Salt: http://movies.tshepang.net/salt-2010
 .. _Cloverfield: http://movies.tshepang.net/cloverfield-2008
 .. _The Book Thief: http://movies.tshepang.net/the-book-thief-2013
+.. _`The Hobbit: The Battle of the Five Armies`: http://movies.tshepang.net/the-hobbit-the-battle-of-the-five-armies
