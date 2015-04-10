@@ -89,7 +89,6 @@ therapist in `The Kings's Speech`_. Here's the runner-ups:
 
 1. `Miles Teller`_ (`Rabbit Hole`_)
 2. Laurence Fishburne (`Contagion`_)
-3. Sean Penn (`Fair Game`_)
 4. `Lennie James`_ (`The Next Three Days`_)
 5. `Russell Brand`_ (`Get Him to the Greek`_)
 
@@ -156,7 +155,6 @@ The runner-up is `The Warrior's Way`_.
 
 As for the year's **best script/dialog**,
 there is a tie between `Sex, Lies, and Videotape`_ and `Contagion`_.
-The runner-up is `Fair Game`_.
 
 The year's **funniest movie** is `Bill & Ted's Bogus Journey`_. The
 first runner-up is `Being There`_, while its three 2nd runner-ups are a
@@ -238,7 +236,7 @@ For a complete list of the movies I reviewed for the year, visit the
 .. _Pathology: http://movies.tshepang.net/pathology-2008
 .. _Miles Teller: http://en.wikipedia.org/wiki/Miles_Teller
 .. _Contagion: http://movies.tshepang.net/contagion-2011
-.. _Fair Game: http://movies.tshepang.net/fair-game-2010
+.. _Fair Game: http://movies.tshepang.net/fair-game
 .. _Lennie James: http://en.wikipedia.org/wiki/Lennie_James
 .. _The Next Three Days: http://movies.tshepang.net/the-next-three-days-2010
 .. _Russell Brand: http://en.wikipedia.org/wiki/Russell_Brand
