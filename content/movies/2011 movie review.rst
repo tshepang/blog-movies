@@ -87,10 +87,10 @@ Lancie`_ as lead of pathology (`Pathology`_). 2nd runner-up is Sandra Oh
 The **best male performance** is by Geoffrey Rush when playing a
 therapist in `The Kings's Speech`_. Here's the runner-ups:
 
-1. `Miles Teller`_ (`Rabbit Hole`_)
-2. Laurence Fishburne (`Contagion`_)
-4. `Lennie James`_ (`The Next Three Days`_)
-5. `Russell Brand`_ (`Get Him to the Greek`_)
+#. `Miles Teller`_ (`Rabbit Hole`_)
+#. Laurence Fishburne (`Contagion`_)
+#. `Lennie James`_ (`The Next Three Days`_)
+#. `Russell Brand`_ (`Get Him to the Greek`_)
 
 The **best female performance** is by Nicole Kidman in `Rabbit Hole`_,
 and the **best cast** is from the same movie. Maybe it's a distant
