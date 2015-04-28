@@ -9,4 +9,4 @@ The best **visual effects** can be found in the Hulk vs. Iron battle
 of `Avengers: Age of Ultron`_.
 
 
-.. _Avengers: Age of Ultron: http://movies.tshepang.net/avengers-age-of-ultron
+.. _`Avengers: Age of Ultron`: http://movies.tshepang.net/avengers-age-of-ultron
