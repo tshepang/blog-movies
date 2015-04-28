@@ -7,7 +7,8 @@ Avengers: Age of Ultron
 
 
 I am afraid that the producers of the franchise are losing the plot a
-little (I prefer `the original`__). The movie is entertaining enough, but I kept feeling it's too
+little (I prefer `the original`__). The movie is entertaining enough,
+but I kept feeling it's too
 much of a money-making machine. The plot is rather messy, the action
 overly-frantic, but the visual effects are great.
 
