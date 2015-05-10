@@ -15,15 +15,15 @@ I expected.
 
 So, what makes it so good:
 
--  the movie is directed in a similar style to those 2 Iron Man movies, including
-   the clever humor and laid-back acting style
+- The movie is directed in a similar style to those 2 Iron Man movies,
+  including the clever humor and laid-back acting style.
 
--  the movie has some of the best visual effects I've seen yet, and
-   about as large-scale as any of the 3 *Transformers* movies, without
-   the overly-frantic action where you can't figure WTF is going on
+- The movie has some of the best visual effects I've seen yet, and
+  about as large-scale as any of the 3 *Transformers* movies, without
+  the overly-frantic action where you can't figure WTF is going on.
 
--  I found the reaction of the city public refreshingly-realistic,
-   especially considering that this is a comic book adaptation
+- I found the reaction of the city public refreshingly-realistic,
+  especially considering that this is a comic book adaptation.
 
 
 .. _Thor: http://movies.tshepang.net/thor-2011
