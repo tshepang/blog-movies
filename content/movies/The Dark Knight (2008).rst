@@ -49,3 +49,5 @@ Not even the action saves the movie, which was mostly wasted cash
 since it ain't really good. And the last scene really is
 unbearable. And who gives a shit about the cheap philosophical blah I
 so previously cherished.
+
+So, no, this isn't the best ever comic book adaptation.

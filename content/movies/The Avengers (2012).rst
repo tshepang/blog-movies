@@ -10,13 +10,12 @@ I found `Thor`_ very unsatisfactory, the 2 recent Hulk movies very
 lacking, and `Captain America`_ fairly bad. That's why I was concerned
 when I heard that my favorite comic book hero, Iron Man, would be paired
 with them into one movie. I was also concerned by the fact that Jon
-Favreau was not directing. Luckily the movie turned out even better than
-the first 2 live action *Iron Man* movies, and of course far better than
-the others mentioned above.
+Favreau was not directing. Luckily the movie turned out a lot better than
+I expected.
 
 So, what makes it so good:
 
--  the movie is directed in a similar style to those 2 movies, including
+-  the movie is directed in a similar style to those 2 Iron Man movies, including
    the clever humor and laid-back acting style
 
 -  the movie has some of the best visual effects I've seen yet, and

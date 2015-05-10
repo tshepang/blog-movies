@@ -115,7 +115,7 @@ Cloverfield_, followed by Pyramid Head in `Silent Hill`_.
 2nd runner-up is the hyperrealistic mountain creatures in
 *The Mummy 3*. The best **character design** however goes to the
 villainous Maltazard in *Arthur & the Invisibles*, followed by the three
-suits in *Iron Man*.
+suits in `Iron Man`_.
 
 visuals
 -------
@@ -173,3 +173,4 @@ Marshall; Weather Man; Zoom
 .. _The New World: http://movies.tshepang.net/the-new-world-2005
 .. _Silent Hill: http://movies.tshepang.net/silent-hill-2006
 .. _The Dark Knight: http://movies.tshepang.net/the-dark-knight-2008
+.. _Iron Man: http://movies.tshepang.net/iron-man
