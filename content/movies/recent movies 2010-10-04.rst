@@ -5,7 +5,8 @@ recent movies 2010-10-04
 
 
 
-There's a bunch of people for whom acting seems like breathing. It seems
+There's a bunch of people for whom acting seems as effortless as breathing.
+It seems
 for them an excellent performance isn't much of a challenge. I'm talking
 of people like Al Pacino, Gene Hackman, and in the case of *Wolfman*,
 Anthony Hopkins. The movie itself is not so good (story not fresh; campy
