@@ -27,3 +27,17 @@ what I don't like:
 I like everything else, and no movie has superior direction,
 production design, and cinematography. The cast is great too and so is
 the editing.
+
+Here's an old review:
+
+..
+
+   Boasts all-time best direction, cinematography, & sound editing; a
+   supremely intriguing storyline which is so rich it could be made
+   into 2 or 3 other features; the entire set-design and acting
+   convinces me that Fincher, besides being the best, is also more
+   attentive to detail than perhaps all others... there's no bad
+   physics, no classic movie mistakes, no overuse of visual
+   effects... this resulting in a visually- and mentally-stimulating
+   masterpiece. Its technical and artistic perfection blows my mind
+   away.
