@@ -5,7 +5,8 @@
 
 
 
-The best **action** can be found in the fight scenes of `Non-Stop`_.
+The best **action** can be found in the fight scenes of `Non-Stop`_,
+but the best **visual effects** are in `Dracula Untold`_.
 The best **animation** is in `Big Hero 6`_,
 a movie that also has my **favorite character**, the inflatable robot.
 The best **dialog** is in `I Origins`_.
@@ -14,3 +15,4 @@ The best **dialog** is in `I Origins`_.
 .. _Non-Stop: http://movies.tshepang.net/non-stop
 .. _Big Hero 6: http://movies.tshepang.net/big-hero-6
 .. _I Origins: http://movies.tshepang.net/i-origins
+.. _Dracula Untold: http://movies.tshepang.net/dracula-untold
