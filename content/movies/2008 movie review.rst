@@ -30,7 +30,7 @@ misc elements
 
 Best comedy is *Knocked Up*,
 and nothing was quite as enchanting as the feel-good
-socio-political `Hairspray`_. Therunner-up is the formulaic, yet
+socio-political `Hairspray`_. The runner-up is the formulaic, yet
 effective, *Robots*.
 
 Nothing made me cry in my history of movie-watching as did the drama,
@@ -76,7 +76,7 @@ appearance in `Confidence`_, and then Stanley Tucci's fashion lover in
 *The Devil Wears Prada*. My favorite comic performance is William H.
 Macy's in *Wild Hogs*.
 
-The best female perfomance was by Cate Blanchett's title character as a
+The best female performance was by Cate Blanchett's title character as a
 daring journalist in *Veronica Guerin*, followed by the surprisingly
 excellent Kerry Washington as a slutty girl in *I Think I Love My Wife*.
 Ger Ryan (2nd runner-up) really touched me as a loving mother in
@@ -111,7 +111,7 @@ There were no characters as cute the young penguins in *Surf's Up*.
 
 My most **favorite creature** is the super-large monster in
 Cloverfield_, followed by Pyramid Head in `Silent Hill`_.
-2nd runner-up is the hyperrealistic mountain creatures in
+2nd runner-up is the hyper-realistic mountain creatures in
 *The Mummy 3*. The best **character design** however goes to the
 villainous Maltazard in *Arthur & the Invisibles*, followed by the three
 suits in `Iron Man`_.
