@@ -1,7 +1,6 @@
 2008 movie review
 =================
 
-:date: 2009-01-01
 :tags: year-movie-review
 
 
@@ -29,8 +28,8 @@ for Old Men`_.
 misc elements
 -------------
 
-Best comedy is *Knocked Up*, best romantic drama is *Friends With
-Money*, while nothing was quite as enchanting as the feel-good
+Best comedy is *Knocked Up*,
+and nothing was quite as enchanting as the feel-good
 socio-political `Hairspray`_. Therunner-up is the formulaic, yet
 effective, *Robots*.
 
@@ -174,3 +173,4 @@ Marshall; Weather Man; Zoom
 .. _Silent Hill: http://movies.tshepang.net/silent-hill-2006
 .. _The Dark Knight: http://movies.tshepang.net/the-dark-knight-2008
 .. _Iron Man: http://movies.tshepang.net/iron-man
+.. _Friends with Money: http://movies.tshepang.net/friends-with-money
