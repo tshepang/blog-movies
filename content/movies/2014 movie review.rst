@@ -1,6 +1,9 @@
 2014 movie review
 =================
 
+:tags: year-movie-review
+
+
 This year was rather sad: I didn't see any fresh movie (movies I saw
 first time) above **good** rating (5/7). That is, there wasn't
 anything at the excellent level (6/7), never mind a masterpiece

@@ -3,6 +3,7 @@
 
 
 :date: 2014-05-25
+:tags: year-movie-review
 
 
 Not such a great year at the movies, even worse than `last year`__,
