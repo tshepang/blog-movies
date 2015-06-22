@@ -22,7 +22,7 @@ favorite
 
 1. Heath Ledger as The Joker (`The Dark Knight`_)
 2. Sterling Hayden as the mad general (`Dr. Strangelove`_)
-3. John Carrol Lynch as suspect (*Zodiac*)
+3. John Carrol Lynch as the suspect (*Zodiac*)
 4. Taraji Hanson as the sniper (`Smokin' Aces`_)
 
 cast
