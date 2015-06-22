@@ -25,6 +25,11 @@ favorite
 3. John Carrol Lynch as the suspect (*Zodiac*)
 4. Taraji Hanson as the sniper (`Smokin' Aces`_)
 
+favorite eccentric
+------------------
+
+Kiefer Sutherland as the doctor (`Dark City`_)
+
 cast
 ----
 
@@ -63,5 +68,6 @@ airport checkpoint officer
 .. _The Next Three Days: http://movies.tshepang.net/the-next-three-days-2010
 .. _Payback: http://movies.tshepang.net/payback-1999
 .. _The Dark Knight: http://movies.tshepang.net/the-dark-knight-2008
+.. _Dark City: http://movies.tshepang.net/dark-city-1998
 .. _Real Steel: http://movies.tshepang.net/real-steel-2011
 .. _Dakota Goyo:  http://en.wikipedia.org/wiki/Dakota_Goyo
