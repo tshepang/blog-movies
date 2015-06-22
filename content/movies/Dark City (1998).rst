@@ -12,7 +12,5 @@ played by Kiefer Sutherland. The Strangers are given good performances,
 most especially the one leading the search.
 
 Despite all the goodness, the experience is marred by some shortcuts
-taken by the writers (maybe a result of laziness, or pressure),
-some continuity errors here and there, an uninteresting lead,
+taken by the writers, some continuity errors, an uninteresting lead,
 and some bad visual effects, most evidently in the laughable final showdown.
-
