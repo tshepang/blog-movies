@@ -10,7 +10,7 @@ For a movie that is almost entirely made of dialog, this is
 exciting. It's also the first time I saw the `Tony Todd`__ play an
 ordinary character, which he does very well.
 
-I wish there would be more restraint: there overreaction by some of
+I wish there would be more restraint: the overreaction by some of
 the characters was ludicrous and felt forced, and the Jesus part even
 worse.
 
