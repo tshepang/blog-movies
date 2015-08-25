@@ -5,7 +5,7 @@
 
 
 
-The best **visual effects** can be found in the Hulk vs. Iron battle
+The best **visual effects** can be found in the Hulk vs. Iron Man battle
 of `Avengers: Age of Ultron`_. Runner-up is the title character of Chappie_.
 The greatest **spectacle** is `Jurassic World`_, whose visual effects
 aren't shabby either.
