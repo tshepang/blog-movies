@@ -151,7 +151,7 @@ The **fall from glory** award goes to:
 .. _Battleship: http://movies.tshepang.net/battleship-2012
 .. _Harry Potter and the Order of the Phoenix: http://movies.tshepang.net/harry-potter-and-the-order-of-the-phoenix-2007
 .. _The Bourne Legacy: http://movies.tshepang.net/the-bourne-legacy-2012
-.. _Haywire: http://movies.tshepang.net/haywire-2011
+.. _Haywire: http://movies.tshepang.net/haywire
 .. _Harry Potter and the Deathly Hallows, Part 1: http://movies.tshepang.net/harry-potter-and-the-deathly-hallows-part-1
 .. _True Legend: http://movies.tshepang.net/true-legend-2010
 .. _The Girl With the Dragon Tattoo: http://movies.tshepang.net/the-girl-with-the-dragon-tattoo-2011
