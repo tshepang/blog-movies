@@ -169,7 +169,7 @@ most beautiful suicide scene
 .. _Apocalypto: http://movies.tshepang.net/apocalypto-2006
 .. _Requiem for A Dream: http://movies.tshepang.net/requiem-for-a-dream-2000
 .. _Sucker Punch: http://movies.tshepang.net/sucker-punch-2011
-.. _Haywire: http://movies.tshepang.net/haywire-2011
+.. _Haywire: http://movies.tshepang.net/haywire
 .. _The Bourne Legacy: http://movies.tshepang.net/the-bourne-legacy-2012
 .. _The Bourne Supremacy: http://movies.tshepang.net/the-bourne-supremacy-2004
 .. _The Bourne Ultimatum: http://movies.tshepang.net/the-bourne-ultimatum-2007
