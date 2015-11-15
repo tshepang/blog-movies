@@ -10,7 +10,11 @@ of `Avengers: Age of Ultron`_. Runner-up is the title character of Chappie_.
 The greatest **spectacle** is `Jurassic World`_, whose visual effects
 aren't shabby either.
 
+My **favorite villain** is Scarlet, the lead villain of
+`Minions`_. That movie also boasts best **visual design**.
+
 
 .. _`Avengers: Age of Ultron`: http://movies.tshepang.net/avengers-age-of-ultron
 .. _Chappie: http://movies.tshepang.net/chappie
 .. _Jurassic World: http://movies.tshepang.net/jurassic-world
+.. _Minions: http://movies.tshepang.net/minions
