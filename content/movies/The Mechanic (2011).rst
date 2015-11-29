@@ -1,18 +1,18 @@
-The Mechanic (2011)
-===================
+The Mechanic
+============
 
-:date: 2011-05-08
-:tags: 2011-movie, decent
+:date: 2015-11-30
+:tags: 2011, average
 
 
 
-Quality action is sadly complented by a cheap story (a guy from nowhere
-all-of-a-sudden is superior to experienced bodyguards, and is being
-trained for no good reason).
+A stupid story, with two things worthy of mention:
 
-The giant gay hitman has quite a presence, reminding me of the great
-`John Carroll Lynch`_. Equally impressive is the fat guy playing a
-self-proclaimed messiah. Both these characters were surprisingly
-weel-developed.
+- The giant gay hitman has quite a presence, reminding me of the great
+  `John Carroll Lynch`__.
 
-.. _John Carroll Lynch: http://en.wikipedia.org/wiki/John_Carroll_Lynch
+- Equally impressive is the fat guy playing a self-proclaimed
+  messiah. Both these characters were surprisingly weel-developed.
+
+
+__ http://en.wikipedia.org/wiki/John_Carroll_Lynch
