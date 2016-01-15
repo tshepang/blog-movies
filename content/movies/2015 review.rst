@@ -12,9 +12,11 @@ aren't shabby either.
 
 My **favorite villain** is Scarlet, the lead villain of
 `Minions`_. That movie also boasts best **visual design**.
+The most **desirable gal** is Sonoya Mizuno in `Ex Machina`_.
 
 
 .. _`Avengers: Age of Ultron`: http://movies.tshepang.net/avengers-age-of-ultron
 .. _Chappie: http://movies.tshepang.net/chappie
 .. _Jurassic World: http://movies.tshepang.net/jurassic-world
 .. _Minions: http://movies.tshepang.net/minions
+.. _Ex Machina: http://movies.tshepang.net/ex-machina
