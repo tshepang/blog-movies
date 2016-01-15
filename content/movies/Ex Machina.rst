@@ -7,8 +7,8 @@ Ex Machina
 
 
 Fascinating, with an eery feel that's accentuated by the overly loud
-and unconfortable score, it also possesses wonderful direction and
-good performances. Most impressive of these is the lead, though
+and uncomfortable score, it also possesses wonderful direction and dialog.
+Performances are also good, most impressive of which is the lead, though
 `Sonoya Mizuno`__, playing food/sex servant, offered the most pleasure
 to the eye, especially when dancing. She's so perfect.
 
