@@ -12,7 +12,8 @@ aren't shabby either.
 
 My **favorite villain** is Scarlet, the lead villain of
 `Minions`_. That movie also boasts best **visual design**.
-The most **desirable gal** is Sonoya Mizuno in `Ex Machina`_.
+The most **desirable gal** is Sonoya Mizuno in `Ex Machina`_, which
+also happens to have the **best dialog**.
 
 
 .. _`Avengers: Age of Ultron`: http://movies.tshepang.net/avengers-age-of-ultron
