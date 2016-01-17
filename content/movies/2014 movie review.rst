@@ -111,7 +111,7 @@ __ http://movies.tshepang.net/top-movies
 .. _Red 2: http://movies.tshepang.net/red-2-2013
 .. _The Adjustment Bureau: http://movies.tshepang.net/the-adjustment-bureau-2011
 .. _The Human Centipede 2: http://movies.tshepang.net/the-human-centipede-2-2011
-.. _Her: http://movies.tshepang.net/her-2013
+.. _Her: http://movies.tshepang.net/her
 .. _13 Sins: http://movies.tshepang.net/13-sins-2014
 .. _Enough Said: http://movies.tshepang.net/enough-said-2013
 .. _`Transformers: Age of Extinction`: http://movies.tshepang.net/transformers-age-of-extinction-2014
