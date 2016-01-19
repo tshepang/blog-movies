@@ -10,7 +10,8 @@ of `Avengers: Age of Ultron`_. Runner-up is the title character of Chappie_.
 The greatest **spectacle** is `Jurassic World`_, whose visual effects
 aren't shabby either.
 
-My **favorite villain** is Scarlet, the lead villain of
+My **favorite performance** is that of Benedict Wong in `The Martian`_,
+while my **favorite villain** is Scarlet, the lead villain of
 `Minions`_. That movie also boasts best **visual design**.
 The most **desirable gal** is Sonoya Mizuno in `Ex Machina`_, which
 also happens to have the **best dialog**.
@@ -21,3 +22,4 @@ also happens to have the **best dialog**.
 .. _Jurassic World: http://movies.tshepang.net/jurassic-world
 .. _Minions: http://movies.tshepang.net/minions
 .. _Ex Machina: http://movies.tshepang.net/ex-machina
+.. _The Martian: http://movies.tshepang.net/the-martian
