@@ -10,6 +10,9 @@ of `Avengers: Age of Ultron`_. Runner-up is the title character of Chappie_.
 The greatest **spectacle** is `Jurassic World`_, whose visual effects
 aren't shabby either.
 
+The best **direction** can be found in `The Survivalist`_, followed by
+`Spotlight`_, which itself boasts best **editing** and **dialog**.
+
 My **favorite performance** is that of Benedict Wong in `The Martian`_,
 while my **favorite villain** is Scarlet, the lead villain of
 `Minions`_. That movie also boasts best **visual design**.
@@ -23,3 +26,5 @@ also happens to have the **best dialog**.
 .. _Minions: http://movies.tshepang.net/minions
 .. _Ex Machina: http://movies.tshepang.net/ex-machina
 .. _The Martian: http://movies.tshepang.net/the-martian
+.. _The Survivalist: http://movies.tshepang.net/the-survivalist
+.. _Spotlight: http://movies.tshepang.net/spotlight
