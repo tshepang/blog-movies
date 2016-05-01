@@ -12,7 +12,7 @@ sequences are intense, though excessive (think *The Transformers*),
 but not too frantic. My favorite action sequence is the Fury
 chase. The abilities of the Winter Soldier matched that of Captain
 America, making him fun to watch. I would have done without the flying
-guy, who happens to be overly skillful, like he was some super-human,
+guy (Falcon), who happens to be overly skillful, like he was some super-human,
 which he's not. Same applies to the Black Widow character. The story
 is okay but does not rise above the feeling that it attempts nothing
 other than keep the franchise going. There's lots of shortcuts, and
