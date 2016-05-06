@@ -13,7 +13,7 @@ his background was given more attention though (how did he learn to
 fight so well, and how did he manage to own a suit that amazing).
 
 Runner-up is Winter Soldier, who was also the most interesting
-character of the previous movie in the series, `Captain America: Winder
+character of the previous movie in the series, `Captain America: Winter
 Soldier`__.
 
 The 3-person fight near the end was something special, though its
