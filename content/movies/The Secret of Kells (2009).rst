@@ -6,7 +6,7 @@ The Secret of Kells (2009)
 
 
 
-It's bizarre in a way similar to *The Triples of Belleville* and has
+It's bizarre in a way similar to `The Triplets of Belleville`__ and has
 some emotionally powerful moments.
 
 Highlights:
@@ -27,3 +27,6 @@ that's not a negative), and is also sleep-inducing. I also couldn't get
 what the point of it was. Maybe it's kinda biblical, since it centers
 around some all-important book (and the lead character looks like Jesus
 when grown-up).
+
+
+__ http://movies.tshepang.net/the-triplets-of-belleville-2003
