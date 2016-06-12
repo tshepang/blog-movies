@@ -102,7 +102,6 @@ character design
 .. _Harry Potter and the Sorcerer's Stone: http://movies.tshepang.net/harry-potter-and-the-sorcerers-stone-2001
 .. _`Afro Samurai: Resurrection`: http://movies.tshepang.net/afro-samurai-resurrection-2009
 .. _Pan's Labyrinth: http://movies.tshepang.net/pans-labyrinth-2006
-.. _Salt: http://movies.tshepang.net/salt-2010
 .. _Cloverfield: http://movies.tshepang.net/cloverfield-2008
 .. _The Book Thief: http://movies.tshepang.net/the-book-thief-2013
 .. _`The Hobbit: The Battle of the Five Armies`: http://movies.tshepang.net/the-hobbit-the-battle-of-the-five-armies

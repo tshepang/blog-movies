@@ -78,11 +78,8 @@ the best cast of any movie I've seen yet. Amazing shit right there.
 Runner-up is the cast of `An Education`_, followed by that of *Calendar
 Girls*.
 
-The best **cast of children** can be found in *Spud*, while the most
-**heroic character** is that of Angelina Jolie's secret agent in
-`Salt`_.
-
-The year's best **villain** is that played by Mo'Nique in `Precious`_.
+The best **cast of children** can be found in *Spud*, while
+the year's best **villain** is that played by Mo'Nique in `Precious`_.
 Here's the runner-ups:
 
 1. Hades (`Clash of the Titans`_) – also the year's most fearsome
@@ -202,7 +199,6 @@ Karate Kid; Skin
 .. _The Job: http://movies.tshepang.net/recent-movies-2010-11-19
 .. _Sophie's Choice: http://movies.tshepang.net/recent-movies-2010-11-19
 .. _Invictus: http://movies.tshepang.net/recent-movies-2010-11-19
-.. _Salt: http://movies.tshepang.net/salt-2010
 .. _Clash of the Titans: http://movies.tshepang.net/clash-of-the-titans-2010
 .. _Iron Man 2: http://movies.tshepang.net/iron-man-2
 .. _Superman: http://movies.tshepang.net/many-many-recent-movies
