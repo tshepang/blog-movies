@@ -86,8 +86,7 @@ The year's best **villain** is that played by Mo'Nique in `Precious`_.
 Here's the runner-ups:
 
 1. Hades (`Clash of the Titans`_) – also the year's most fearsome
-2. `Iron Man 2`_
-3. tough and smart shooter (`The A-Team`_)
+2. tough and smart shooter (`The A-Team`_)
 
 The most **desirable gal** is cheat, having multiple characters. It's
 the classmates in `Precious`_, best of which is scarface. Oh man, why do
@@ -205,7 +204,7 @@ Karate Kid; Skin
 .. _Invictus: http://movies.tshepang.net/recent-movies-2010-11-19
 .. _Salt: http://movies.tshepang.net/salt-2010
 .. _Clash of the Titans: http://movies.tshepang.net/clash-of-the-titans-2010
-.. _Iron Man 2: http://movies.tshepang.net/recent-movies-2010-05-06
+.. _Iron Man 2: http://movies.tshepang.net/iron-man-2
 .. _Superman: http://movies.tshepang.net/many-many-recent-movies
 .. _`Afro Samurai: Resurrection`: http://movies.tshepang.net/afro-samurai-resurrection-2009
 .. _The Hurt Locker: http://movies.tshepang.net/recent-movies-2010-05-06

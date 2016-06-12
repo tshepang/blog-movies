@@ -16,12 +16,3 @@ The fate of the man who got strapped with bombs got me bursting out in
 tears in the not-so-typical war movie, *The Hurt Locker*. We also get a
 whole lot of detail deliberately left out. I'm left without knowing
 whether to herald such soldiers as heroic or not.
-
-Nothing this year so far was as exciting as *Iron Man 2* (`newer
-review`_), which was impressive not only due to great visual effects but
-also good directing, script, and acting, and there's a nice cameo by
-Samuel L. Jackson, a normally uninteresting guy whose only other work I
-appreciate is `Pulp Fiction`_. The villain is a pleasure to watch.
-
-.. _newer review: http://movies.tshepang.net/recent-movies-2010-10-25
-.. _Pulp Fiction: http://movies.tshepang.net/300-the-visual-masterpiece-pulp-fiction-the-ex-masterpiece

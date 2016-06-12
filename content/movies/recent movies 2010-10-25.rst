@@ -8,10 +8,8 @@ recent movies 2010-10-25
 In *Date Night*, Mark Wahlberg plays the koolest guy in movies so far
 this year; he's hot, he got the sexiest gal imaginable who 'speaks
 little English', he's got the koolest IT toys, and a number of not-cheap
-sports cars. Okay, he's not quite as rich as Tony Stark (*Iron Man 2*),
-but he wins regardless, especially because that Tony Stark (and that
-movie) was far less interesting compared to `the first time`_ I saw it
-(Samuel L. Jackson sux, but not as bad as Don Cheadle).
+sports cars. Okay, he's not quite as rich as Tony Stark (`Iron Man 2`__),
+but he wins regardless.
 
 I haven't watched *Reservoir Dogs* in many years and a revisit wasn't a
 let-down at all. Superb direction, excellent acting, exciting characters
@@ -41,5 +39,5 @@ justifies its existence at all. There's nothing new and movie makers
 know it. WTF! Other than for financial gain, why the fuck did they make
 it?
 
-.. _the first time: http://movies.tshepang.net/recent-movies-2010-05-06
+__ http://movies.tshepang.net/iron-man-2
 __ http://movies.tshepang.net/i-am-legend
