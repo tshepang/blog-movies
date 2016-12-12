@@ -22,7 +22,7 @@ and steers too far from what we've come to learn about the characters.
 
 Like so many big action movies, the movies suffers from
 over-complexity of the plot and action sequences, making it harder to
-follow and appreciate. It doesn't help that it it had a ridiculous
+follow and appreciate. It doesn't help that it had a ridiculous
 number of characters, including 2 surprise additions. Having colorful
 characters can be exciting, but they simply were not needed for the
 story.
