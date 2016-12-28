@@ -49,9 +49,9 @@ pieces.
    and highly-detailed review`_. He's also the one that inspired me to
    watch the movie for he is a huge fan of it, to the point of labeling
    it a masterpice.
--  I've compared this to `*4 Months, 3 Weeks and 2 Days*`_, which is
+-  I've compared this to `4 Months, 3 Weeks and 2 Days`__, which is
    made in a similar style.
 
 .. _Abbas Kiarostami: http://en.wikipedia.org/wiki/Abbas_Kiarostami
 .. _superb and highly-detailed review: http://www.jonathanrosenbaum.com/?p=6061
-.. _*4 Months, 3 Weeks and 2 Days*: http://movies.tshepang.net/4-months-3-weeks-and-2-days-2007
+__ http://movies.tshepang.net/4-months-3-weeks-and-2-days-2007
