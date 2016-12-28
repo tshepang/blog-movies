@@ -6,7 +6,7 @@ Somewhere (2010)
 
 
 
-The lead character of *Somewhere* is rich, famous, and easily fucks
+The lead character of rich, famous, and easily fucks
 ultra-hot gals, yet the only bright thing in his life seems to be her
 beloved daughter (who is given a flawless portrayal). This feeling of
 purposelessness is well-punctuated by Sofia Coppola's superb direction
