@@ -2,7 +2,7 @@ Spotlight
 =========
 
 :date: 2016-03-30
-:tags: very-good, 2015
+:tags: good, 2015
 
 
 
