@@ -7,7 +7,7 @@ Zatoichi
 
 good:
 
-- The concept of a supreme fighter who also happens to be bling was a
+- The concept of a supreme fighter who also happens to be blind was a
   big draw for me.
   That, and the quality direction, makes for compelling viewing.
 - The lead performance is good,
