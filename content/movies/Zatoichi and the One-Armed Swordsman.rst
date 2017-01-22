@@ -13,7 +13,8 @@ There are good moments though,
 but they all seem to involve him in the scene,
 my favorite being when he confronts the gangsters about
 an abduction.
-The only performance I enjoyed is that of the prostitute
+
+The only other performance I enjoyed is that of the prostitute
 that falls for him.
 A darker movie with the same character is Zatoichi__ (2003).
 
