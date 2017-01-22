@@ -18,9 +18,9 @@ bad:
 
 - The geisha story received too much attention...
   it was done well and touching, but also mostly boring.
-- The crazy guy running around with a spear annoying.
-- The violence inflicted by the lead was too often excessive.
-
+- The crazy guy running around with a spear is too annoying.
+- The violence inflicted by the lead was too often excessive...
+  he killed too easily.
 
 
 __ http://movies.tshepang.net/zatoichi-and-the-one-armed-swordman
