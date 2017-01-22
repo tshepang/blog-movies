@@ -12,9 +12,8 @@ early period represented some of the best movie years in recent memory.
 movie of the year
 -----------------
 
-The portrayal of a quiet hero in `Zatoichi`_ is spot-on, and the
-runner-up, the super-fresh `District 9`_, is the best movie to ever come
-out of South Africa.
+The super-fresh `District 9`_ takes the title,
+and is also the best movie to ever come out of South Africa.
 
 best movie
 ----------
@@ -115,7 +114,6 @@ Superhero Movie; Taste of Cherry; Tie Me Up, Tie Me Down; Traitor;
 Valkyrie; Wind Will Carry Us, The; Wrestler, The; Xiao Wu; Zack & Miri
 Make A Porno
 
-.. _Zatoichi: http://movies.tshepang.net/zatoichi
 .. _District 9: http://movies.tshepang.net/district-9-2009
 .. _Baise-moi: http://movies.tshepang.net/baise-moi-2000
 .. _Bamboozled: http://movies.tshepang.net/bamboozled-2000

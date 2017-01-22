@@ -1,20 +1,26 @@
 Zatoichi
 ========
 
-:date: 2009-01-04
+:date: 2017-01-22
+:tags: good, 2003
+
+
+good:
+
+- The concept of a supreme fighter who also happens to be bling was a
+  big draw for me.
+  That, and the quality direction, makes for compelling viewing.
+- The lead performance is good,
+  but I enjoyed it less that of Shintaro Katsu when he took the same
+  role in `Zatoichi and the One-Armed Swordsman`__ (1971).
+
+bad:
+
+- The geisha story received too much attention...
+  it was done well and touching, but also mostly boring.
+- The crazy guy running around with a spear annoying.
+- The violence inflicted by the lead was too often excessive.
 
 
 
-Multiple satisfying lead performances, favorites being the blind man and
-the cross-dresser; highly engaging and oft-touching story with good
-humour; beautiful fight scenes, albeit not as romanticised as your Yuen
-Woo-Ping sort; comic usage of musical beats (and check out the last
-dance); excellent twist(s).
-
-There's an obvious Kirosawa inspiration, less the silly gangsters.
-Another worthy element is that such movies transports one to a very
-foreign culture, which is a real nice break from Hollywood.
-
-How lucky was I to experience this 'inaccessible' movie!
-
-[**sidenote**] `newer review <http://movies.tshepang.net/recent-revisits-2010-08-15>`_
+__ http://movies.tshepang.net/zatoichi-and-the-one-armed-swordman
