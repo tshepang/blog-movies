@@ -12,7 +12,7 @@ My **favorite character** is Black Panther (`Captain America: Civil
 War`_), and Chadwick Boseman gives that character my **favorite
 performance**.
 
-The **best perfromance** is by Simon Helberg in `Florence Foster Jenkins`_.
+The **best performance** is by Simon Helberg in `Florence Foster Jenkins`_.
 
 
 .. _`Captain America: Civil War`: http://movies.tshepang.net/captain-america-civil-war
