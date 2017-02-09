@@ -11,7 +11,7 @@ possesses best **action direction** and **humor**.
 My **favorite character** is Black Panther (`Captain America: Civil
 War`_), and Chadwick Boseman gives that character my **favorite
 performance**.
-Runner-up is Leslie Jones in Ghostbuster_.
+Runner-up **favorite performance** is Leslie Jones in Ghostbuster_.
 
 The **best performance** is by Simon Helberg in `Florence Foster Jenkins`_.
 
