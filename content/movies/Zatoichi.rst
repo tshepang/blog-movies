@@ -23,4 +23,4 @@ bad:
   he killed too easily.
 
 
-__ http://movies.tshepang.net/zatoichi-and-the-one-armed-swordman
+__ http://movies.tshepang.net/zatoichi-and-the-one-armed-swordsman
