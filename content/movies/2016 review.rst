@@ -12,11 +12,13 @@ My **favorite character** is Black Panther (`Captain America: Civil
 War`_), and Chadwick Boseman gives that character my **favorite
 performance**.
 Runner-up **favorite performance** is Leslie Jones in Ghostbusters_.
-
 The **best performance** is by Simon Helberg in `Florence Foster Jenkins`_.
+The best **character design** is that of the Hollows of
+`Miss Peregrine's Home for Peculiar Children`_.
 
 
 .. _`Captain America: Civil War`: http://movies.tshepang.net/captain-america-civil-war
 .. _`Florence Foster Jenkins`: http://movies.tshepang.net/florence-foster-jenkins
 .. _Deadpool: http://movies.tshepang.net/deadpool
 .. _Ghostbusters: http://movies.tshepang.net/ghostbusters
+.. _Miss Peregrine's Home for Peculiar Children: http://movies.tshepang.net/miss-peregrines-home-for-peculiar-children
