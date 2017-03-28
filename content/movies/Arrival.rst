@@ -8,7 +8,7 @@ Arrival
 
 Never have I seen the idea of aliens portrayed with such realism.
 The attempts at communication is exhilarating,
-the kind that Contact (1997) gave when I first watched it.
+the kind that *Contact* (1997) gave when I first watched it.
 Sadly, like that earlier movie,
 the movie focuses way too much on the lead...
 I would have preferred more attention given to the event.
