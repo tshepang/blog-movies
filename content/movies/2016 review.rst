@@ -8,10 +8,8 @@
 The best **visual effects** can be found in Deadpool_,
 a movie that also boasts best **action direction** and **humor**.
 
-My **favorite character** is Black Panther (`Captain America: Civil
-War`_), and Chadwick Boseman gives that character my **favorite
-performance**.
-Runner-up **favorite performance** is Leslie Jones in Ghostbusters_.
+My **favorite character** is Black Panther (`Captain America: Civil War`_),
+and runner-up is Leslie Jones in Ghostbusters_.
 The **best performance** is by Simon Helberg in `Florence Foster Jenkins`_.
 The best **character design** is that of the Hollows of
 `Miss Peregrine's Home for Peculiar Children`_.
