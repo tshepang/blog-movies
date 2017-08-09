@@ -4,6 +4,8 @@
 :tags: year-review, 2016
 
 
+The **best movie** of the year is `Captain Fantastic`_.
+The movie also boasts **best direction**, and **best script**.
 
 The best **visual effects** can be found in Deadpool_,
 a movie that also boasts best **action direction** and **humor**.
@@ -20,3 +22,4 @@ while the best **character design** is that of the Hollows of
 .. _Deadpool: http://movies.tshepang.net/deadpool
 .. _Ghostbusters: http://movies.tshepang.net/ghostbusters
 .. _Miss Peregrine's Home for Peculiar Children: http://movies.tshepang.net/miss-peregrines-home-for-peculiar-children
+.. _Captain Fantastic: http://movies.tshepang.net/captain-fantastic
