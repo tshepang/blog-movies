@@ -5,8 +5,8 @@
 
 
 
-The best **visual effects** can be found in Deadpool_, which also
-possesses best **action direction** and **humor**.
+The best **visual effects** can be found in Deadpool_,
+a movie that also boasts best **action direction** and **humor**.
 
 My **favorite character** is Black Panther (`Captain America: Civil
 War`_), and Chadwick Boseman gives that character my **favorite
